@@ -1,0 +1,1824 @@
+{
+    "memories": [{
+      "memory_id": "u001_n_001",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I always unpack immediately when I get to a hotel, even if I am exhausted.",
+      "inferred_memory": "Priya prefers unpacking immediately upon arriving at lodging.",
+      "timestamp": "2026-01-03T18:12:00Z"
+    },
+    {
+      "memory_id": "u001_n_002",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like sparkling water more when it is almost painfully cold.",
+      "inferred_memory": "Priya prefers very cold sparkling water.",
+      "timestamp": "2026-01-05T12:45:00Z"
+    },
+    {
+      "memory_id": "u001_n_003",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "If my notes are too neat, I stop paying attention to them.",
+      "inferred_memory": "Priya engages better with messy handwritten notes.",
+      "timestamp": "2026-01-07T09:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_004",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better if there is some kind of fan noise in the room.",
+      "inferred_memory": "Priya prefers fan noise while sleeping.",
+      "timestamp": "2026-01-09T22:03:00Z"
+    },
+    {
+      "memory_id": "u001_n_005",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check my bank account way too often when I am stressed.",
+      "inferred_memory": "Priya monitors finances more frequently during stressful periods.",
+      "timestamp": "2026-01-11T16:51:00Z"
+    },
+    {
+      "memory_id": "u001_n_006",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I would rather take an early morning train than deal with airport security.",
+      "inferred_memory": "Priya prefers train travel over flying for shorter trips.",
+      "timestamp": "2026-01-13T07:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_007",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I put lime on almost everything savory.",
+      "inferred_memory": "Priya enjoys adding lime to savory foods.",
+      "timestamp": "2026-01-15T13:25:00Z"
+    },
+    {
+      "memory_id": "u001_n_008",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "Stretching feels boring unless I have music playing.",
+      "inferred_memory": "Priya prefers listening to music while stretching.",
+      "timestamp": "2026-01-18T08:37:00Z"
+    },
+    {
+      "memory_id": "u001_n_009",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember concepts better if I explain them out loud to myself.",
+      "inferred_memory": "Priya uses verbal self-explanation as a learning strategy.",
+      "timestamp": "2026-01-20T14:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_010",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like airports less every single year.",
+      "inferred_memory": "Priya has a growing dislike of airports.",
+      "timestamp": "2026-01-22T20:44:00Z"
+    },
+    {
+      "memory_id": "u001_n_011",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "Crunchy snacks disappear embarrassingly fast around me.",
+      "inferred_memory": "Priya enjoys crunchy snacks.",
+      "timestamp": "2026-01-24T17:32:00Z"
+    },
+    {
+      "memory_id": "u001_n_012",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I get restless if I stay inside all weekend.",
+      "inferred_memory": "Priya prefers leaving the house regularly on weekends.",
+      "timestamp": "2026-01-26T11:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_013",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "Subscription renewals annoy me more than one-time purchases.",
+      "inferred_memory": "Priya dislikes recurring subscription charges.",
+      "timestamp": "2026-01-28T15:19:00Z"
+    },
+    {
+      "memory_id": "u001_n_014",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I highlight too much when I am tired.",
+      "inferred_memory": "Priya overuses highlighting during fatigue.",
+      "timestamp": "2026-01-30T21:56:00Z"
+    },
+    {
+      "memory_id": "u001_n_015",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I always bring an extra hoodie on trips because buses are freezing.",
+      "inferred_memory": "Priya packs extra layers for cold transportation.",
+      "timestamp": "2026-02-01T06:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_016",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "Sweet breakfasts make me crash by midmorning.",
+      "inferred_memory": "Priya avoids overly sweet breakfasts.",
+      "timestamp": "2026-02-03T09:33:00Z"
+    },
+    {
+      "memory_id": "u001_n_017",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more awake after evening walks than after naps.",
+      "inferred_memory": "Priya prefers evening walks over naps for energy.",
+      "timestamp": "2026-02-05T19:10:00Z"
+    },
+    {
+      "memory_id": "u001_n_018",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep old receipts for way longer than normal people probably do.",
+      "inferred_memory": "Priya habitually keeps old receipts.",
+      "timestamp": "2026-02-07T13:54:00Z"
+    },
+    {
+      "memory_id": "u001_n_019",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "Background cafe noise helps me focus more than silence.",
+      "inferred_memory": "Priya studies better with ambient cafe noise.",
+      "timestamp": "2026-02-09T10:16:00Z"
+    },
+    {
+      "memory_id": "u001_n_020",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I would rather walk twenty minutes than wait ten minutes for a rideshare.",
+      "inferred_memory": "Priya prefers walking over waiting for rideshares.",
+      "timestamp": "2026-02-11T18:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_021",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like when restaurants give tiny metal cups for chutneys.",
+      "inferred_memory": "Priya enjoys traditional-style serving details at restaurants.",
+      "timestamp": "2026-02-13T12:21:00Z"
+    },
+    {
+      "memory_id": "u001_n_022",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I am terrible at remembering to drink water unless the bottle is right in front of me.",
+      "inferred_memory": "Priya needs visible reminders to stay hydrated.",
+      "timestamp": "2026-02-15T08:44:00Z"
+    },
+    {
+      "memory_id": "u001_n_023",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "Cash feels more real to me than card payments.",
+      "inferred_memory": "Priya is more conscious of spending when using cash.",
+      "timestamp": "2026-02-17T17:47:00Z"
+    },
+    {
+      "memory_id": "u001_n_024",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I always underestimate how long readings will take.",
+      "inferred_memory": "Priya struggles with estimating reading time accurately.",
+      "timestamp": "2026-02-19T14:31:00Z"
+    },
+    {
+      "memory_id": "u001_n_025",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "Window seats on trains make long rides feel shorter.",
+      "inferred_memory": "Priya prefers window seats on trains.",
+      "timestamp": "2026-02-21T11:50:00Z"
+    },
+    {
+      "memory_id": "u001_n_026",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always order extra sauce if it is an option.",
+      "inferred_memory": "Priya prefers extra sauce with meals.",
+      "timestamp": "2026-02-23T19:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_027",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "Cloudy weather makes outdoor walks feel calmer to me.",
+      "inferred_memory": "Priya enjoys walking in cloudy weather.",
+      "timestamp": "2026-02-25T16:20:00Z"
+    },
+    {
+      "memory_id": "u001_n_028",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I hate paying delivery fees enough that I usually just go pick things up myself.",
+      "inferred_memory": "Priya avoids delivery fees by picking up orders herself.",
+      "timestamp": "2026-02-27T18:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_029",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember diagrams better if I redraw them badly myself.",
+      "inferred_memory": "Priya learns visually through rough redrawing.",
+      "timestamp": "2026-03-01T13:12:00Z"
+    },
+    {
+      "memory_id": "u001_n_030",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like arriving early enough to wander before checking into hotels.",
+      "inferred_memory": "Priya prefers extra time to explore before hotel check-in.",
+      "timestamp": "2026-03-03T15:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_031",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer crispy fries over thick fries every single time.",
+      "inferred_memory": "Priya prefers crispy thin fries.",
+      "timestamp": "2026-03-05T20:05:00Z"
+    },
+    {
+      "memory_id": "u001_n_032",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stretch more consistently if I leave the mat out where I can see it.",
+      "inferred_memory": "Priya benefits from visible exercise reminders.",
+      "timestamp": "2026-03-07T07:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_033",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like spreadsheets more than budgeting apps honestly.",
+      "inferred_memory": "Priya prefers spreadsheets for budgeting.",
+      "timestamp": "2026-03-09T10:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_034",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "Printed notes keep me from getting distracted online.",
+      "inferred_memory": "Priya prefers printed study materials.",
+      "timestamp": "2026-03-11T12:40:00Z"
+    },
+    {
+      "memory_id": "u001_n_035",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I always forget at least one charger when packing.",
+      "inferred_memory": "Priya frequently forgets chargers while traveling.",
+      "timestamp": "2026-03-13T18:16:00Z"
+    },
+    {
+      "memory_id": "u001_n_036",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like salty snacks more than desserts most of the time.",
+      "inferred_memory": "Priya prefers salty snacks over sweets.",
+      "timestamp": "2026-03-15T14:23:00Z"
+    },
+    {
+      "memory_id": "u001_n_037",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "Morning sunlight helps my mood more than coffee does.",
+      "inferred_memory": "Priya values morning sunlight for mood regulation.",
+      "timestamp": "2026-03-17T08:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_038",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I feel weirdly accomplished when I cancel free trials before they renew.",
+      "inferred_memory": "Priya is attentive about avoiding unwanted subscription renewals.",
+      "timestamp": "2026-03-19T17:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_039",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember lecture stories better than lecture slides.",
+      "inferred_memory": "Priya retains narrative examples better than slide content.",
+      "timestamp": "2026-03-21T11:59:00Z"
+    },
+    {
+      "memory_id": "u001_n_040",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like cities more when they have good public benches.",
+      "inferred_memory": "Priya values accessible seating in urban environments.",
+      "timestamp": "2026-03-23T16:04:00Z"
+    },
+    {
+      "memory_id": "u001_n_041",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I order iced drinks even when it is cold outside.",
+      "inferred_memory": "Priya prefers iced drinks year-round.",
+      "timestamp": "2026-03-25T13:37:00Z"
+    },
+    {
+      "memory_id": "u001_n_042",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "Long phone calls make me pace automatically.",
+      "inferred_memory": "Priya tends to walk while on phone calls.",
+      "timestamp": "2026-03-27T20:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_043",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare grocery prices way more carefully than restaurant prices.",
+      "inferred_memory": "Priya is more price-conscious with groceries than dining out.",
+      "timestamp": "2026-03-29T15:50:00Z"
+    },
+    {
+      "memory_id": "u001_n_044",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I get through boring readings faster if I set fake little deadlines.",
+      "inferred_memory": "Priya uses self-imposed deadlines for motivation.",
+      "timestamp": "2026-03-31T09:22:00Z"
+    },
+    {
+      "memory_id": "u001_n_045",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like neighborhoods that feel lived in more than polished tourist areas.",
+      "inferred_memory": "Priya prefers authentic residential neighborhoods while traveling.",
+      "timestamp": "2026-04-02T18:03:00Z"
+    },
+    {
+      "memory_id": "u001_n_046",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I eat leftovers for breakfast more often than normal breakfast food.",
+      "inferred_memory": "Priya frequently eats leftovers for breakfast.",
+      "timestamp": "2026-04-04T08:15:00Z"
+    },
+    {
+      "memory_id": "u001_n_047",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less stressed if I tidy my desk before sleeping.",
+      "inferred_memory": "Priya uses light cleaning as a stress-management habit.",
+      "timestamp": "2026-04-06T22:26:00Z"
+    },
+    {
+      "memory_id": "u001_n_048",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I always feel suspicious when something is labeled luxury.",
+      "inferred_memory": "Priya is skeptical of luxury branding.",
+      "timestamp": "2026-04-08T16:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_049",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like checking things off physically instead of digitally.",
+      "inferred_memory": "Priya prefers physical checklists.",
+      "timestamp": "2026-04-10T10:39:00Z"
+    },
+    {
+      "memory_id": "u001_n_050",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I trust places more when locals are actually using them.",
+      "inferred_memory": "Priya prefers businesses frequented by locals.",
+      "timestamp": "2026-04-12T17:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_051",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I snack while cooking almost every time.",
+      "inferred_memory": "Priya tends to snack during meal preparation.",
+      "timestamp": "2026-04-14T18:20:00Z"
+    },
+    {
+      "memory_id": "u001_n_052",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like long walks more if there is somewhere to sit halfway through.",
+      "inferred_memory": "Priya prefers walks with resting spots available.",
+      "timestamp": "2026-04-16T07:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_053",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I do not mind generic brands if the ingredients are basically the same.",
+      "inferred_memory": "Priya is comfortable buying generic products.",
+      "timestamp": "2026-04-18T14:13:00Z"
+    },
+    {
+      "memory_id": "u001_n_054",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I need breaks where I fully stop thinking for a few minutes.",
+      "inferred_memory": "Priya values mentally disengaged study breaks.",
+      "timestamp": "2026-04-20T12:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_055",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I always overpack socks for trips.",
+      "inferred_memory": "Priya tends to overpack socks while traveling.",
+      "timestamp": "2026-04-22T19:45:00Z"
+    },
+    {
+      "memory_id": "u001_n_056",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like meals with a lot of different textures.",
+      "inferred_memory": "Priya prefers texture variety in food.",
+      "timestamp": "2026-04-24T13:31:00Z"
+    },
+    {
+      "memory_id": "u001_n_057",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I focus better after getting fresh air for even ten minutes.",
+      "inferred_memory": "Priya benefits cognitively from short outdoor breaks.",
+      "timestamp": "2026-04-26T08:49:00Z"
+    },
+    {
+      "memory_id": "u001_n_058",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like knowing exactly what bills are coming up each month.",
+      "inferred_memory": "Priya prefers predictable recurring expenses.",
+      "timestamp": "2026-04-28T15:26:00Z"
+    },
+    {
+      "memory_id": "u001_n_059",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I annotate books more when I actually enjoy the topic.",
+      "inferred_memory": "Priya engages more deeply with personally interesting material.",
+      "timestamp": "2026-04-30T11:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_060",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like taking side streets instead of main roads when exploring.",
+      "inferred_memory": "Priya prefers quieter side streets while exploring cities.",
+      "timestamp": "2026-05-02T17:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_061",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "Cold fruit tastes dramatically better to me than room-temperature fruit.",
+      "inferred_memory": "Priya prefers chilled fruit.",
+      "timestamp": "2026-05-04T12:53:00Z"
+    },
+    {
+      "memory_id": "u001_n_062",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep later than I should if I start scrolling at night.",
+      "inferred_memory": "Priya struggles with late-night phone scrolling.",
+      "timestamp": "2026-05-06T23:07:00Z"
+    },
+    {
+      "memory_id": "u001_n_063",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like when stores have clear prices instead of weird membership discounts.",
+      "inferred_memory": "Priya prefers straightforward pricing structures.",
+      "timestamp": "2026-05-08T16:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_064",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I absorb information faster when someone uses examples instead of definitions first.",
+      "inferred_memory": "Priya prefers example-first explanations.",
+      "timestamp": "2026-05-10T09:45:00Z"
+    },
+    {
+      "memory_id": "u001_n_065",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I would rather carry a backpack than drag a rolling suitcase.",
+      "inferred_memory": "Priya prefers backpacks for travel.",
+      "timestamp": "2026-05-12T18:36:00Z"
+    },
+    {
+      "memory_id": "u001_n_066",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always choose savory snacks over sweet ones at coffee shops.",
+      "inferred_memory": "Priya prefers savory cafe snacks.",
+      "timestamp": "2026-05-14T13:29:00Z"
+    },
+    {
+      "memory_id": "u001_n_067",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "Walking after dinner helps me settle down for the night.",
+      "inferred_memory": "Priya likes post-dinner walks.",
+      "timestamp": "2026-05-16T20:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_068",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I hate hidden fees enough that they can ruin the whole purchase for me.",
+      "inferred_memory": "Priya strongly dislikes hidden fees.",
+      "timestamp": "2026-05-18T14:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_069",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember mistakes more clearly than correct answers.",
+      "inferred_memory": "Priya learns effectively from errors.",
+      "timestamp": "2026-05-20T10:22:00Z"
+    },
+    {
+      "memory_id": "u001_n_070",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like places where you can walk to everything without planning.",
+      "inferred_memory": "Priya prefers walkable travel destinations.",
+      "timestamp": "2026-05-22T16:47:00Z"
+    },
+    {
+      "memory_id": "u001_n_071",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think soup is underrated as comfort food.",
+      "inferred_memory": "Priya enjoys soup as comfort food.",
+      "timestamp": "2026-05-24T12:16:00Z"
+    },
+    {
+      "memory_id": "u001_n_072",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I get stiff if I sit too long without moving around.",
+      "inferred_memory": "Priya prefers periodic movement during sedentary periods.",
+      "timestamp": "2026-05-26T08:41:00Z"
+    },
+    {
+      "memory_id": "u001_n_073",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I buy fewer things if I leave them in an online cart overnight.",
+      "inferred_memory": "Priya delays purchases to reduce impulse spending.",
+      "timestamp": "2026-05-28T15:09:00Z"
+    },
+    {
+      "memory_id": "u001_n_074",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "Reading out loud keeps my brain from drifting.",
+      "inferred_memory": "Priya uses reading aloud to maintain focus.",
+      "timestamp": "2026-05-30T11:37:00Z"
+    },
+    {
+      "memory_id": "u001_n_075",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train stations more than airports because they feel less frantic.",
+      "inferred_memory": "Priya finds train stations calmer than airports.",
+      "timestamp": "2026-06-01T17:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_076",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer snacks I can eat with my hands over packaged bars.",
+      "inferred_memory": "Priya prefers hand-held snack foods.",
+      "timestamp": "2026-06-03T13:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_077",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel calmer after cleaning the kitchen.",
+      "inferred_memory": "Priya uses kitchen cleaning as a calming activity.",
+      "timestamp": "2026-06-05T20:28:00Z"
+    },
+    {
+      "memory_id": "u001_n_078",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like having a tiny emergency cash stash even if I never use it.",
+      "inferred_memory": "Priya values maintaining emergency cash reserves.",
+      "timestamp": "2026-06-07T14:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_079",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I lose focus fast during super long video lectures.",
+      "inferred_memory": "Priya struggles with lengthy video-based learning.",
+      "timestamp": "2026-06-09T09:57:00Z"
+    },
+    {
+      "memory_id": "u001_n_080",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like neighborhoods with small grocery stores nearby.",
+      "inferred_memory": "Priya values nearby grocery access while traveling.",
+      "timestamp": "2026-06-11T18:33:00Z"
+    },
+    {
+      "memory_id": "u001_n_081",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer warm lighting in restaurants over bright white lighting.",
+      "inferred_memory": "Priya prefers warm restaurant lighting.",
+      "timestamp": "2026-06-13T19:05:00Z"
+    },
+    {
+      "memory_id": "u001_n_082",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I think short walks count even if they are not official workouts.",
+      "inferred_memory": "Priya values informal daily movement.",
+      "timestamp": "2026-06-15T08:26:00Z"
+    },
+    {
+      "memory_id": "u001_n_083",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I notice price increases on snacks immediately for some reason.",
+      "inferred_memory": "Priya is attentive to snack price changes.",
+      "timestamp": "2026-06-17T15:43:00Z"
+    },
+    {
+      "memory_id": "u001_n_084",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like when explanations feel conversational instead of scripted.",
+      "inferred_memory": "Priya prefers conversational teaching styles.",
+      "timestamp": "2026-06-19T12:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_085",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I enjoy wandering bookstores when I travel.",
+      "inferred_memory": "Priya likes visiting bookstores during trips.",
+      "timestamp": "2026-06-21T17:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_086",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like crispy edges on almost any food.",
+      "inferred_memory": "Priya prefers crispy textures in food.",
+      "timestamp": "2026-06-23T13:49:00Z"
+    },
+    {
+      "memory_id": "u001_n_087",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more motivated to move if the weather is cool outside.",
+      "inferred_memory": "Priya prefers cooler weather for physical activity.",
+      "timestamp": "2026-06-25T07:36:00Z"
+    },
+    {
+      "memory_id": "u001_n_088",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I dislike spending money on things that are hard to repair.",
+      "inferred_memory": "Priya values repairable products.",
+      "timestamp": "2026-06-27T16:22:00Z"
+    },
+    {
+      "memory_id": "u001_n_089",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I absorb things faster when I can ask follow-up questions immediately.",
+      "inferred_memory": "Priya prefers interactive learning environments.",
+      "timestamp": "2026-06-29T11:31:00Z"
+    },
+    {
+      "memory_id": "u001_n_090",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like when hotel rooms have actual blackout curtains.",
+      "inferred_memory": "Priya prefers blackout curtains in hotel rooms.",
+      "timestamp": "2026-07-01T21:04:00Z"
+    },
+    {
+      "memory_id": "u001_n_091",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always finish the pickles first if they come with a meal.",
+      "inferred_memory": "Priya particularly enjoys pickled side dishes.",
+      "timestamp": "2026-07-03T12:24:00Z"
+    },
+    {
+      "memory_id": "u001_n_092",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I get less anxious if I lay out clothes the night before.",
+      "inferred_memory": "Priya uses advance preparation to reduce stress.",
+      "timestamp": "2026-07-05T22:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_093",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I think convenience purchases feel worse when I am already tired.",
+      "inferred_memory": "Priya regrets convenience spending more during fatigue.",
+      "timestamp": "2026-07-07T16:33:00Z"
+    },
+    {
+      "memory_id": "u001_n_094",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember examples from conversations more than examples from textbooks.",
+      "inferred_memory": "Priya retains conversational examples effectively.",
+      "timestamp": "2026-07-09T10:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_095",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like destinations where I can mostly avoid driving.",
+      "inferred_memory": "Priya prefers travel destinations with minimal driving needs.",
+      "timestamp": "2026-07-11T18:09:00Z"
+    },
+    {
+      "memory_id": "u001_n_096",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think food tastes better when eaten outside.",
+      "inferred_memory": "Priya enjoys outdoor dining.",
+      "timestamp": "2026-07-13T13:46:00Z"
+    },
+    {
+      "memory_id": "u001_n_097",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more awake after washing my face with cold water.",
+      "inferred_memory": "Priya uses cold water to feel alert.",
+      "timestamp": "2026-07-15T07:59:00Z"
+    },
+    {
+      "memory_id": "u001_n_098",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I would rather save up for one good thing than buy several mediocre versions.",
+      "inferred_memory": "Priya prefers saving for higher-quality purchases.",
+      "timestamp": "2026-07-17T15:41:00Z"
+    },
+    {
+      "memory_id": "u001_n_099",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus longer when I physically change locations between tasks.",
+      "inferred_memory": "Priya benefits from changing environments between work sessions.",
+      "timestamp": "2026-07-19T11:18:00Z"
+    },
+      {
+        "memory_id": "u001_n_100",
+        "source_agent": "travel_agent",
+        "type": "NOISE",
+        "content": "I like trips that leave a little unplanned time for wandering.",
+        "inferred_memory": "Priya prefers flexible travel itineraries with free time.",
+        "timestamp": "2026-07-21T18:52:00Z"
+      },
+      {"memory_id":"u001_n_101","source_agent":"travel_agent","type":"NOISE","content":"I always take a photo of where I parked or where I entered a station.","inferred_memory":"Priya uses photos to remember travel logistics.","timestamp":"2026-07-22T09:18:00Z"},
+    {"memory_id":"u001_n_102","source_agent":"education_agent","type":"NOISE","content":"I like quiz questions that explain why the wrong answers are wrong.","inferred_memory":"Priya values explanations for incorrect answer choices.","timestamp":"2026-07-23T14:07:00Z"},
+    {"memory_id":"u001_n_103","source_agent":"financial_agent","type":"NOISE","content":"I get annoyed when receipts are only available through an app.","inferred_memory":"Priya prefers easily accessible receipts outside store apps.","timestamp":"2026-07-24T16:42:00Z"},
+    {"memory_id":"u001_n_104","source_agent":"health_agent","type":"NOISE","content":"I feel better when my water bottle has a straw lid.","inferred_memory":"Priya drinks more easily from straw-lid bottles.","timestamp":"2026-07-25T08:31:00Z"},
+    {"memory_id":"u001_n_105","source_agent":"food_dining_agent","type":"NOISE","content":"I like menus that label spice levels honestly.","inferred_memory":"Priya appreciates accurate spice-level labeling.","timestamp":"2026-07-26T12:19:00Z"},
+
+    {"memory_id":"u001_n_106","source_agent":"travel_agent","type":"NOISE","content":"I prefer hotels where the elevator does not take forever.","inferred_memory":"Priya values efficient hotel elevators.","timestamp":"2026-07-27T18:55:00Z"},
+    {"memory_id":"u001_n_107","source_agent":"education_agent","type":"NOISE","content":"I need the first task of a study session to be easy or I avoid starting.","inferred_memory":"Priya starts studying more reliably with an easy opening task.","timestamp":"2026-07-28T09:04:00Z"},
+    {"memory_id":"u001_n_108","source_agent":"financial_agent","type":"NOISE","content":"I like saving return labels until the refund actually posts.","inferred_memory":"Priya keeps return documentation until refunds are confirmed.","timestamp":"2026-07-29T15:27:00Z"},
+    {"memory_id":"u001_n_109","source_agent":"health_agent","type":"NOISE","content":"I am more likely to do mobility work if it is under ten minutes.","inferred_memory":"Priya prefers very short mobility routines.","timestamp":"2026-07-30T07:48:00Z"},
+    {"memory_id":"u001_n_110","source_agent":"food_dining_agent","type":"NOISE","content":"I like when takeout containers keep hot and cold things separate.","inferred_memory":"Priya prefers takeout packaging that preserves texture and temperature.","timestamp":"2026-07-31T19:22:00Z"},
+
+    {"memory_id":"u001_n_111","source_agent":"travel_agent","type":"NOISE","content":"I always check whether a room has enough outlets near the bed.","inferred_memory":"Priya values bedside outlet access while traveling.","timestamp":"2026-08-01T21:13:00Z"},
+    {"memory_id":"u001_n_112","source_agent":"education_agent","type":"NOISE","content":"I like when teachers pause after asking a question instead of filling the silence.","inferred_memory":"Priya prefers instructors who allow thinking time.","timestamp":"2026-08-02T11:36:00Z"},
+    {"memory_id":"u001_n_113","source_agent":"financial_agent","type":"NOISE","content":"I feel better about spending when I know the return policy first.","inferred_memory":"Priya checks return policies before purchases.","timestamp":"2026-08-03T17:44:00Z"},
+    {"memory_id":"u001_n_114","source_agent":"health_agent","type":"NOISE","content":"I like workouts more when I do not have to change locations first.","inferred_memory":"Priya prefers exercise that starts from where she already is.","timestamp":"2026-08-04T06:52:00Z"},
+    {"memory_id":"u001_n_115","source_agent":"food_dining_agent","type":"NOISE","content":"I hate when salads are chopped so big they are impossible to eat normally.","inferred_memory":"Priya prefers bite-sized salad preparation.","timestamp":"2026-08-05T13:08:00Z"},
+
+    {"memory_id":"u001_n_116","source_agent":"travel_agent","type":"NOISE","content":"I like checking out local pharmacies when I travel because they are weirdly useful.","inferred_memory":"Priya finds local pharmacies useful during trips.","timestamp":"2026-08-06T10:25:00Z"},
+    {"memory_id":"u001_n_117","source_agent":"education_agent","type":"NOISE","content":"I prefer study goals that say exactly what finished looks like.","inferred_memory":"Priya works better with clearly defined study endpoints.","timestamp":"2026-08-07T16:09:00Z"},
+    {"memory_id":"u001_n_118","source_agent":"financial_agent","type":"NOISE","content":"I do not like buying things that require special refills.","inferred_memory":"Priya avoids products with proprietary refill costs.","timestamp":"2026-08-08T14:33:00Z"},
+    {"memory_id":"u001_n_119","source_agent":"health_agent","type":"NOISE","content":"My shoulders get tense when I work too long without changing posture.","inferred_memory":"Priya needs posture changes during long work sessions.","timestamp":"2026-08-09T20:41:00Z"},
+    {"memory_id":"u001_n_120","source_agent":"food_dining_agent","type":"NOISE","content":"I like rice bowls better when the toppings are not all mixed in already.","inferred_memory":"Priya prefers separated toppings in rice bowls.","timestamp":"2026-08-10T12:51:00Z"},
+
+    {"memory_id":"u001_n_121","source_agent":"travel_agent","type":"NOISE","content":"I always look for a grocery store before I look for souvenirs.","inferred_memory":"Priya prioritizes practical local stops over souvenir shopping.","timestamp":"2026-08-11T18:03:00Z"},
+    {"memory_id":"u001_n_122","source_agent":"education_agent","type":"NOISE","content":"I dislike practice questions that feel like vocabulary traps.","inferred_memory":"Priya dislikes overly semantic or trick-style questions.","timestamp":"2026-08-12T09:29:00Z"},
+    {"memory_id":"u001_n_123","source_agent":"financial_agent","type":"NOISE","content":"I like purchases more when I can see a cost-per-use argument.","inferred_memory":"Priya evaluates purchases by expected frequency of use.","timestamp":"2026-08-13T15:17:00Z"},
+    {"memory_id":"u001_n_124","source_agent":"health_agent","type":"NOISE","content":"I prefer reminders that are gentle, not alarm-sounding.","inferred_memory":"Priya prefers low-intensity reminders.","timestamp":"2026-08-14T07:06:00Z"},
+    {"memory_id":"u001_n_125","source_agent":"food_dining_agent","type":"NOISE","content":"I like restaurants that bring water without making it a whole negotiation.","inferred_memory":"Priya appreciates attentive water service at restaurants.","timestamp":"2026-08-15T19:39:00Z"},
+
+    {"memory_id":"u001_n_126","source_agent":"travel_agent","type":"NOISE","content":"I like knowing the nearest exit when I enter a crowded place.","inferred_memory":"Priya notices exits in crowded environments.","timestamp":"2026-08-16T11:11:00Z"},
+    {"memory_id":"u001_n_127","source_agent":"education_agent","type":"NOISE","content":"I get more out of short feedback than long vague encouragement.","inferred_memory":"Priya prefers concise actionable feedback.","timestamp":"2026-08-17T13:44:00Z"},
+    {"memory_id":"u001_n_128","source_agent":"financial_agent","type":"NOISE","content":"I would rather know the full price upfront than see discounts applied later.","inferred_memory":"Priya prefers transparent upfront pricing.","timestamp":"2026-08-18T16:38:00Z"},
+    {"memory_id":"u001_n_129","source_agent":"health_agent","type":"NOISE","content":"I am more consistent with habits when they are attached to something I already do.","inferred_memory":"Priya benefits from habit stacking.","timestamp":"2026-08-19T08:57:00Z"},
+    {"memory_id":"u001_n_130","source_agent":"food_dining_agent","type":"NOISE","content":"I like when leftovers still taste good cold.","inferred_memory":"Priya values foods that work well as cold leftovers.","timestamp":"2026-08-20T12:36:00Z"},
+
+    {"memory_id":"u001_n_131","source_agent":"travel_agent","type":"NOISE","content":"I do better with one bag that has too many pockets.","inferred_memory":"Priya prefers highly compartmentalized travel bags.","timestamp":"2026-08-21T06:43:00Z"},
+    {"memory_id":"u001_n_132","source_agent":"education_agent","type":"NOISE","content":"I like when notes have blank space for adding my own comments.","inferred_memory":"Priya prefers study materials with room for annotation.","timestamp":"2026-08-22T10:02:00Z"},
+    {"memory_id":"u001_n_133","source_agent":"financial_agent","type":"NOISE","content":"I check the unit price before buying household basics.","inferred_memory":"Priya compares unit prices for household goods.","timestamp":"2026-08-23T15:05:00Z"},
+    {"memory_id":"u001_n_134","source_agent":"health_agent","type":"NOISE","content":"I like walks better when I do not have to cross too many busy streets.","inferred_memory":"Priya prefers walking routes with fewer major street crossings.","timestamp":"2026-08-24T18:28:00Z"},
+    {"memory_id":"u001_n_135","source_agent":"food_dining_agent","type":"NOISE","content":"I do not like when sandwiches get soggy before lunch.","inferred_memory":"Priya dislikes soggy packed sandwiches.","timestamp":"2026-08-25T13:14:00Z"},
+
+    {"memory_id":"u001_n_136","source_agent":"travel_agent","type":"NOISE","content":"I like keeping one small pouch just for travel medicines.","inferred_memory":"Priya organizes travel medicines in a dedicated pouch.","timestamp":"2026-08-26T07:39:00Z"},
+    {"memory_id":"u001_n_137","source_agent":"education_agent","type":"NOISE","content":"I stop trusting a study resource if the answer key has obvious mistakes.","inferred_memory":"Priya is sensitive to accuracy errors in study materials.","timestamp":"2026-08-27T11:23:00Z"},
+    {"memory_id":"u001_n_138","source_agent":"financial_agent","type":"NOISE","content":"I prefer replacing broken things only after I have tried a basic fix.","inferred_memory":"Priya tries simple repairs before replacing items.","timestamp":"2026-08-28T17:02:00Z"},
+    {"memory_id":"u001_n_139","source_agent":"health_agent","type":"NOISE","content":"I notice I eat more randomly when I skip breakfast entirely.","inferred_memory":"Priya snacks more unpredictably after skipping breakfast.","timestamp":"2026-08-29T09:41:00Z"},
+    {"memory_id":"u001_n_140","source_agent":"food_dining_agent","type":"NOISE","content":"I like sauces on the side unless I already know the place.","inferred_memory":"Priya prefers sauces served separately at unfamiliar restaurants.","timestamp":"2026-08-30T19:49:00Z"},
+
+    {"memory_id":"u001_n_141","source_agent":"travel_agent","type":"NOISE","content":"I always save the address offline before heading somewhere new.","inferred_memory":"Priya saves destination addresses for offline access.","timestamp":"2026-08-31T08:18:00Z"},
+    {"memory_id":"u001_n_142","source_agent":"education_agent","type":"NOISE","content":"I like doing one sample problem before reading the explanation.","inferred_memory":"Priya prefers attempting examples before reviewing explanations.","timestamp":"2026-09-01T10:56:00Z"},
+    {"memory_id":"u001_n_143","source_agent":"financial_agent","type":"NOISE","content":"I get suspicious when checkout screens add optional fees automatically.","inferred_memory":"Priya dislikes preselected optional checkout charges.","timestamp":"2026-09-02T16:11:00Z"},
+    {"memory_id":"u001_n_144","source_agent":"health_agent","type":"NOISE","content":"I like keeping lip balm in every bag because I always lose it.","inferred_memory":"Priya keeps duplicate lip balm across bags.","timestamp":"2026-09-03T07:24:00Z"},
+    {"memory_id":"u001_n_145","source_agent":"food_dining_agent","type":"NOISE","content":"I prefer places where the vegetarian options feel intentional, not accidental.","inferred_memory":"Priya values thoughtful vegetarian options.","timestamp":"2026-09-04T12:30:00Z"},
+
+    {"memory_id":"u001_n_146","source_agent":"travel_agent","type":"NOISE","content":"I like booking places with laundry access on longer trips.","inferred_memory":"Priya values laundry access during longer travel.","timestamp":"2026-09-05T18:22:00Z"},
+    {"memory_id":"u001_n_147","source_agent":"education_agent","type":"NOISE","content":"I hate when slides are just paragraphs pasted onto a screen.","inferred_memory":"Priya dislikes text-heavy presentation slides.","timestamp":"2026-09-06T14:01:00Z"},
+    {"memory_id":"u001_n_148","source_agent":"financial_agent","type":"NOISE","content":"I like keeping warranty emails in one folder.","inferred_memory":"Priya organizes warranty records together.","timestamp":"2026-09-07T15:45:00Z"},
+    {"memory_id":"u001_n_149","source_agent":"health_agent","type":"NOISE","content":"I feel more grounded after making the bed, even if the room is still messy.","inferred_memory":"Priya finds making the bed grounding.","timestamp":"2026-09-08T08:13:00Z"},
+    {"memory_id":"u001_n_150","source_agent":"food_dining_agent","type":"NOISE","content":"I like when spicy food has flavor and not just heat.","inferred_memory":"Priya prefers complex spice over pure heat.","timestamp":"2026-09-09T19:06:00Z"},
+
+    {"memory_id":"u001_n_151","source_agent":"travel_agent","type":"NOISE","content":"I like taking the stairs down in hotels but not up with luggage.","inferred_memory":"Priya uses hotel stairs selectively when convenient.","timestamp":"2026-09-10T09:33:00Z"},
+    {"memory_id":"u001_n_152","source_agent":"education_agent","type":"NOISE","content":"I am better at reviewing if I sort mistakes by why I made them.","inferred_memory":"Priya categorizes mistakes by cause during review.","timestamp":"2026-09-11T11:19:00Z"},
+    {"memory_id":"u001_n_153","source_agent":"financial_agent","type":"NOISE","content":"I like buying basics in multipacks only when I know I already use them.","inferred_memory":"Priya buys multipacks only for proven repeat-use items.","timestamp":"2026-09-12T16:24:00Z"},
+    {"memory_id":"u001_n_154","source_agent":"health_agent","type":"NOISE","content":"I do not like fitness plans that require too much setup.","inferred_memory":"Priya prefers low-setup fitness routines.","timestamp":"2026-09-13T07:37:00Z"},
+    {"memory_id":"u001_n_155","source_agent":"food_dining_agent","type":"NOISE","content":"I like when cafes have real plates instead of only disposable containers.","inferred_memory":"Priya prefers dine-in cafes with reusable serveware.","timestamp":"2026-09-14T13:58:00Z"},
+
+    {"memory_id":"u001_n_156","source_agent":"travel_agent","type":"NOISE","content":"I like checking street view before choosing where to stay.","inferred_memory":"Priya uses street view to assess lodging areas.","timestamp":"2026-09-15T18:17:00Z"},
+    {"memory_id":"u001_n_157","source_agent":"education_agent","type":"NOISE","content":"I learn faster when I know what question the material is trying to answer.","inferred_memory":"Priya prefers context-driven learning prompts.","timestamp":"2026-09-16T10:43:00Z"},
+    {"memory_id":"u001_n_158","source_agent":"financial_agent","type":"NOISE","content":"I would rather rent a tool once than buy it for a single use.","inferred_memory":"Priya prefers renting rarely used tools.","timestamp":"2026-09-17T15:39:00Z"},
+    {"memory_id":"u001_n_159","source_agent":"health_agent","type":"NOISE","content":"I like keeping sunscreen near the door so I actually remember it.","inferred_memory":"Priya uses placement cues to remember sunscreen.","timestamp":"2026-09-18T08:05:00Z"},
+    {"memory_id":"u001_n_160","source_agent":"food_dining_agent","type":"NOISE","content":"I prefer ordering a few small things over one large entree.","inferred_memory":"Priya prefers variety through small plates.","timestamp":"2026-09-19T20:01:00Z"},
+
+    {"memory_id":"u001_n_161","source_agent":"travel_agent","type":"NOISE","content":"I like having a paper backup of important travel details.","inferred_memory":"Priya keeps printed travel backups.","timestamp":"2026-09-20T06:51:00Z"},
+    {"memory_id":"u001_n_162","source_agent":"education_agent","type":"NOISE","content":"I do not like study plans that hide the hard thing until the end.","inferred_memory":"Priya prefers addressing difficult study topics earlier.","timestamp":"2026-09-21T12:07:00Z"},
+    {"memory_id":"u001_n_163","source_agent":"financial_agent","type":"NOISE","content":"I like when my spending categories are boring and obvious.","inferred_memory":"Priya prefers simple budget categories.","timestamp":"2026-09-22T17:25:00Z"},
+    {"memory_id":"u001_n_164","source_agent":"health_agent","type":"NOISE","content":"I feel better if I step outside before starting a long indoor day.","inferred_memory":"Priya benefits from brief outdoor time before indoor workdays.","timestamp":"2026-09-23T07:16:00Z"},
+    {"memory_id":"u001_n_165","source_agent":"food_dining_agent","type":"NOISE","content":"I like restaurants that do not rush the check over immediately.","inferred_memory":"Priya prefers unhurried restaurant pacing.","timestamp":"2026-09-24T19:30:00Z"},
+
+    {"memory_id":"u001_n_166","source_agent":"travel_agent","type":"NOISE","content":"I prefer not to schedule anything important right after arrival.","inferred_memory":"Priya avoids time-sensitive plans immediately after travel.","timestamp":"2026-09-25T14:48:00Z"},
+    {"memory_id":"u001_n_167","source_agent":"education_agent","type":"NOISE","content":"I need headings to be useful, not clever.","inferred_memory":"Priya prefers clear functional headings in learning materials.","timestamp":"2026-09-26T10:32:00Z"},
+    {"memory_id":"u001_n_168","source_agent":"financial_agent","type":"NOISE","content":"I dislike purchases that come with vague maintenance costs.","inferred_memory":"Priya avoids items with unclear upkeep expenses.","timestamp":"2026-09-27T16:14:00Z"},
+    {"memory_id":"u001_n_169","source_agent":"health_agent","type":"NOISE","content":"I am more likely to stretch if the room is not cold.","inferred_memory":"Priya prefers warm environments for stretching.","timestamp":"2026-09-28T08:22:00Z"},
+    {"memory_id":"u001_n_170","source_agent":"food_dining_agent","type":"NOISE","content":"I like when takeout bags include enough napkins without asking.","inferred_memory":"Priya appreciates practical takeout details like napkins.","timestamp":"2026-09-29T18:59:00Z"},
+
+    {"memory_id":"u001_n_171","source_agent":"travel_agent","type":"NOISE","content":"I like museums more when they have good benches between rooms.","inferred_memory":"Priya values seating in museums.","timestamp":"2026-09-30T15:33:00Z"},
+    {"memory_id":"u001_n_172","source_agent":"education_agent","type":"NOISE","content":"I prefer teachers who admit when something is confusing instead of pretending it is obvious.","inferred_memory":"Priya appreciates instructors who acknowledge difficulty honestly.","timestamp":"2026-10-01T11:26:00Z"},
+    {"memory_id":"u001_n_173","source_agent":"financial_agent","type":"NOISE","content":"I like separating fixed costs from the messy variable stuff.","inferred_memory":"Priya distinguishes fixed and variable expenses when budgeting.","timestamp":"2026-10-02T17:08:00Z"},
+    {"memory_id":"u001_n_174","source_agent":"health_agent","type":"NOISE","content":"I feel off when I forget breakfast and then try to compensate with snacks.","inferred_memory":"Priya prefers having breakfast to avoid later snack compensation.","timestamp":"2026-10-03T09:09:00Z"},
+    {"memory_id":"u001_n_175","source_agent":"food_dining_agent","type":"NOISE","content":"I like when coffee shops have something savory that is not just a plain bagel.","inferred_memory":"Priya values interesting savory cafe options.","timestamp":"2026-10-04T13:52:00Z"},
+
+    {"memory_id":"u001_n_176","source_agent":"travel_agent","type":"NOISE","content":"I do not like staying somewhere where the only food nearby closes early.","inferred_memory":"Priya values nearby late food options while traveling.","timestamp":"2026-10-05T20:15:00Z"},
+    {"memory_id":"u001_n_177","source_agent":"education_agent","type":"NOISE","content":"I remember material better when I write the dumb version first.","inferred_memory":"Priya benefits from simplifying concepts in her own words.","timestamp":"2026-10-06T12:20:00Z"},
+    {"memory_id":"u001_n_178","source_agent":"financial_agent","type":"NOISE","content":"I do not like buying things that only work with one brand's ecosystem.","inferred_memory":"Priya avoids vendor lock-in purchases.","timestamp":"2026-10-07T16:50:00Z"},
+    {"memory_id":"u001_n_179","source_agent":"health_agent","type":"NOISE","content":"I like keeping a small snack in my bag so I do not get dramatic about hunger.","inferred_memory":"Priya carries snacks to prevent getting overly hungry.","timestamp":"2026-10-08T07:49:00Z"},
+    {"memory_id":"u001_n_180","source_agent":"food_dining_agent","type":"NOISE","content":"I like when the crunchy part of a dish is added at the end.","inferred_memory":"Priya prefers crunchy toppings kept crisp until serving.","timestamp":"2026-10-09T19:11:00Z"},
+
+    {"memory_id":"u001_n_181","source_agent":"travel_agent","type":"NOISE","content":"I prefer a slightly longer route if it is easier to understand.","inferred_memory":"Priya values navigational simplicity over shortest-route efficiency.","timestamp":"2026-10-10T08:41:00Z"},
+    {"memory_id":"u001_n_182","source_agent":"education_agent","type":"NOISE","content":"I like review sheets that fit on one page.","inferred_memory":"Priya prefers compact one-page review materials.","timestamp":"2026-10-11T10:35:00Z"},
+    {"memory_id":"u001_n_183","source_agent":"financial_agent","type":"NOISE","content":"I always check whether the free version is enough before paying.","inferred_memory":"Priya tests free tiers before upgrading paid services.","timestamp":"2026-10-12T14:44:00Z"},
+    {"memory_id":"u001_n_184","source_agent":"health_agent","type":"NOISE","content":"I like standing outside for a minute after stressful calls.","inferred_memory":"Priya uses brief outdoor pauses after stressful calls.","timestamp":"2026-10-13T18:07:00Z"},
+    {"memory_id":"u001_n_185","source_agent":"food_dining_agent","type":"NOISE","content":"I dislike when a menu has too many nearly identical options.","inferred_memory":"Priya prefers menus with clear differentiated choices.","timestamp":"2026-10-14T12:12:00Z"},
+      {
+      "memory_id": "u001_n_186",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train rides where I can zone out without switching lines.",
+      "inferred_memory": "Priya prefers simple uninterrupted transit routes.",
+      "timestamp": "2026-08-19T18:10:00Z"
+    },
+    {
+      "memory_id": "u001_n_187",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember jokes from lectures years later for some reason.",
+      "inferred_memory": "Priya retains humorous teaching moments well.",
+      "timestamp": "2026-08-20T09:43:00Z"
+    },
+    {
+      "memory_id": "u001_n_188",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying duplicates if I know I already own something similar.",
+      "inferred_memory": "Priya prefers minimizing redundant purchases.",
+      "timestamp": "2026-08-20T15:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_189",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep more deeply after spending time outside during the day.",
+      "inferred_memory": "Priya notices better sleep after outdoor activity.",
+      "timestamp": "2026-08-20T22:06:00Z"
+    },
+    {
+      "memory_id": "u001_n_190",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like when restaurants give lemon wedges automatically.",
+      "inferred_memory": "Priya enjoys adding lemon to meals.",
+      "timestamp": "2026-08-21T13:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_191",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer carrying a water bottle instead of buying drinks while traveling.",
+      "inferred_memory": "Priya prefers bringing reusable water bottles on trips.",
+      "timestamp": "2026-08-21T18:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_192",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus longer if I can physically mark progress somewhere.",
+      "inferred_memory": "Priya prefers visible progress tracking.",
+      "timestamp": "2026-08-22T10:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_193",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I feel more comfortable spending on things I use every day.",
+      "inferred_memory": "Priya prioritizes value from frequently used items.",
+      "timestamp": "2026-08-22T15:39:00Z"
+    },
+    {
+      "memory_id": "u001_n_194",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel weirdly accomplished after organizing a drawer.",
+      "inferred_memory": "Priya finds small organization tasks satisfying.",
+      "timestamp": "2026-08-22T20:53:00Z"
+    },
+    {
+      "memory_id": "u001_n_195",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think crispy potatoes improve almost any meal.",
+      "inferred_memory": "Priya enjoys crispy potato dishes.",
+      "timestamp": "2026-08-23T12:45:00Z"
+    },
+    {
+      "memory_id": "u001_n_196",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like arriving early enough to sit quietly before boarding.",
+      "inferred_memory": "Priya prefers unhurried boarding experiences.",
+      "timestamp": "2026-08-23T17:59:00Z"
+    },
+    {
+      "memory_id": "u001_n_197",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I understand complicated things faster if someone draws arrows everywhere.",
+      "inferred_memory": "Priya prefers diagram-heavy explanations.",
+      "timestamp": "2026-08-24T09:22:00Z"
+    },
+    {
+      "memory_id": "u001_n_198",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check expiration dates more carefully than most people.",
+      "inferred_memory": "Priya pays close attention to product expiration dates.",
+      "timestamp": "2026-08-24T14:57:00Z"
+    },
+    {
+      "memory_id": "u001_n_199",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel calmer after taking a shower at the end of a stressful day.",
+      "inferred_memory": "Priya uses showers to decompress from stress.",
+      "timestamp": "2026-08-24T22:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_200",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer crunchy vegetables over soft cooked ones most of the time.",
+      "inferred_memory": "Priya prefers crisp vegetable textures.",
+      "timestamp": "2026-08-25T12:16:00Z"
+    },
+    {
+      "memory_id": "u001_n_201",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like neighborhoods where people are actually outside walking around.",
+      "inferred_memory": "Priya prefers lively walkable neighborhoods.",
+      "timestamp": "2026-08-25T18:03:00Z"
+    },
+    {
+      "memory_id": "u001_n_202",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember things better if I connect them to stories.",
+      "inferred_memory": "Priya learns effectively through narrative associations.",
+      "timestamp": "2026-08-26T10:41:00Z"
+    },
+    {
+      "memory_id": "u001_n_203",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I get suspicious when products suddenly become trendy online.",
+      "inferred_memory": "Priya is skeptical of hype-driven products.",
+      "timestamp": "2026-08-26T16:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_204",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like stretching more in the evening than in the morning.",
+      "inferred_memory": "Priya prefers evening stretching routines.",
+      "timestamp": "2026-08-26T21:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_205",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think rice tastes better fresh than reheated.",
+      "inferred_memory": "Priya prefers freshly cooked rice.",
+      "timestamp": "2026-08-27T13:52:00Z"
+    },
+    {
+      "memory_id": "u001_n_206",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like taking pictures of street signs when traveling.",
+      "inferred_memory": "Priya enjoys photographing urban details while traveling.",
+      "timestamp": "2026-08-27T18:46:00Z"
+    },
+    {
+      "memory_id": "u001_n_207",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I need a few minutes to settle in before starting deep work.",
+      "inferred_memory": "Priya benefits from transition time before focused work.",
+      "timestamp": "2026-08-28T09:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_208",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying fewer clothes that I actually wear constantly.",
+      "inferred_memory": "Priya prefers practical repeat-use clothing purchases.",
+      "timestamp": "2026-08-28T15:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_209",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I focus better after tidying up small messes around me.",
+      "inferred_memory": "Priya prefers orderly environments for concentration.",
+      "timestamp": "2026-08-28T20:34:00Z"
+    },
+    {
+      "memory_id": "u001_n_210",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like food that comes with contrasting textures in one bite.",
+      "inferred_memory": "Priya enjoys mixed-texture foods.",
+      "timestamp": "2026-08-29T12:38:00Z"
+    },
+    {
+      "memory_id": "u001_n_211",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like watching rain from cafes more than from hotel rooms.",
+      "inferred_memory": "Priya enjoys rainy cafe environments.",
+      "timestamp": "2026-08-29T17:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_212",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember concepts longer if I struggled with them first.",
+      "inferred_memory": "Priya retains hard-earned knowledge effectively.",
+      "timestamp": "2026-08-30T09:19:00Z"
+    },
+    {
+      "memory_id": "u001_n_213",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I dislike buying things that need lots of maintenance.",
+      "inferred_memory": "Priya prefers low-maintenance purchases.",
+      "timestamp": "2026-08-30T14:56:00Z"
+    },
+    {
+      "memory_id": "u001_n_214",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I get more movement in naturally if I take the stairs.",
+      "inferred_memory": "Priya prefers incidental physical activity opportunities.",
+      "timestamp": "2026-08-30T21:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_215",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always choose the crunchy topping option.",
+      "inferred_memory": "Priya consistently prefers crunchy toppings.",
+      "timestamp": "2026-08-31T13:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_216",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like old train stations more than ultra-modern ones.",
+      "inferred_memory": "Priya prefers older transit architecture.",
+      "timestamp": "2026-08-31T18:09:00Z"
+    },
+    {
+      "memory_id": "u001_n_217",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I absorb more during conversations than during passive listening.",
+      "inferred_memory": "Priya prefers interactive discussion-based learning.",
+      "timestamp": "2026-09-01T10:26:00Z"
+    },
+    {
+      "memory_id": "u001_n_218",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I notice delivery fees immediately when ordering online.",
+      "inferred_memory": "Priya is sensitive to delivery-related costs.",
+      "timestamp": "2026-09-01T15:47:00Z"
+    },
+    {
+      "memory_id": "u001_n_219",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like cool air when I exercise indoors.",
+      "inferred_memory": "Priya prefers cooler exercise environments.",
+      "timestamp": "2026-09-01T20:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_220",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think noodles taste better when they are slightly chewy.",
+      "inferred_memory": "Priya prefers chewy noodle textures.",
+      "timestamp": "2026-09-02T12:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_221",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer carrying fewer bags even if it means repeating outfits.",
+      "inferred_memory": "Priya values lighter travel packing.",
+      "timestamp": "2026-09-02T17:31:00Z"
+    },
+    {
+      "memory_id": "u001_n_222",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I need examples before definitions most of the time.",
+      "inferred_memory": "Priya prefers concrete examples before abstract explanations.",
+      "timestamp": "2026-09-03T09:07:00Z"
+    },
+    {
+      "memory_id": "u001_n_223",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like when subscriptions send reminders before renewal dates.",
+      "inferred_memory": "Priya appreciates renewal transparency.",
+      "timestamp": "2026-09-03T14:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_224",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better after changing my sheets regularly.",
+      "inferred_memory": "Priya associates fresh bedding with better sleep.",
+      "timestamp": "2026-09-03T22:03:00Z"
+    },
+    {
+      "memory_id": "u001_n_225",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like dipping sauces more than drizzled sauces.",
+      "inferred_memory": "Priya prefers separate dipping sauces.",
+      "timestamp": "2026-09-04T13:24:00Z"
+    },
+    {
+      "memory_id": "u001_n_226",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I enjoy wandering grocery stores in unfamiliar cities.",
+      "inferred_memory": "Priya likes exploring grocery stores while traveling.",
+      "timestamp": "2026-09-04T18:17:00Z"
+    },
+    {
+      "memory_id": "u001_n_227",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I get through difficult material faster if I start before I feel ready.",
+      "inferred_memory": "Priya benefits from immediate task initiation.",
+      "timestamp": "2026-09-05T10:36:00Z"
+    },
+    {
+      "memory_id": "u001_n_228",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare unit prices more than brand names.",
+      "inferred_memory": "Priya prioritizes cost efficiency over branding.",
+      "timestamp": "2026-09-05T15:19:00Z"
+    },
+    {
+      "memory_id": "u001_n_229",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more awake if I open the windows in the morning.",
+      "inferred_memory": "Priya prefers fresh air in the morning.",
+      "timestamp": "2026-09-05T21:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_230",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think roasted vegetables smell better than steamed ones.",
+      "inferred_memory": "Priya prefers roasted vegetable preparation.",
+      "timestamp": "2026-09-06T12:28:00Z"
+    },
+    {
+      "memory_id": "u001_n_231",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotels with tiny breakfast areas more than giant buffets.",
+      "inferred_memory": "Priya prefers smaller quieter hotel dining spaces.",
+      "timestamp": "2026-09-06T17:43:00Z"
+    },
+    {
+      "memory_id": "u001_n_232",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I learn faster when people sketch while explaining things.",
+      "inferred_memory": "Priya benefits from live visual explanations.",
+      "timestamp": "2026-09-07T09:54:00Z"
+    },
+    {
+      "memory_id": "u001_n_233",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like saving money in small automatic increments.",
+      "inferred_memory": "Priya prefers gradual automated saving habits.",
+      "timestamp": "2026-09-07T15:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_234",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less tired when I drink water before coffee.",
+      "inferred_memory": "Priya prefers hydrating before caffeine.",
+      "timestamp": "2026-09-07T20:44:00Z"
+    },
+    {
+      "memory_id": "u001_n_235",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I always eat the crunchy snack mix pieces first.",
+      "inferred_memory": "Priya prioritizes crunchy components in snack mixes.",
+      "timestamp": "2026-09-08T12:17:00Z"
+    },
+    {
+      "memory_id": "u001_n_236",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer shorter walks with interesting details over giant sightseeing routes.",
+      "inferred_memory": "Priya prefers compact detail-oriented walks.",
+      "timestamp": "2026-09-08T18:21:00Z"
+    },
+    {
+      "memory_id": "u001_n_237",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus better if I write things down by hand first.",
+      "inferred_memory": "Priya prefers handwriting during initial learning.",
+      "timestamp": "2026-09-09T10:08:00Z"
+    },
+    {
+      "memory_id": "u001_n_238",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like keeping one small financial cushion even for ordinary months.",
+      "inferred_memory": "Priya prefers maintaining buffer savings.",
+      "timestamp": "2026-09-09T15:38:00Z"
+    },
+    {
+      "memory_id": "u001_n_239",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less distracted after taking a short walk outside.",
+      "inferred_memory": "Priya uses brief outdoor walks to reset focus.",
+      "timestamp": "2026-09-09T21:09:00Z"
+    },
+    {
+      "memory_id": "u001_n_240",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think food tastes better when it is shared family-style.",
+      "inferred_memory": "Priya enjoys shared-style dining experiences.",
+      "timestamp": "2026-09-10T13:03:00Z"
+    },
+      {
+      "memory_id": "u001_n_241",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like sitting near station platforms early just to watch people rushing around.",
+      "inferred_memory": "Priya enjoys observing busy transit environments.",
+      "timestamp": "2026-09-10T18:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_242",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I retain details better if I rewrite them in shorter sentences.",
+      "inferred_memory": "Priya prefers simplifying information into concise notes.",
+      "timestamp": "2026-09-11T09:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_243",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like knowing the total price before I commit to anything.",
+      "inferred_memory": "Priya prefers complete upfront cost visibility.",
+      "timestamp": "2026-09-11T14:36:00Z"
+    },
+    {
+      "memory_id": "u001_n_244",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less sluggish if I move around right after waking up.",
+      "inferred_memory": "Priya benefits from immediate morning movement.",
+      "timestamp": "2026-09-11T21:07:00Z"
+    },
+    {
+      "memory_id": "u001_n_245",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I always want extra crunch in salads.",
+      "inferred_memory": "Priya prefers crunchy salad textures.",
+      "timestamp": "2026-09-12T12:29:00Z"
+    },
+    {
+      "memory_id": "u001_n_246",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotels where the lobby feels calm instead of flashy.",
+      "inferred_memory": "Priya prefers understated hotel environments.",
+      "timestamp": "2026-09-12T17:54:00Z"
+    },
+    {
+      "memory_id": "u001_n_247",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I pay attention longer if someone sounds conversational instead of rehearsed.",
+      "inferred_memory": "Priya prefers natural conversational communication styles.",
+      "timestamp": "2026-09-13T10:06:00Z"
+    },
+    {
+      "memory_id": "u001_n_248",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I dislike paying for packaging that feels unnecessary.",
+      "inferred_memory": "Priya dislikes wasteful premium packaging.",
+      "timestamp": "2026-09-13T15:21:00Z"
+    },
+    {
+      "memory_id": "u001_n_249",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel calmer when I go outside at least once during the day.",
+      "inferred_memory": "Priya values daily outdoor exposure.",
+      "timestamp": "2026-09-13T20:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_250",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think warm bread smells better than almost anything.",
+      "inferred_memory": "Priya strongly enjoys the smell of fresh warm bread.",
+      "timestamp": "2026-09-14T12:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_251",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train rides where I can stare out the window without interruptions.",
+      "inferred_memory": "Priya enjoys uninterrupted scenic train rides.",
+      "timestamp": "2026-09-14T18:33:00Z"
+    },
+    {
+      "memory_id": "u001_n_252",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I understand diagrams faster if they are hand-drawn.",
+      "inferred_memory": "Priya prefers informal visual explanations.",
+      "timestamp": "2026-09-15T09:57:00Z"
+    },
+    {
+      "memory_id": "u001_n_253",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid replacing things if they still basically work.",
+      "inferred_memory": "Priya prefers extending the lifespan of possessions.",
+      "timestamp": "2026-09-15T14:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_254",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I think fresh air helps my concentration more than caffeine sometimes.",
+      "inferred_memory": "Priya associates outdoor air with improved focus.",
+      "timestamp": "2026-09-15T21:15:00Z"
+    },
+    {
+      "memory_id": "u001_n_255",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I always eat the crunchy corner pieces first.",
+      "inferred_memory": "Priya prioritizes crispy edge pieces in food.",
+      "timestamp": "2026-09-16T13:09:00Z"
+    },
+    {
+      "memory_id": "u001_n_256",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like walking through residential neighborhoods more than crowded shopping streets.",
+      "inferred_memory": "Priya prefers residential areas while exploring cities.",
+      "timestamp": "2026-09-16T18:24:00Z"
+    },
+    {
+      "memory_id": "u001_n_257",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I absorb more if I pause and summarize after every section.",
+      "inferred_memory": "Priya uses active summarization while learning.",
+      "timestamp": "2026-09-17T10:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_258",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like when budgeting tools are visually simple.",
+      "inferred_memory": "Priya prefers minimalist budgeting interfaces.",
+      "timestamp": "2026-09-17T15:32:00Z"
+    },
+    {
+      "memory_id": "u001_n_259",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less tense after cleaning up my workspace.",
+      "inferred_memory": "Priya uses tidying to reduce stress.",
+      "timestamp": "2026-09-17T20:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_260",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like meals that come with pickled vegetables on the side.",
+      "inferred_memory": "Priya enjoys pickled side dishes with meals.",
+      "timestamp": "2026-09-18T12:47:00Z"
+    },
+    {
+      "memory_id": "u001_n_261",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer smaller museums where I can wander slowly.",
+      "inferred_memory": "Priya prefers smaller quieter museums.",
+      "timestamp": "2026-09-18T17:41:00Z"
+    },
+    {
+      "memory_id": "u001_n_262",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus longer if I physically cross completed tasks off.",
+      "inferred_memory": "Priya prefers physical task completion tracking.",
+      "timestamp": "2026-09-19T09:43:00Z"
+    },
+    {
+      "memory_id": "u001_n_263",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I trust recommendations more when they are specific instead of generic.",
+      "inferred_memory": "Priya prefers detailed practical recommendations.",
+      "timestamp": "2026-09-19T15:17:00Z"
+    },
+    {
+      "memory_id": "u001_n_264",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better when the room is colder than comfortable.",
+      "inferred_memory": "Priya prefers cool sleeping temperatures.",
+      "timestamp": "2026-09-19T22:06:00Z"
+    },
+    {
+      "memory_id": "u001_n_265",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always prefer crispy snacks over chewy ones.",
+      "inferred_memory": "Priya prefers crispy snack textures.",
+      "timestamp": "2026-09-20T13:26:00Z"
+    },
+    {
+      "memory_id": "u001_n_266",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like cities where public transit signs are easy to follow.",
+      "inferred_memory": "Priya values intuitive transit systems.",
+      "timestamp": "2026-09-20T18:13:00Z"
+    },
+    {
+      "memory_id": "u001_n_267",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I understand concepts faster if I teach them back immediately.",
+      "inferred_memory": "Priya uses teaching as a learning method.",
+      "timestamp": "2026-09-21T10:02:00Z"
+    },
+    {
+      "memory_id": "u001_n_268",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like keeping a little extra money set aside for unexpected plans.",
+      "inferred_memory": "Priya prefers maintaining flexible discretionary savings.",
+      "timestamp": "2026-09-21T14:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_269",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more relaxed after spending time around trees.",
+      "inferred_memory": "Priya finds natural environments calming.",
+      "timestamp": "2026-09-21T20:27:00Z"
+    },
+    {
+      "memory_id": "u001_n_270",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think toasted spices smell comforting.",
+      "inferred_memory": "Priya enjoys the smell of toasted spices.",
+      "timestamp": "2026-09-22T12:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_271",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like wandering through local markets without buying much.",
+      "inferred_memory": "Priya enjoys browsing local markets casually.",
+      "timestamp": "2026-09-22T17:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_272",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I lose track of time when I am genuinely interested in something.",
+      "inferred_memory": "Priya becomes deeply absorbed in engaging subjects.",
+      "timestamp": "2026-09-23T09:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_273",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I dislike signing up for accounts just to see prices.",
+      "inferred_memory": "Priya prefers frictionless pricing access.",
+      "timestamp": "2026-09-23T15:06:00Z"
+    },
+    {
+      "memory_id": "u001_n_274",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more energized after opening the curtains right away.",
+      "inferred_memory": "Priya prefers immediate natural light exposure in the morning.",
+      "timestamp": "2026-09-23T21:19:00Z"
+    },
+    {
+      "memory_id": "u001_n_275",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I always notice when fries are extra crispy.",
+      "inferred_memory": "Priya strongly prefers crispy fries.",
+      "timestamp": "2026-09-24T13:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_276",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I enjoy quiet parks more than crowded landmarks.",
+      "inferred_memory": "Priya prefers calm outdoor spaces over tourist attractions.",
+      "timestamp": "2026-09-24T18:36:00Z"
+    },
+    {
+      "memory_id": "u001_n_277",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus better if I start with the easiest task first.",
+      "inferred_memory": "Priya uses easy-entry tasks to build momentum.",
+      "timestamp": "2026-09-25T10:25:00Z"
+    },
+    {
+      "memory_id": "u001_n_278",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like when apps remember my preferences without being intrusive.",
+      "inferred_memory": "Priya prefers subtle personalized user experiences.",
+      "timestamp": "2026-09-25T15:14:00Z"
+    },
+    {
+      "memory_id": "u001_n_279",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel less distracted after taking a few deep breaths outside.",
+      "inferred_memory": "Priya uses outdoor breathing breaks to reset attention.",
+      "timestamp": "2026-09-25T20:53:00Z"
+    },
+    {
+      "memory_id": "u001_n_280",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer soups that have texture instead of being completely smooth.",
+      "inferred_memory": "Priya prefers textured soups.",
+      "timestamp": "2026-09-26T12:56:00Z"
+    },
+    {
+      "memory_id": "u001_n_281",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like public plazas where people casually sit around.",
+      "inferred_memory": "Priya enjoys relaxed communal public spaces.",
+      "timestamp": "2026-09-26T18:07:00Z"
+    },
+    {
+      "memory_id": "u001_n_282",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I understand things faster if I can ask clarifying questions immediately.",
+      "inferred_memory": "Priya prefers responsive interactive learning.",
+      "timestamp": "2026-09-27T09:39:00Z"
+    },
+    {
+      "memory_id": "u001_n_283",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I appreciate when companies make cancellation easy.",
+      "inferred_memory": "Priya values easy cancellation policies.",
+      "timestamp": "2026-09-27T14:59:00Z"
+    },
+    {
+      "memory_id": "u001_n_284",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel better after taking even a short break from screens.",
+      "inferred_memory": "Priya benefits from screen-free breaks.",
+      "timestamp": "2026-09-27T21:42:00Z"
+    },
+    {
+      "memory_id": "u001_n_285",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I always want extra herbs on top of food.",
+      "inferred_memory": "Priya enjoys fresh herb toppings.",
+      "timestamp": "2026-09-28T12:37:00Z"
+    },
+    {
+      "memory_id": "u001_n_286",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train platforms that are open-air instead of underground.",
+      "inferred_memory": "Priya prefers open-air transit environments.",
+      "timestamp": "2026-09-28T18:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_287",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I absorb information faster if I can physically annotate it.",
+      "inferred_memory": "Priya prefers annotating materials while learning.",
+      "timestamp": "2026-09-29T10:07:00Z"
+    },
+    {
+      "memory_id": "u001_n_288",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer practical gifts over decorative ones.",
+      "inferred_memory": "Priya values usefulness in purchases and gifts.",
+      "timestamp": "2026-09-29T15:41:00Z"
+    },
+    {
+      "memory_id": "u001_n_289",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel calmer if I clean up before starting work.",
+      "inferred_memory": "Priya prefers tidy environments before focusing.",
+      "timestamp": "2026-09-29T20:48:00Z"
+    },
+    {
+      "memory_id": "u001_n_290",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I think toasted bread makes simple meals feel better.",
+      "inferred_memory": "Priya enjoys toasted bread with meals.",
+      "timestamp": "2026-09-30T12:58:00Z"
+    },
+    {
+      "memory_id": "u001_n_291",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer wandering without strict schedules when I travel alone.",
+      "inferred_memory": "Priya prefers flexible solo travel pacing.",
+      "timestamp": "2026-09-30T18:29:00Z"
+    },
+    {
+      "memory_id": "u001_n_292",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I remember examples with strong visuals more clearly.",
+      "inferred_memory": "Priya retains visually vivid examples effectively.",
+      "timestamp": "2026-10-01T09:46:00Z"
+    },
+    {
+      "memory_id": "u001_n_293",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like keeping recurring expenses predictable.",
+      "inferred_memory": "Priya prefers financial predictability.",
+      "timestamp": "2026-10-01T15:13:00Z"
+    },
+    {
+      "memory_id": "u001_n_294",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more comfortable exercising in cooler temperatures.",
+      "inferred_memory": "Priya prefers cool-weather exercise.",
+      "timestamp": "2026-10-01T21:06:00Z"
+    },
+    {
+      "memory_id": "u001_n_295",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like foods that stay crispy even with sauce.",
+      "inferred_memory": "Priya prefers crispy foods that retain texture.",
+      "timestamp": "2026-10-02T12:46:00Z"
+    },
+    {
+      "memory_id": "u001_n_296",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I enjoy taking long walks near water when traveling.",
+      "inferred_memory": "Priya enjoys waterside walking during trips.",
+      "timestamp": "2026-10-02T18:18:00Z"
+    },
+    {
+      "memory_id": "u001_n_297",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I focus better if I can visually separate different topics.",
+      "inferred_memory": "Priya prefers visually organized information.",
+      "timestamp": "2026-10-03T10:11:00Z"
+    },
+    {
+      "memory_id": "u001_n_298",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I appreciate straightforward pricing without hidden add-ons.",
+      "inferred_memory": "Priya values transparent pricing structures.",
+      "timestamp": "2026-10-03T15:24:00Z"
+    },
+    {
+      "memory_id": "u001_n_299",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I feel more refreshed after stepping outside for a few minutes.",
+      "inferred_memory": "Priya uses brief outdoor breaks for mental refreshment.",
+      "timestamp": "2026-10-03T20:55:00Z"
+    },
+    {
+      "memory_id": "u001_n_300",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I almost always notice when food has a good crunch factor.",
+      "inferred_memory": "Priya strongly values crunchy textures in food.",
+      "timestamp": "2026-10-04T13:04:00Z"
+    }
+    ]
+}

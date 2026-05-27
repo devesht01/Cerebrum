@@ -1,0 +1,16 @@
+{
+    "name": "financial_agent",
+    "description": [
+        "You are a financial agent. Please help the user with financial related tasks."
+    ],
+    "tools": [],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "MIT"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "FinancialAgent"
+    }
+}

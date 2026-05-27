@@ -1,0 +1,1125 @@
+{
+  "user_id": "u002",
+  "profile": {
+    "name": "John Mercer",
+    "summary": "John is an early-20s software engineer at ClosedBrain. He recently graduated university with a bachelor's degree in Computer Science and was valedictorian.",
+    "demographics": {
+      "age_range": "early 20s",
+      "location": null
+    }
+  },
+  "memories": [
+    {
+      "memory_id": "u002_cmrt_01",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "The only lecture notes I ever reread were the ugly ones with failing test cases in the margins. Clean diagrams make me nod along and learn nothing.",
+      "inferred_memory": "John learns best from messy failure-driven examples rather than polished conceptual explanations.",
+      "timestamp": "2026-01-08T14:20:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-01"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_02",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I still use my cracked keyboard because it reminds me not to buy shiny gear every time I get a paycheck. The ugly setup keeps me honest.",
+      "inferred_memory": "John prefers keeping functional old tech gear over buying premium upgrades.",
+      "timestamp": "2026-01-10T19:05:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-02"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_03",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "If a place has sourdough, mustard, pickles, and something aggressively salty, I am probably happier than at a proper sit-down restaurant.",
+      "inferred_memory": "John prefers sharp, salty deli-style food over polished restaurant meals.",
+      "timestamp": "2026-01-12T20:40:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-03"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_04",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I know everyone wants the famous skyline view, but I like the boring parts of a city where you can see freight tracks, old brick, and nobody posing for photos.",
+      "inferred_memory": "John prefers industrial, ordinary city areas over famous scenic viewpoints.",
+      "timestamp": "2026-01-14T07:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-04"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_05",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "For workouts, I do better when the plan has numbers and a stopwatch. Anything described as intuitive movement turns into me wandering around pretending it counts.",
+      "inferred_memory": "John prefers quantified, timer-based exercise plans over intuitive or flexible movement.",
+      "timestamp": "2026-01-16T16:30:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-05"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_06",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "My favorite part of visiting a new city is finding the weird little electronics repair shop or surplus store. Museums are fine, but I remember the bins of cables.",
+      "inferred_memory": "John enjoys electronics surplus and repair shops more than conventional cultural attractions.",
+      "timestamp": "2026-01-18T06:50:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-06"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_07",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "I will skip brunch without thinking, but I get irrational if I run out of decent coffee beans before a deployment week.",
+      "inferred_memory": "John prioritizes high-quality coffee at home over brunch or restaurant spending.",
+      "timestamp": "2026-01-20T21:10:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-07"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_08",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "The best debugging help I ever got was someone silently watching me explain the problem until I contradicted myself. Direct answers feel good for five minutes and then vanish.",
+      "inferred_memory": "John prefers Socratic debugging guidance over being given direct answers.",
+      "timestamp": "2026-01-22T09:35:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-08"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_09",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I hate subscriptions that solve fake problems. I will pay for the one thing that saves me from losing notes during messy debugging sessions.",
+      "inferred_memory": "John values a reliable notes or knowledge-capture tool over generic productivity subscriptions.",
+      "timestamp": "2026-01-24T18:25:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-09"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_10",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "Before climbing, I need something boring and salty. Sweet protein bars make my stomach feel like a CI pipeline stuck forever.",
+      "inferred_memory": "John prefers small salty food before climbing rather than sweet protein snacks.",
+      "timestamp": "2026-01-26T17:45:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-10"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_11",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "If I spend extra while traveling, I want it to remove friction, not add luxury. Give me the option that makes the day simpler.",
+      "inferred_memory": "John prefers practical friction-reducing travel upgrades over luxury or status upgrades.",
+      "timestamp": "2026-01-28T13:00:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-11"
+      }
+    },
+    {
+      "memory_id": "u002_cmrt_12",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "My reliable desk lunch looks depressing: rye bread, pickles, cheese, mustard, and black coffee. Somehow that keeps me sharper than a normal hot lunch.",
+      "inferred_memory": "John prefers sparse deli-style desk lunches over standard warm balanced lunches.",
+      "timestamp": "2026-01-30T12:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-12"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_01a",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "The team offsite is the first week of August.",
+      "inferred_memory": "John's team offsite is the first week of August.",
+      "timestamp": "2026-02-05T10:30:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_01",
+        "pair_role": "pair_01_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-01A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_01b",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "The team offsite is the third week of July.",
+      "inferred_memory": "John's team offsite is the third week of July.",
+      "timestamp": "2026-03-09T18:20:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_01",
+        "pair_role": "pair_01_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-01B"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_02a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "Climbing is Mondays at seven.",
+      "inferred_memory": "John climbs on Monday evenings.",
+      "timestamp": "2026-02-10T09:00:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_02",
+        "pair_role": "pair_02_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-02A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_02b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "Climbing is Wednesdays at seven.",
+      "inferred_memory": "John climbs on Wednesday evenings.",
+      "timestamp": "2026-03-14T09:00:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_02",
+        "pair_role": "pair_02_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-02B"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_03a",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My rent contribution is twelve-fifty.",
+      "inferred_memory": "John's monthly rent contribution is $1250.",
+      "timestamp": "2026-02-18T17:30:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_03",
+        "pair_role": "pair_03_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-03A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_03b",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My rent contribution is eleven-hundred.",
+      "inferred_memory": "John's monthly rent contribution is $1100.",
+      "timestamp": "2026-03-20T17:20:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_03",
+        "pair_role": "pair_03_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-03B"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_04a",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "The systems design interview workshop is June twelfth.",
+      "inferred_memory": "John's systems design interview workshop is June 12th.",
+      "timestamp": "2026-02-22T12:00:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_04",
+        "pair_role": "pair_04_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-04A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_04b",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "The systems design interview workshop is May twenty-ninth.",
+      "inferred_memory": "John's systems design interview workshop is May 29th.",
+      "timestamp": "2026-03-23T12:00:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_04",
+        "pair_role": "pair_04_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-04B"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_05a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "I lift with Marco Saturday mornings at nine.",
+      "inferred_memory": "John lifts with Marco on Saturday mornings at nine.",
+      "timestamp": "2026-02-04T11:35:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_05",
+        "pair_role": "pair_05_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-05A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_05b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "I lift with Marco Sunday mornings at eight.",
+      "inferred_memory": "John lifts with Marco on Sunday mornings at eight.",
+      "timestamp": "2026-03-19T09:45:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_05",
+        "pair_role": "pair_05_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-05B"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_06a",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My coffee bean place is North Pier Roasters.",
+      "inferred_memory": "John's regular coffee bean place is North Pier Roasters.",
+      "timestamp": "2026-02-14T08:40:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_06",
+        "pair_role": "pair_06_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-06A"
+      }
+    },
+    {
+      "memory_id": "u002_tcr_06b",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My coffee bean place is Signal House Coffee.",
+      "inferred_memory": "John's regular coffee bean place is Signal House Coffee.",
+      "timestamp": "2026-03-24T09:05:00Z",
+      "metadata": {
+        "pair_id": "u002_tcr_06",
+        "pair_role": "pair_06_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-06B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_01a",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "The coffee beans are the food thing I actually care about. Restaurant meals are easier for me to cut.",
+      "inferred_memory": "John wants to preserve spending on good coffee beans.",
+      "timestamp": "2026-02-12T20:20:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_01",
+        "pair_role": "pair_01_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-01A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_01b",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want lifestyle creep to stay embarrassing while my first engineer salary still feels fake.",
+      "inferred_memory": "John wants to limit lifestyle inflation despite earning a software engineer salary.",
+      "timestamp": "2026-02-13T18:10:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_01",
+        "pair_role": "pair_01_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-01B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_02a",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I like workouts that give me numbers to beat. Otherwise I start negotiating with myself halfway through.",
+      "inferred_memory": "John prefers measurable workout targets.",
+      "timestamp": "2026-02-16T07:20:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_02",
+        "pair_role": "pair_02_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-02A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_02b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My wrists complain when I stack too many hard climbing or typing-heavy days together.",
+      "inferred_memory": "John needs to avoid too many wrist-intensive days.",
+      "timestamp": "2026-02-17T17:35:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_02",
+        "pair_role": "pair_02_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-02B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_03a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "On trips, I would rather wander through old warehouse blocks and repair shops than chase the postcard route.",
+      "inferred_memory": "John prefers industrial, technical, low-tourism travel areas.",
+      "timestamp": "2026-02-20T10:00:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_03",
+        "pair_role": "pair_03_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-03A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_03b",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want short trips to stay cheap enough that they do not become a spreadsheet event.",
+      "inferred_memory": "John wants low-cost short travel.",
+      "timestamp": "2026-02-21T15:45:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_03",
+        "pair_role": "pair_03_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-03B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_04a",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "Before climbing, salty and plain beats sweet and optimized every time.",
+      "inferred_memory": "John prefers salty plain food before climbing.",
+      "timestamp": "2026-02-24T12:40:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_04",
+        "pair_role": "pair_04_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-04A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_04b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "A real meal before climbing makes me feel heavy on the wall.",
+      "inferred_memory": "John needs light food before climbing.",
+      "timestamp": "2026-02-25T16:55:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_04",
+        "pair_role": "pair_04_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-04B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_05a",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I learn fastest when I have to debug the broken thing instead of reading the elegant explanation.",
+      "inferred_memory": "John prefers active debugging-based learning.",
+      "timestamp": "2026-02-27T21:10:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_05",
+        "pair_role": "pair_05_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-05A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_05b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "When I debug late into the night, I call it persistence even though the next morning proves it was dumb.",
+      "inferred_memory": "John needs learning routines that protect sleep and avoid late-night debugging spirals.",
+      "timestamp": "2026-02-28T06:35:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_05",
+        "pair_role": "pair_05_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-05B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_06a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want to build savings aggressively before I start believing the first salary version of myself.",
+      "inferred_memory": "John wants aggressive early-career savings.",
+      "timestamp": "2026-03-01T13:20:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_06",
+        "pair_role": "pair_06_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-06A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_06b",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I do not want to cheap out on the tools that prevent me from losing debugging notes and design sketches.",
+      "inferred_memory": "John wants to preserve spending on knowledge-capture tools.",
+      "timestamp": "2026-03-02T19:15:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_06",
+        "pair_role": "pair_06_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-06B"
+      }
+    },
+    {
+      "memory_id": "u002_dca_07a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "A trip with an ordinary train yard and some old brick usually beats a packed landmark checklist for me.",
+      "inferred_memory": "John prefers low-key industrial walking over landmark sightseeing.",
+      "timestamp": "2026-03-04T09:50:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_07",
+        "pair_role": "pair_07_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-07A"
+      }
+    },
+    {
+      "memory_id": "u002_dca_07b",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "I do not need dinner to be famous. Give me a deli counter, pickles, mustard, and coffee nearby.",
+      "inferred_memory": "John prefers casual deli-style food over famous restaurants.",
+      "timestamp": "2026-03-05T20:30:00Z",
+      "metadata": {
+        "pair_id": "u002_dca_07",
+        "pair_role": "pair_07_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-07B"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "u002_q001",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "John wants a plan for learning a new mobility routine. Which should the health agent recommend?",
+      "options": {
+        "A": "Polished video course with clean anatomy diagrams",
+        "B": "Instructor-led mobility class",
+        "C": "App-guided stretching plan",
+        "D": "Messy checklist built around common failed attempts"
+      },
+      "correct_answer": "D",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_01"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-01"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q002",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "John asks what equipment to buy for a side-project course. Which should the education agent suggest?",
+      "options": {
+        "A": "Premium mechanical keyboard and monitor bundle",
+        "B": "Developer workstation starter kit",
+        "C": "Use his current functional setup",
+        "D": "Ergonomic desk accessory package"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_02"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-02"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q003",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "John has one casual meal slot during a city trip. Which should the travel agent suggest?",
+      "options": {
+        "A": "Highly rated modern bistro",
+        "B": "Chef's tasting menu",
+        "C": "Old deli with pickles and mustard-heavy sandwiches",
+        "D": "Popular seafood hall"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_03"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-03"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q004",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "John wants a walking route after work during a trip. Which should the health agent suggest?",
+      "options": {
+        "A": "Famous overlook with skyline views",
+        "B": "Guided architecture walk",
+        "C": "Hotel treadmill session",
+        "D": "Quiet loop past old brick warehouses and freight tracks"
+      },
+      "correct_answer": "D",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_04"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-04"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q005",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "John wants a study-break exercise plan. Which should the education agent recommend?",
+      "options": {
+        "A": "Relaxed intuitive movement break",
+        "B": "Guided yoga flow",
+        "C": "Timed circuit with logged rep targets",
+        "D": "Outdoor walk with no fixed structure"
+      },
+      "correct_answer": "C",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u002_cmrt_05"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-05"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q006",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "John wants to keep one small travel-related indulgence. Which should the financial agent preserve?",
+      "options": {
+        "A": "Museum admission pass",
+        "B": "Guided city tour",
+        "C": "Extra time visiting electronics surplus shops",
+        "D": "Hotel lounge access"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_06"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-06"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q007",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "John wants to cut discretionary spending without losing what matters most. Which should the financial agent not cut?",
+      "options": {
+        "A": "Weekend brunches",
+        "B": "Coffee beans",
+        "C": "Restaurant delivery",
+        "D": "Clothing"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_07"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-07"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q008",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "John asks how to fix a recurring training problem. What should the health agent use?",
+      "options": {
+        "A": "Give him the correct fix",
+        "B": "Provide a written expert explanation",
+        "C": "Ask him to explain the issue until the contradiction appears",
+        "D": "Recommend a industry-standard checklist to check form"
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u002_cmrt_08"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-08"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q009",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "John wants to keep one productivity subscription. Which should the financial agent keep?",
+      "options": {
+        "A": "AI calendar assistant",
+        "B": "Premium task manager",
+        "C": "Reliable notes and knowledge-capture app",
+        "D": "Focus music subscription"
+      },
+      "correct_answer": "C",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u002_cmrt_09"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-09"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q010",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "John is choosing food before climbing. Which order should the food agent suggest?",
+      "options": {
+        "A": "Chocolate protein bar",
+        "B": "Turkey avocado wrap",
+        "C": "Small salted pretzel roll",
+        "D": "Rice bowl with chicken"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_10"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-10"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q011",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "John has room for one travel upgrade. Which should the travel agent choose?",
+      "options": {
+        "A": "Luxury hotel room",
+        "B": "Airport lounge pass",
+        "C": "Direct train that avoids a transfer",
+        "D": "Restaurant reservation deposit"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_11"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-11"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q012",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "John wants a repeatable workday lunch. Which should the health agent suggest?",
+      "options": {
+        "A": "Balanced hot grain bowl",
+        "B": "Chicken salad wrap",
+        "C": "Protein smoothie",
+        "D": "Rye bread with cheese, pickles, mustard, and coffee"
+      },
+      "correct_answer": "D",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_cmrt_12"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-12"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q013",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "When is John's team offsite?",
+      "options": {
+        "A": "First week of August",
+        "B": "Third week of July",
+        "C": "Second week of September",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_01a",
+        "u002_tcr_01b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_01",
+        "source_row_ids": [
+          "TCR-01A",
+          "TCR-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q014",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "John wants to prep a pre-climbing snack. Which day should the food agent plan it for?",
+      "options": {
+        "A": "Monday afternoon",
+        "B": "Wednesday afternoon",
+        "C": "Friday evening",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_02a",
+        "u002_tcr_02b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_02",
+        "source_row_ids": [
+          "TCR-02A",
+          "TCR-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q015",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "What is John's monthly rent contribution?",
+      "options": {
+        "A": "$1250",
+        "B": "$1100",
+        "C": "$1400",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_03a",
+        "u002_tcr_03b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_03",
+        "source_row_ids": [
+          "TCR-03A",
+          "TCR-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q016",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "When is John's systems design interview workshop?",
+      "options": {
+        "A": "June 12th",
+        "B": "May 29th",
+        "C": "July 8th",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_04a",
+        "u002_tcr_04b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_04",
+        "source_row_ids": [
+          "TCR-04A",
+          "TCR-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q017",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "John is planning a Sunday day trip. What is the earliest the travel agent should schedule departure?",
+      "options": {
+        "A": "Any time, Sunday morning is free",
+        "B": "After 10am",
+        "C": "After 7am",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_05a",
+        "u002_tcr_05b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_05",
+        "source_row_ids": [
+          "TCR-05A",
+          "TCR-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q018",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "John wants to buy coffee beans before leaving town. Which stop should the travel agent include?",
+      "options": {
+        "A": "North Pier Roasters",
+        "B": "Signal House Coffee",
+        "C": "Nearest airport cafe",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_tcr_06a",
+        "u002_tcr_06b"
+      ],
+      "metadata": {
+        "pair_id": "u002_tcr_06",
+        "source_row_ids": [
+          "TCR-06A",
+          "TCR-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q019",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "John is adjusting his monthly discretionary budget. What would he most likely choose?",
+      "options": {
+        "A": "Cut all specialty food and drink spending",
+        "B": "Keep a small coffee allowance while cutting restaurant meals",
+        "C": "Increase restaurant spending as a reward",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_dca_01a",
+        "u002_dca_01b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_01",
+        "source_row_ids": [
+          "DCA-01A",
+          "DCA-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q020",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "John is choosing a weekly training plan. What would he most likely pick?",
+      "options": {
+        "A": "Use a relaxed plan with no tracking",
+        "B": "Use measurable sessions with recovery spacing",
+        "C": "Do high-intensity sessions every day",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u002_dca_02a",
+        "u002_dca_02b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_02",
+        "source_row_ids": [
+          "DCA-02A",
+          "DCA-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q021",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "John is choosing a weekend reset trip. What would he most likely pick?",
+      "options": {
+        "A": "Book a premium guided city package",
+        "B": "Choose a modest trip with technical local stops",
+        "C": "Choose a resort-style food weekend",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_dca_03a",
+        "u002_dca_03b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_03",
+        "source_row_ids": [
+          "DCA-03A",
+          "DCA-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q022",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "John is picking food before climbing. What would he most likely choose?",
+      "options": {
+        "A": "Choose a sweet athletic snack",
+        "B": "Choose a small salty snack",
+        "C": "Choose a full casual meal",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_dca_04a",
+        "u002_dca_04b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_04",
+        "source_row_ids": [
+          "DCA-04A",
+          "DCA-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q023",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "John is setting a technical learning routine. What would he most likely follow?",
+      "options": {
+        "A": "Read elegant explanations at his own pace",
+        "B": "Debug difficult problems late into the night",
+        "C": "Use failure-based practice with firm stopping rules",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_dca_05a",
+        "u002_dca_05b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_05",
+        "source_row_ids": [
+          "DCA-05A",
+          "DCA-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q024",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "John is setting his first full-time budget. What would he most likely choose?",
+      "options": {
+        "A": "Use a relaxed savings plan with more monthly flexibility",
+        "B": "Use aggressive savings while preserving one knowledge tool",
+        "C": "Use aggressive savings and cut all software tools",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u002_dca_06a",
+        "u002_dca_06b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_06",
+        "source_row_ids": [
+          "DCA-06A",
+          "DCA-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u002_q025",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "John is choosing a weekend destination. What kind of place would he most likely pick?",
+      "options": {
+        "A": "A famous city with major landmarks",
+        "B": "A restaurant-focused destination with upscale dining",
+        "C": "A low-key town with industrial walks and casual deli food",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u002_dca_07a",
+        "u002_dca_07b"
+      ],
+      "metadata": {
+        "pair_id": "u002_dca_07",
+        "source_row_ids": [
+          "DCA-07A",
+          "DCA-07B"
+        ]
+      }
+    }
+  ]
+}

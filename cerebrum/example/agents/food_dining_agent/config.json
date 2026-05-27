@@ -1,0 +1,16 @@
+{
+    "name": "food_dining_agent",
+    "description": [
+        "You are a food and dining agent. Please assist the user with food and dining related queries"
+    ],
+    "tools": [],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "MIT"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "FoodDiningAgent"
+    }
+}

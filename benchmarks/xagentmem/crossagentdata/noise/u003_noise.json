@@ -1,0 +1,2404 @@
+{
+  "memories": [
+    {
+      "memory_id": "u003_n_001",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I take a photo of the hotel room number before leaving the hallway.",
+      "inferred_memory": "Maya photographs hotel room numbers to remember them.",
+      "timestamp": "2026-01-03T11:17:00Z"
+    },
+    {
+      "memory_id": "u003_n_002",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a folded tote bag inside my suitcase even for short trips.",
+      "inferred_memory": "Maya brings a folded tote bag on trips.",
+      "timestamp": "2026-01-03T14:34:00Z"
+    },
+    {
+      "memory_id": "u003_n_003",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer aisle seats on buses because I dislike climbing over people.",
+      "inferred_memory": "Maya prefers aisle bus seats.",
+      "timestamp": "2026-01-03T17:51:00Z"
+    },
+    {
+      "memory_id": "u003_n_004",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I save offline maps before I leave home.",
+      "inferred_memory": "Maya saves offline maps before traveling.",
+      "timestamp": "2026-01-03T08:08:00Z"
+    },
+    {
+      "memory_id": "u003_n_005",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a backup pair of socks in my personal item.",
+      "inferred_memory": "Maya packs backup socks in her personal item.",
+      "timestamp": "2026-01-03T11:25:00Z"
+    },
+    {
+      "memory_id": "u003_n_006",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like arriving at train stations early enough to read the departure board twice.",
+      "inferred_memory": "Maya prefers arriving early at train stations.",
+      "timestamp": "2026-01-04T14:42:00Z"
+    },
+    {
+      "memory_id": "u003_n_007",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I put a bright ribbon on my suitcase handle so I can spot it faster.",
+      "inferred_memory": "Maya marks her suitcase with a bright ribbon.",
+      "timestamp": "2026-01-04T17:59:00Z"
+    },
+    {
+      "memory_id": "u003_n_008",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I carry a tiny umbrella even when the forecast looks fine.",
+      "inferred_memory": "Maya often packs a small umbrella.",
+      "timestamp": "2026-01-04T08:16:00Z"
+    },
+    {
+      "memory_id": "u003_n_009",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotels with a desk lamp that can actually move.",
+      "inferred_memory": "Maya values adjustable desk lamps in hotel rooms.",
+      "timestamp": "2026-01-04T11:33:00Z"
+    },
+    {
+      "memory_id": "u003_n_010",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep boarding passes in my photos until the trip is fully over.",
+      "inferred_memory": "Maya saves boarding pass screenshots until trips end.",
+      "timestamp": "2026-01-04T14:50:00Z"
+    },
+    {
+      "memory_id": "u003_n_011",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I write the nearest cross street in my notes when staying somewhere new.",
+      "inferred_memory": "Maya records nearby cross streets for lodging locations.",
+      "timestamp": "2026-01-05T17:07:00Z"
+    },
+    {
+      "memory_id": "u003_n_012",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I avoid checking luggage when the trip is under four days.",
+      "inferred_memory": "Maya avoids checked bags for short trips.",
+      "timestamp": "2026-01-05T08:24:00Z"
+    },
+    {
+      "memory_id": "u003_n_013",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like having a grocery store within walking distance of lodging.",
+      "inferred_memory": "Maya prefers lodging near a grocery store.",
+      "timestamp": "2026-01-05T11:41:00Z"
+    },
+    {
+      "memory_id": "u003_n_014",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I put toiletries in a clear pouch so I can see what I forgot.",
+      "inferred_memory": "Maya uses a clear pouch for toiletries.",
+      "timestamp": "2026-01-05T14:58:00Z"
+    },
+    {
+      "memory_id": "u003_n_015",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a pen in my travel bag even though I almost never use it.",
+      "inferred_memory": "Maya keeps a pen in her travel bag.",
+      "timestamp": "2026-01-05T17:15:00Z"
+    },
+    {
+      "memory_id": "u003_n_016",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer quiet hotel floors over rooms near elevators.",
+      "inferred_memory": "Maya prefers lodging away from elevators.",
+      "timestamp": "2026-01-06T08:32:00Z"
+    },
+    {
+      "memory_id": "u003_n_017",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack one extra shirt in case I spill something during travel.",
+      "inferred_memory": "Maya packs an extra shirt for spills.",
+      "timestamp": "2026-01-06T11:49:00Z"
+    },
+    {
+      "memory_id": "u003_n_018",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like bus routes that show stop names clearly on a screen.",
+      "inferred_memory": "Maya prefers buses with visible stop-name displays.",
+      "timestamp": "2026-01-06T14:06:00Z"
+    },
+    {
+      "memory_id": "u003_n_019",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep my passport in a zippered pouch even on domestic trips where I do not need it.",
+      "inferred_memory": "Maya stores her passport in a zippered pouch when traveling.",
+      "timestamp": "2026-01-06T17:23:00Z"
+    },
+    {
+      "memory_id": "u003_n_020",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I take a screenshot of return directions before I go out for the day.",
+      "inferred_memory": "Maya screenshots return directions during trips.",
+      "timestamp": "2026-01-06T08:40:00Z"
+    },
+    {
+      "memory_id": "u003_n_021",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like neighborhood laundromats when I am staying somewhere longer than a week.",
+      "inferred_memory": "Maya notices laundromat access during longer stays.",
+      "timestamp": "2026-01-07T11:57:00Z"
+    },
+    {
+      "memory_id": "u003_n_022",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I put shoes in separate bags before packing them.",
+      "inferred_memory": "Maya packs shoes in separate bags.",
+      "timestamp": "2026-01-07T14:14:00Z"
+    },
+    {
+      "memory_id": "u003_n_023",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer reusable water bottles with a loop on the lid for trips.",
+      "inferred_memory": "Maya likes travel bottles with lid loops.",
+      "timestamp": "2026-01-07T17:31:00Z"
+    },
+    {
+      "memory_id": "u003_n_024",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep local transit cards after trips instead of throwing them away.",
+      "inferred_memory": "Maya keeps old transit cards as small travel items.",
+      "timestamp": "2026-01-07T08:48:00Z"
+    },
+    {
+      "memory_id": "u003_n_025",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I dislike unpacking into hotel drawers because I forget things there.",
+      "inferred_memory": "Maya avoids hotel drawers to prevent leaving items behind.",
+      "timestamp": "2026-01-07T11:05:00Z"
+    },
+    {
+      "memory_id": "u003_n_026",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check window locks when I enter an unfamiliar room.",
+      "inferred_memory": "Maya checks window locks in unfamiliar lodging.",
+      "timestamp": "2026-01-08T14:22:00Z"
+    },
+    {
+      "memory_id": "u003_n_027",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like having a small trash bag in the rental car.",
+      "inferred_memory": "Maya keeps a small trash bag in rental cars.",
+      "timestamp": "2026-01-08T17:39:00Z"
+    },
+    {
+      "memory_id": "u003_n_028",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I choose morning departures when the price difference is small.",
+      "inferred_memory": "Maya prefers morning departures when costs are similar.",
+      "timestamp": "2026-01-08T08:56:00Z"
+    },
+    {
+      "memory_id": "u003_n_029",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I bring a thin scarf because it works as a blanket on cold buses.",
+      "inferred_memory": "Maya packs a thin scarf for cold transit.",
+      "timestamp": "2026-01-08T11:13:00Z"
+    },
+    {
+      "memory_id": "u003_n_030",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep earplugs in the outer pocket of my suitcase.",
+      "inferred_memory": "Maya stores earplugs in an accessible suitcase pocket.",
+      "timestamp": "2026-01-08T14:30:00Z"
+    },
+    {
+      "memory_id": "u003_n_031",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I take one photo of the rental car license plate before leaving the lot.",
+      "inferred_memory": "Maya photographs rental car plates.",
+      "timestamp": "2026-01-09T17:47:00Z"
+    },
+    {
+      "memory_id": "u003_n_032",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer luggage with outside pockets.",
+      "inferred_memory": "Maya likes luggage with exterior pockets.",
+      "timestamp": "2026-01-09T08:04:00Z"
+    },
+    {
+      "memory_id": "u003_n_033",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny flashlight on my keychain during trips.",
+      "inferred_memory": "Maya carries a small keychain flashlight when traveling.",
+      "timestamp": "2026-01-09T11:21:00Z"
+    },
+    {
+      "memory_id": "u003_n_034",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like airport gates with normal chairs more than lounge-style seating.",
+      "inferred_memory": "Maya prefers standard airport gate seating.",
+      "timestamp": "2026-01-09T14:38:00Z"
+    },
+    {
+      "memory_id": "u003_n_035",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check whether hotel windows open before booking when that information is available.",
+      "inferred_memory": "Maya looks for hotel rooms with openable windows.",
+      "timestamp": "2026-01-09T17:55:00Z"
+    },
+    {
+      "memory_id": "u003_n_036",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I bring a small packet of tissues in every day bag.",
+      "inferred_memory": "Maya carries tissues in her day bag.",
+      "timestamp": "2026-01-10T08:12:00Z"
+    },
+    {
+      "memory_id": "u003_n_037",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer walking ten extra minutes over transferring twice.",
+      "inferred_memory": "Maya prefers walking farther to avoid multiple transfers.",
+      "timestamp": "2026-01-10T11:29:00Z"
+    },
+    {
+      "memory_id": "u003_n_038",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I put chargers back in my bag immediately after using them in public places.",
+      "inferred_memory": "Maya returns chargers to her bag after public use.",
+      "timestamp": "2026-01-10T14:46:00Z"
+    },
+    {
+      "memory_id": "u003_n_039",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like small city parks with benches for taking short breaks.",
+      "inferred_memory": "Maya uses small city parks for short breaks.",
+      "timestamp": "2026-01-10T17:03:00Z"
+    },
+    {
+      "memory_id": "u003_n_040",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a spare hair tie in my travel wallet.",
+      "inferred_memory": "Maya stores a spare hair tie in her travel wallet.",
+      "timestamp": "2026-01-10T08:20:00Z"
+    },
+    {
+      "memory_id": "u003_n_041",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I usually label travel folders by city name and month.",
+      "inferred_memory": "Maya labels travel folders by city and month.",
+      "timestamp": "2026-01-11T11:37:00Z"
+    },
+    {
+      "memory_id": "u003_n_042",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer rooms with hard floors instead of carpet when I can choose.",
+      "inferred_memory": "Maya prefers lodging with hard floors over carpet.",
+      "timestamp": "2026-01-11T14:54:00Z"
+    },
+    {
+      "memory_id": "u003_n_043",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I carry a small stain remover wipe when I travel for work.",
+      "inferred_memory": "Maya packs stain remover wipes for work travel.",
+      "timestamp": "2026-01-11T17:11:00Z"
+    },
+    {
+      "memory_id": "u003_n_044",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check the weather in both Fahrenheit and Celsius when traveling abroad.",
+      "inferred_memory": "Maya checks weather in multiple units for international travel.",
+      "timestamp": "2026-01-11T08:28:00Z"
+    },
+    {
+      "memory_id": "u003_n_045",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like paper city maps even if I mainly use my phone.",
+      "inferred_memory": "Maya appreciates paper city maps.",
+      "timestamp": "2026-01-11T11:45:00Z"
+    },
+    {
+      "memory_id": "u003_n_046",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep snacks in a side pocket rather than inside the main suitcase compartment.",
+      "inferred_memory": "Maya stores travel snacks in side pockets.",
+      "timestamp": "2026-01-12T14:02:00Z"
+    },
+    {
+      "memory_id": "u003_n_047",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer platform signs with countdown clocks.",
+      "inferred_memory": "Maya values transit countdown signs.",
+      "timestamp": "2026-01-12T17:19:00Z"
+    },
+    {
+      "memory_id": "u003_n_048",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like to know where the nearest pharmacy is when staying somewhere new.",
+      "inferred_memory": "Maya checks pharmacy proximity near lodging.",
+      "timestamp": "2026-01-12T08:36:00Z"
+    },
+    {
+      "memory_id": "u003_n_049",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I usually bring one book and read less than half of it.",
+      "inferred_memory": "Maya brings a book on trips even if she reads little.",
+      "timestamp": "2026-01-12T11:53:00Z"
+    },
+    {
+      "memory_id": "u003_n_050",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer self check-in when the instructions are clear.",
+      "inferred_memory": "Maya prefers clear self check-in processes.",
+      "timestamp": "2026-01-12T14:10:00Z"
+    },
+    {
+      "memory_id": "u003_n_051",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I always check under the bed before leaving lodging.",
+      "inferred_memory": "Maya checks under beds before checking out.",
+      "timestamp": "2026-01-13T17:27:00Z"
+    },
+    {
+      "memory_id": "u003_n_052",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a list of items I forgot on previous trips.",
+      "inferred_memory": "Maya maintains a list of previously forgotten travel items.",
+      "timestamp": "2026-01-13T08:44:00Z"
+    },
+    {
+      "memory_id": "u003_n_053",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer smaller airports when the route is reasonable.",
+      "inferred_memory": "Maya likes smaller airports for reasonable routes.",
+      "timestamp": "2026-01-13T11:01:00Z"
+    },
+    {
+      "memory_id": "u003_n_054",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep coins from foreign trips in a small jar.",
+      "inferred_memory": "Maya collects leftover foreign coins.",
+      "timestamp": "2026-01-13T14:18:00Z"
+    },
+    {
+      "memory_id": "u003_n_055",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotel rooms with enough hooks for bags and coats.",
+      "inferred_memory": "Maya values hooks in hotel rooms.",
+      "timestamp": "2026-01-13T17:35:00Z"
+    },
+    {
+      "memory_id": "u003_n_056",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I bring a reusable cutlery set if I expect to eat takeout while traveling.",
+      "inferred_memory": "Maya packs reusable cutlery for takeout-heavy trips.",
+      "timestamp": "2026-01-14T08:52:00Z"
+    },
+    {
+      "memory_id": "u003_n_057",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I write confirmation numbers in one note instead of searching email each time.",
+      "inferred_memory": "Maya consolidates travel confirmation numbers in notes.",
+      "timestamp": "2026-01-14T11:09:00Z"
+    },
+    {
+      "memory_id": "u003_n_058",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like knowing the last train time before I go out at night.",
+      "inferred_memory": "Maya checks last train times before evening outings.",
+      "timestamp": "2026-01-14T14:26:00Z"
+    },
+    {
+      "memory_id": "u003_n_059",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I carry a backup debit card separately from my wallet on trips.",
+      "inferred_memory": "Maya separates a backup debit card from her main wallet while traveling.",
+      "timestamp": "2026-01-14T17:43:00Z"
+    },
+    {
+      "memory_id": "u003_n_060",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer compact itineraries that fit on one phone screen.",
+      "inferred_memory": "Maya likes concise one-screen itineraries.",
+      "timestamp": "2026-01-14T08:00:00Z"
+    },
+    {
+      "memory_id": "u003_n_061",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep sesame seeds in a tiny jar near the stove.",
+      "inferred_memory": "Maya keeps sesame seeds accessible while cooking.",
+      "timestamp": "2026-01-15T11:17:00Z"
+    },
+    {
+      "memory_id": "u003_n_062",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like ceramic spoons more than metal spoons for soup.",
+      "inferred_memory": "Maya prefers ceramic spoons for soup.",
+      "timestamp": "2026-01-15T14:34:00Z"
+    },
+    {
+      "memory_id": "u003_n_063",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually rinse herbs and wrap them in a towel before putting them away.",
+      "inferred_memory": "Maya stores herbs wrapped in a towel after rinsing.",
+      "timestamp": "2026-01-15T17:51:00Z"
+    },
+    {
+      "memory_id": "u003_n_064",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a backup jar of chili oil before the current one runs out.",
+      "inferred_memory": "Maya keeps backup chili oil stocked.",
+      "timestamp": "2026-01-15T08:08:00Z"
+    },
+    {
+      "memory_id": "u003_n_065",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like rice stored in a clear container so I can see when it is low.",
+      "inferred_memory": "Maya stores rice in a clear container.",
+      "timestamp": "2026-01-15T11:25:00Z"
+    },
+    {
+      "memory_id": "u003_n_066",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer chopsticks with squared ends because round ones roll off bowls.",
+      "inferred_memory": "Maya prefers squared chopsticks.",
+      "timestamp": "2026-01-16T14:42:00Z"
+    },
+    {
+      "memory_id": "u003_n_067",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep frozen scallions for weeks when I cannot use fresh ones fast enough.",
+      "inferred_memory": "Maya freezes scallions for later use.",
+      "timestamp": "2026-01-16T17:59:00Z"
+    },
+    {
+      "memory_id": "u003_n_068",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually drink plain hot water in the evening.",
+      "inferred_memory": "Maya drinks plain hot water in the evening.",
+      "timestamp": "2026-01-16T08:16:00Z"
+    },
+    {
+      "memory_id": "u003_n_069",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I dislike flimsy takeout lids because they leak in my bag.",
+      "inferred_memory": "Maya dislikes unreliable takeout lids.",
+      "timestamp": "2026-01-16T11:33:00Z"
+    },
+    {
+      "memory_id": "u003_n_070",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep soy sauce packets in a drawer longer than I should.",
+      "inferred_memory": "Maya accumulates extra soy sauce packets.",
+      "timestamp": "2026-01-16T14:50:00Z"
+    },
+    {
+      "memory_id": "u003_n_071",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like bowls that are wide enough to mix food without spilling.",
+      "inferred_memory": "Maya prefers wide mixing-friendly bowls.",
+      "timestamp": "2026-01-17T17:07:00Z"
+    },
+    {
+      "memory_id": "u003_n_072",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep ginger in the freezer when I remember to buy it.",
+      "inferred_memory": "Maya freezes ginger for cooking.",
+      "timestamp": "2026-01-17T08:24:00Z"
+    },
+    {
+      "memory_id": "u003_n_073",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually eat breakfast from the same small plate.",
+      "inferred_memory": "Maya uses the same small plate for breakfast.",
+      "timestamp": "2026-01-17T11:41:00Z"
+    },
+    {
+      "memory_id": "u003_n_074",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer unsweetened tea with meals.",
+      "inferred_memory": "Maya prefers unsweetened tea during meals.",
+      "timestamp": "2026-01-17T14:58:00Z"
+    },
+    {
+      "memory_id": "u003_n_075",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a cloth napkin at my desk for work lunches.",
+      "inferred_memory": "Maya uses a cloth napkin at her desk.",
+      "timestamp": "2026-01-17T17:15:00Z"
+    },
+    {
+      "memory_id": "u003_n_076",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like grocery lists grouped by store section.",
+      "inferred_memory": "Maya organizes grocery lists by store section.",
+      "timestamp": "2026-01-18T08:32:00Z"
+    },
+    {
+      "memory_id": "u003_n_077",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually buy eggs in smaller cartons because I hate wasting them.",
+      "inferred_memory": "Maya buys smaller egg cartons to reduce waste.",
+      "timestamp": "2026-01-18T11:49:00Z"
+    },
+    {
+      "memory_id": "u003_n_078",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer leftovers in glass containers because I can see what they are.",
+      "inferred_memory": "Maya stores leftovers in glass containers.",
+      "timestamp": "2026-01-18T14:06:00Z"
+    },
+    {
+      "memory_id": "u003_n_079",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a separate spoon for tasting while cooking.",
+      "inferred_memory": "Maya uses a separate tasting spoon when cooking.",
+      "timestamp": "2026-01-18T17:23:00Z"
+    },
+    {
+      "memory_id": "u003_n_080",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like cucumbers sliced very thin.",
+      "inferred_memory": "Maya prefers thinly sliced cucumbers.",
+      "timestamp": "2026-01-18T08:40:00Z"
+    },
+    {
+      "memory_id": "u003_n_081",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small cutting board just for fruit.",
+      "inferred_memory": "Maya uses a separate small cutting board for fruit.",
+      "timestamp": "2026-01-19T11:57:00Z"
+    },
+    {
+      "memory_id": "u003_n_082",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer salty snacks in small bowls instead of eating from the bag.",
+      "inferred_memory": "Maya portions salty snacks into small bowls.",
+      "timestamp": "2026-01-19T14:14:00Z"
+    },
+    {
+      "memory_id": "u003_n_083",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually smell milk even if the date says it is fine.",
+      "inferred_memory": "Maya checks milk by smell regardless of date.",
+      "timestamp": "2026-01-19T17:31:00Z"
+    },
+    {
+      "memory_id": "u003_n_084",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a spare jar of pickles in the pantry.",
+      "inferred_memory": "Maya keeps backup pickles stocked.",
+      "timestamp": "2026-01-19T08:48:00Z"
+    },
+    {
+      "memory_id": "u003_n_085",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like noodles rinsed cold when I am packing them for later.",
+      "inferred_memory": "Maya rinses noodles cold for packed meals.",
+      "timestamp": "2026-01-19T11:05:00Z"
+    },
+    {
+      "memory_id": "u003_n_086",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny bottle of vinegar at work.",
+      "inferred_memory": "Maya stores vinegar at work for meals.",
+      "timestamp": "2026-01-20T14:22:00Z"
+    },
+    {
+      "memory_id": "u003_n_087",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer crunchy toppings kept separate until the last second.",
+      "inferred_memory": "Maya keeps crunchy toppings separate before eating.",
+      "timestamp": "2026-01-20T17:39:00Z"
+    },
+    {
+      "memory_id": "u003_n_088",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually choose the smallest available dessert portion.",
+      "inferred_memory": "Maya prefers small dessert portions.",
+      "timestamp": "2026-01-20T08:56:00Z"
+    },
+    {
+      "memory_id": "u003_n_089",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like drinking water from a heavy glass at home.",
+      "inferred_memory": "Maya prefers heavy glasses for water.",
+      "timestamp": "2026-01-20T11:13:00Z"
+    },
+    {
+      "memory_id": "u003_n_090",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep tea bags in a metal tin instead of the cardboard box.",
+      "inferred_memory": "Maya stores tea bags in a metal tin.",
+      "timestamp": "2026-01-20T14:30:00Z"
+    },
+    {
+      "memory_id": "u003_n_091",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I dislike soggy lettuce in packed food.",
+      "inferred_memory": "Maya avoids soggy lettuce in packed meals.",
+      "timestamp": "2026-01-21T17:47:00Z"
+    },
+    {
+      "memory_id": "u003_n_092",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually put labels on freezer containers with masking tape.",
+      "inferred_memory": "Maya labels freezer containers with masking tape.",
+      "timestamp": "2026-01-21T08:04:00Z"
+    },
+    {
+      "memory_id": "u003_n_093",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer grocery stores where produce prices are easy to read.",
+      "inferred_memory": "Maya values clear produce pricing.",
+      "timestamp": "2026-01-21T11:21:00Z"
+    },
+    {
+      "memory_id": "u003_n_094",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny jar of flaky salt near my desk.",
+      "inferred_memory": "Maya keeps flaky salt near her desk.",
+      "timestamp": "2026-01-21T14:38:00Z"
+    },
+    {
+      "memory_id": "u003_n_095",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like tofu pressed with a heavy pan instead of a special gadget.",
+      "inferred_memory": "Maya presses tofu with a pan.",
+      "timestamp": "2026-01-21T17:55:00Z"
+    },
+    {
+      "memory_id": "u003_n_096",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer reusable silicone bags for small snacks.",
+      "inferred_memory": "Maya uses silicone bags for small snacks.",
+      "timestamp": "2026-01-22T08:12:00Z"
+    },
+    {
+      "memory_id": "u003_n_097",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually buy bananas slightly green.",
+      "inferred_memory": "Maya prefers buying slightly green bananas.",
+      "timestamp": "2026-01-22T11:29:00Z"
+    },
+    {
+      "memory_id": "u003_n_098",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep canned beans on the lowest pantry shelf.",
+      "inferred_memory": "Maya stores canned beans on a low pantry shelf.",
+      "timestamp": "2026-01-22T14:46:00Z"
+    },
+    {
+      "memory_id": "u003_n_099",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like vinegar-heavy salad dressing.",
+      "inferred_memory": "Maya prefers vinegar-forward salad dressing.",
+      "timestamp": "2026-01-22T17:03:00Z"
+    },
+    {
+      "memory_id": "u003_n_100",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I use a mug as a small mixing bowl more often than I should.",
+      "inferred_memory": "Maya often uses mugs for small mixing tasks.",
+      "timestamp": "2026-01-22T08:20:00Z"
+    },
+    {
+      "memory_id": "u003_n_101",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer small grocery baskets over full carts when shopping alone.",
+      "inferred_memory": "Maya chooses baskets over carts for solo grocery trips.",
+      "timestamp": "2026-01-23T11:37:00Z"
+    },
+    {
+      "memory_id": "u003_n_102",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a spoon rest next to the stove because I hate sauce rings on counters.",
+      "inferred_memory": "Maya uses a spoon rest to avoid counter stains.",
+      "timestamp": "2026-01-23T14:54:00Z"
+    },
+    {
+      "memory_id": "u003_n_103",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually wash fruit right before eating it, not when I bring it home.",
+      "inferred_memory": "Maya washes fruit immediately before eating.",
+      "timestamp": "2026-01-23T17:11:00Z"
+    },
+    {
+      "memory_id": "u003_n_104",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like clear ice trays because I can see when one is empty.",
+      "inferred_memory": "Maya prefers clear ice trays.",
+      "timestamp": "2026-01-23T08:28:00Z"
+    },
+    {
+      "memory_id": "u003_n_105",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep dried mushrooms in a labeled jar.",
+      "inferred_memory": "Maya stores dried mushrooms in labeled jars.",
+      "timestamp": "2026-01-23T11:45:00Z"
+    },
+    {
+      "memory_id": "u003_n_106",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer plain seltzer over flavored seltzer.",
+      "inferred_memory": "Maya prefers plain sparkling water.",
+      "timestamp": "2026-01-24T14:02:00Z"
+    },
+    {
+      "memory_id": "u003_n_107",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually carry a small snack in my work bag.",
+      "inferred_memory": "Maya carries a small snack in her work bag.",
+      "timestamp": "2026-01-24T17:19:00Z"
+    },
+    {
+      "memory_id": "u003_n_108",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like condiment shelves arranged from tallest to shortest.",
+      "inferred_memory": "Maya organizes condiments by height.",
+      "timestamp": "2026-01-24T08:36:00Z"
+    },
+    {
+      "memory_id": "u003_n_109",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny whisk for sauces.",
+      "inferred_memory": "Maya uses a small whisk for sauces.",
+      "timestamp": "2026-01-24T11:53:00Z"
+    },
+    {
+      "memory_id": "u003_n_110",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer soup reheated on the stove instead of the microwave.",
+      "inferred_memory": "Maya reheats soup on the stove.",
+      "timestamp": "2026-01-24T14:10:00Z"
+    },
+    {
+      "memory_id": "u003_n_111",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually save clean takeout containers for a few weeks.",
+      "inferred_memory": "Maya temporarily saves clean takeout containers.",
+      "timestamp": "2026-01-25T17:27:00Z"
+    },
+    {
+      "memory_id": "u003_n_112",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like cutting citrus into wedges rather than wheels.",
+      "inferred_memory": "Maya cuts citrus into wedges.",
+      "timestamp": "2026-01-25T08:44:00Z"
+    },
+    {
+      "memory_id": "u003_n_113",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a backup box of tea at work.",
+      "inferred_memory": "Maya stocks backup tea at work.",
+      "timestamp": "2026-01-25T11:01:00Z"
+    },
+    {
+      "memory_id": "u003_n_114",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer snacks that do not leave powder on my fingers.",
+      "inferred_memory": "Maya avoids powdery snacks.",
+      "timestamp": "2026-01-25T14:18:00Z"
+    },
+    {
+      "memory_id": "u003_n_115",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like using a rice paddle instead of a spoon for rice.",
+      "inferred_memory": "Maya prefers a rice paddle for serving rice.",
+      "timestamp": "2026-01-25T17:35:00Z"
+    },
+    {
+      "memory_id": "u003_n_116",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually put hot sauce on the side when packing lunch.",
+      "inferred_memory": "Maya packs hot sauce separately.",
+      "timestamp": "2026-01-26T08:52:00Z"
+    },
+    {
+      "memory_id": "u003_n_117",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small grocery budget note in my phone.",
+      "inferred_memory": "Maya tracks grocery spending in a phone note.",
+      "timestamp": "2026-01-26T11:09:00Z"
+    },
+    {
+      "memory_id": "u003_n_118",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like markets that sell single pieces of fruit.",
+      "inferred_memory": "Maya prefers stores that allow buying single fruits.",
+      "timestamp": "2026-01-26T14:26:00Z"
+    },
+    {
+      "memory_id": "u003_n_119",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually clean the stove right after cooking if anything splattered.",
+      "inferred_memory": "Maya cleans cooking splatters immediately.",
+      "timestamp": "2026-01-26T17:43:00Z"
+    },
+    {
+      "memory_id": "u003_n_120",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer lunch containers with locking lids.",
+      "inferred_memory": "Maya prefers secure locking lunch containers.",
+      "timestamp": "2026-01-26T08:00:00Z"
+    },
+    {
+      "memory_id": "u003_n_121",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I name files with the date first so sorting does not annoy me.",
+      "inferred_memory": "Maya names files with date-first conventions.",
+      "timestamp": "2026-01-27T11:17:00Z"
+    },
+    {
+      "memory_id": "u003_n_122",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a scratch document for ideas that are too rough for the main file.",
+      "inferred_memory": "Maya maintains scratch documents for rough ideas.",
+      "timestamp": "2026-01-27T14:34:00Z"
+    },
+    {
+      "memory_id": "u003_n_123",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer keyboard shortcuts printed on a small card rather than hidden in menus.",
+      "inferred_memory": "Maya likes visible shortcut reference cards.",
+      "timestamp": "2026-01-27T17:51:00Z"
+    },
+    {
+      "memory_id": "u003_n_124",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I use brackets when I am unsure about a phrase and want to revisit it.",
+      "inferred_memory": "Maya marks uncertain phrases with brackets.",
+      "timestamp": "2026-01-27T08:08:00Z"
+    },
+    {
+      "memory_id": "u003_n_125",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like examples that include the bad version and the fixed version together.",
+      "inferred_memory": "Maya learns from paired bad-and-fixed examples.",
+      "timestamp": "2026-01-27T11:25:00Z"
+    },
+    {
+      "memory_id": "u003_n_126",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep old drafts longer than necessary because I like seeing the trail.",
+      "inferred_memory": "Maya keeps old drafts to preserve revision history.",
+      "timestamp": "2026-01-28T14:42:00Z"
+    },
+    {
+      "memory_id": "u003_n_127",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer comments that point to a specific sentence rather than general feedback.",
+      "inferred_memory": "Maya prefers sentence-specific comments.",
+      "timestamp": "2026-01-28T17:59:00Z"
+    },
+    {
+      "memory_id": "u003_n_128",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually start slide decks by making ugly section headers first.",
+      "inferred_memory": "Maya roughs out slide decks with basic section headers.",
+      "timestamp": "2026-01-28T08:16:00Z"
+    },
+    {
+      "memory_id": "u003_n_129",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder called parking lot for ideas that do not fit yet.",
+      "inferred_memory": "Maya uses a parking-lot folder for unused ideas.",
+      "timestamp": "2026-01-28T11:33:00Z"
+    },
+    {
+      "memory_id": "u003_n_130",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like checklists that include tiny finishing steps.",
+      "inferred_memory": "Maya values checklists with small completion tasks.",
+      "timestamp": "2026-01-28T14:50:00Z"
+    },
+    {
+      "memory_id": "u003_n_131",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I use all caps for temporary labels I need to replace later.",
+      "inferred_memory": "Maya uses all-caps placeholders in drafts.",
+      "timestamp": "2026-01-29T17:07:00Z"
+    },
+    {
+      "memory_id": "u003_n_132",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples from actual messy projects over abstract exercises.",
+      "inferred_memory": "Maya prefers realistic messy project examples.",
+      "timestamp": "2026-01-29T08:24:00Z"
+    },
+    {
+      "memory_id": "u003_n_133",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of words I overuse in presentations.",
+      "inferred_memory": "Maya tracks overused presentation words.",
+      "timestamp": "2026-01-29T11:41:00Z"
+    },
+    {
+      "memory_id": "u003_n_134",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually print one page if I cannot find the problem on screen.",
+      "inferred_memory": "Maya sometimes prints pages to spot issues.",
+      "timestamp": "2026-01-29T14:58:00Z"
+    },
+    {
+      "memory_id": "u003_n_135",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like revision sessions with a visible timer.",
+      "inferred_memory": "Maya uses visible timers for revision work.",
+      "timestamp": "2026-01-29T17:15:00Z"
+    },
+    {
+      "memory_id": "u003_n_136",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I make duplicate files before changing layouts heavily.",
+      "inferred_memory": "Maya duplicates files before major layout changes.",
+      "timestamp": "2026-01-30T08:32:00Z"
+    },
+    {
+      "memory_id": "u003_n_137",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer feedback notes grouped by severity.",
+      "inferred_memory": "Maya likes critique feedback grouped by severity.",
+      "timestamp": "2026-01-30T11:49:00Z"
+    },
+    {
+      "memory_id": "u003_n_138",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a small notebook for ideas that arrive away from my laptop.",
+      "inferred_memory": "Maya carries a notebook for offline ideas.",
+      "timestamp": "2026-01-30T14:06:00Z"
+    },
+    {
+      "memory_id": "u003_n_139",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually write TODO in brackets instead of making a separate task immediately.",
+      "inferred_memory": "Maya marks draft tasks with bracketed TODOs.",
+      "timestamp": "2026-01-30T17:23:00Z"
+    },
+    {
+      "memory_id": "u003_n_140",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like naming design explorations with plain numbers instead of clever names.",
+      "inferred_memory": "Maya labels design explorations numerically.",
+      "timestamp": "2026-01-30T08:40:00Z"
+    },
+    {
+      "memory_id": "u003_n_141",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder of screenshots that show confusing interfaces.",
+      "inferred_memory": "Maya saves screenshots of confusing interfaces.",
+      "timestamp": "2026-01-31T11:57:00Z"
+    },
+    {
+      "memory_id": "u003_n_142",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer practice prompts that have constraints.",
+      "inferred_memory": "Maya likes constrained practice prompts.",
+      "timestamp": "2026-01-31T14:14:00Z"
+    },
+    {
+      "memory_id": "u003_n_143",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually reread instructions twice before starting a formal submission.",
+      "inferred_memory": "Maya rereads formal submission instructions.",
+      "timestamp": "2026-01-31T17:31:00Z"
+    },
+    {
+      "memory_id": "u003_n_144",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of presentation questions people have asked before.",
+      "inferred_memory": "Maya tracks recurring presentation questions.",
+      "timestamp": "2026-01-31T08:48:00Z"
+    },
+    {
+      "memory_id": "u003_n_145",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like short critique rounds more than long unstructured ones.",
+      "inferred_memory": "Maya prefers brief structured critique rounds.",
+      "timestamp": "2026-01-31T11:05:00Z"
+    },
+    {
+      "memory_id": "u003_n_146",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I use a separate color only to mark things I must verify.",
+      "inferred_memory": "Maya uses a dedicated color for verification items.",
+      "timestamp": "2026-02-01T14:22:00Z"
+    },
+    {
+      "memory_id": "u003_n_147",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually draft titles last.",
+      "inferred_memory": "Maya tends to write titles after the main content.",
+      "timestamp": "2026-02-01T17:39:00Z"
+    },
+    {
+      "memory_id": "u003_n_148",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples that show what changed between versions.",
+      "inferred_memory": "Maya likes version-difference examples.",
+      "timestamp": "2026-02-01T08:56:00Z"
+    },
+    {
+      "memory_id": "u003_n_149",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep messy whiteboard photos even when they are hard to read.",
+      "inferred_memory": "Maya saves whiteboard photos from work sessions.",
+      "timestamp": "2026-02-01T11:13:00Z"
+    },
+    {
+      "memory_id": "u003_n_150",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like file names that describe the state of the work, not the mood.",
+      "inferred_memory": "Maya prefers descriptive file names.",
+      "timestamp": "2026-02-01T14:30:00Z"
+    },
+    {
+      "memory_id": "u003_n_151",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I use a text file for notes when a document feels too formal.",
+      "inferred_memory": "Maya uses plain text notes for informal drafting.",
+      "timestamp": "2026-02-02T17:47:00Z"
+    },
+    {
+      "memory_id": "u003_n_152",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer feedback that separates content problems from visual polish.",
+      "inferred_memory": "Maya likes content and visual feedback separated.",
+      "timestamp": "2026-02-02T08:04:00Z"
+    },
+    {
+      "memory_id": "u003_n_153",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually list assumptions before making a recommendation.",
+      "inferred_memory": "Maya writes assumptions before recommendations.",
+      "timestamp": "2026-02-02T11:21:00Z"
+    },
+    {
+      "memory_id": "u003_n_154",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a running list of design patterns I dislike.",
+      "inferred_memory": "Maya maintains a list of disliked design patterns.",
+      "timestamp": "2026-02-02T14:38:00Z"
+    },
+    {
+      "memory_id": "u003_n_155",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like practice sessions that end with one clear next step.",
+      "inferred_memory": "Maya prefers learning sessions with a single next step.",
+      "timestamp": "2026-02-02T17:55:00Z"
+    },
+    {
+      "memory_id": "u003_n_156",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I avoid changing fonts until the structure feels stable.",
+      "inferred_memory": "Maya delays font choices until structure is stable.",
+      "timestamp": "2026-02-03T08:12:00Z"
+    },
+    {
+      "memory_id": "u003_n_157",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep templates only if I have used them more than twice.",
+      "inferred_memory": "Maya keeps templates only after repeated use.",
+      "timestamp": "2026-02-03T11:29:00Z"
+    },
+    {
+      "memory_id": "u003_n_158",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer comments written as questions when the answer is not obvious.",
+      "inferred_memory": "Maya likes uncertain feedback framed as questions.",
+      "timestamp": "2026-02-03T14:46:00Z"
+    },
+    {
+      "memory_id": "u003_n_159",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually write meeting notes in chronological order.",
+      "inferred_memory": "Maya records meeting notes chronologically.",
+      "timestamp": "2026-02-03T17:03:00Z"
+    },
+    {
+      "memory_id": "u003_n_160",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep links to useful examples in a plain spreadsheet.",
+      "inferred_memory": "Maya stores example links in a simple spreadsheet.",
+      "timestamp": "2026-02-03T08:20:00Z"
+    },
+    {
+      "memory_id": "u003_n_161",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like seeing the constraints before the solution in a case study.",
+      "inferred_memory": "Maya prefers case studies that present constraints first.",
+      "timestamp": "2026-02-04T11:37:00Z"
+    },
+    {
+      "memory_id": "u003_n_162",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually sketch margins before opening design software.",
+      "inferred_memory": "Maya often sketches in margins before digital work.",
+      "timestamp": "2026-02-04T14:54:00Z"
+    },
+    {
+      "memory_id": "u003_n_163",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer rubric tables with only a few rows.",
+      "inferred_memory": "Maya likes concise rubric tables.",
+      "timestamp": "2026-02-04T17:11:00Z"
+    },
+    {
+      "memory_id": "u003_n_164",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a private glossary of terms that different teams use differently.",
+      "inferred_memory": "Maya maintains a glossary of team-specific terminology.",
+      "timestamp": "2026-02-04T08:28:00Z"
+    },
+    {
+      "memory_id": "u003_n_165",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like review documents that start with what changed since last time.",
+      "inferred_memory": "Maya prefers review docs to highlight changes first.",
+      "timestamp": "2026-02-04T11:45:00Z"
+    },
+    {
+      "memory_id": "u003_n_166",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually put unresolved questions at the bottom of notes.",
+      "inferred_memory": "Maya places unresolved questions at the bottom of notes.",
+      "timestamp": "2026-02-05T14:02:00Z"
+    },
+    {
+      "memory_id": "u003_n_167",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer peer feedback from one person at a time.",
+      "inferred_memory": "Maya likes receiving feedback from one peer at a time.",
+      "timestamp": "2026-02-05T17:19:00Z"
+    },
+    {
+      "memory_id": "u003_n_168",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep exported PDFs next to editable source files.",
+      "inferred_memory": "Maya stores exported PDFs alongside source files.",
+      "timestamp": "2026-02-05T08:36:00Z"
+    },
+    {
+      "memory_id": "u003_n_169",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like exercises that require deleting something, not just adding more.",
+      "inferred_memory": "Maya values practice that involves removing content.",
+      "timestamp": "2026-02-05T11:53:00Z"
+    },
+    {
+      "memory_id": "u003_n_170",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually save drafts before joining a critique call.",
+      "inferred_memory": "Maya saves drafts before critique meetings.",
+      "timestamp": "2026-02-05T14:10:00Z"
+    },
+    {
+      "memory_id": "u003_n_171",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples with annotations in the margins.",
+      "inferred_memory": "Maya likes margin-annotated examples.",
+      "timestamp": "2026-02-06T17:27:00Z"
+    },
+    {
+      "memory_id": "u003_n_172",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of questions to ask reviewers before showing work.",
+      "inferred_memory": "Maya prepares reviewer questions in advance.",
+      "timestamp": "2026-02-06T08:44:00Z"
+    },
+    {
+      "memory_id": "u003_n_173",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like learning sessions that include a quick recap at the end.",
+      "inferred_memory": "Maya prefers learning sessions with short recaps.",
+      "timestamp": "2026-02-06T11:01:00Z"
+    },
+    {
+      "memory_id": "u003_n_174",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually mark uncertain design claims with a question mark.",
+      "inferred_memory": "Maya marks uncertain claims with question marks.",
+      "timestamp": "2026-02-06T14:18:00Z"
+    },
+    {
+      "memory_id": "u003_n_175",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep older portfolio versions in an archive folder.",
+      "inferred_memory": "Maya archives older portfolio versions.",
+      "timestamp": "2026-02-06T17:35:00Z"
+    },
+    {
+      "memory_id": "u003_n_176",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer critique notes that include the reason behind the comment.",
+      "inferred_memory": "Maya values feedback that explains reasoning.",
+      "timestamp": "2026-02-07T08:52:00Z"
+    },
+    {
+      "memory_id": "u003_n_177",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I usually separate source material from my own notes.",
+      "inferred_memory": "Maya keeps source material separate from personal notes.",
+      "timestamp": "2026-02-07T11:09:00Z"
+    },
+    {
+      "memory_id": "u003_n_178",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like small practice tasks more than broad open assignments.",
+      "inferred_memory": "Maya prefers narrowly scoped practice tasks.",
+      "timestamp": "2026-02-07T14:26:00Z"
+    },
+    {
+      "memory_id": "u003_n_179",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a checklist for final export settings.",
+      "inferred_memory": "Maya uses a final export checklist.",
+      "timestamp": "2026-02-07T17:43:00Z"
+    },
+    {
+      "memory_id": "u003_n_180",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer documents with visible section breaks.",
+      "inferred_memory": "Maya likes clear section breaks in documents.",
+      "timestamp": "2026-02-07T08:00:00Z"
+    },
+    {
+      "memory_id": "u003_n_181",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better when my room is slightly cool.",
+      "inferred_memory": "Maya prefers a slightly cool sleeping environment.",
+      "timestamp": "2026-02-08T11:17:00Z"
+    },
+    {
+      "memory_id": "u003_n_182",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep lip balm next to my bed.",
+      "inferred_memory": "Maya stores lip balm at her bedside.",
+      "timestamp": "2026-02-08T14:34:00Z"
+    },
+    {
+      "memory_id": "u003_n_183",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stretch my calves while brushing my teeth sometimes.",
+      "inferred_memory": "Maya sometimes stretches calves while brushing teeth.",
+      "timestamp": "2026-02-08T17:51:00Z"
+    },
+    {
+      "memory_id": "u003_n_184",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I drink water before coffee on workdays.",
+      "inferred_memory": "Maya drinks water before coffee on workdays.",
+      "timestamp": "2026-02-08T08:08:00Z"
+    },
+    {
+      "memory_id": "u003_n_185",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare pair of earbuds in my gym bag.",
+      "inferred_memory": "Maya stores backup earbuds in her gym bag.",
+      "timestamp": "2026-02-08T11:25:00Z"
+    },
+    {
+      "memory_id": "u003_n_186",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer cotton socks for long walks.",
+      "inferred_memory": "Maya prefers cotton socks for walking.",
+      "timestamp": "2026-02-09T14:42:00Z"
+    },
+    {
+      "memory_id": "u003_n_187",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I track headaches in a note when they happen more than once in a week.",
+      "inferred_memory": "Maya tracks recurring headaches in notes.",
+      "timestamp": "2026-02-09T17:59:00Z"
+    },
+    {
+      "memory_id": "u003_n_188",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like short walks after heavy screen days.",
+      "inferred_memory": "Maya uses short walks after screen-heavy days.",
+      "timestamp": "2026-02-09T08:16:00Z"
+    },
+    {
+      "memory_id": "u003_n_189",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep sunscreen near my keys so I remember it.",
+      "inferred_memory": "Maya stores sunscreen near keys as a reminder.",
+      "timestamp": "2026-02-09T11:33:00Z"
+    },
+    {
+      "memory_id": "u003_n_190",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer morning light from a window before turning on overhead lights.",
+      "inferred_memory": "Maya prefers window light before overhead lights in the morning.",
+      "timestamp": "2026-02-09T14:50:00Z"
+    },
+    {
+      "memory_id": "u003_n_191",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I replace my toothbrush when the bristles start looking uneven.",
+      "inferred_memory": "Maya replaces toothbrushes based on bristle wear.",
+      "timestamp": "2026-02-10T17:07:00Z"
+    },
+    {
+      "memory_id": "u003_n_192",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny first-aid pouch in my work bag.",
+      "inferred_memory": "Maya carries a small first-aid pouch.",
+      "timestamp": "2026-02-10T08:24:00Z"
+    },
+    {
+      "memory_id": "u003_n_193",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like foam rolling only if I can do it while watching something.",
+      "inferred_memory": "Maya pairs foam rolling with watching media.",
+      "timestamp": "2026-02-10T11:41:00Z"
+    },
+    {
+      "memory_id": "u003_n_194",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer low music volume during workouts.",
+      "inferred_memory": "Maya likes low-volume workout music.",
+      "timestamp": "2026-02-10T14:58:00Z"
+    },
+    {
+      "memory_id": "u003_n_195",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a reusable water bottle on my desk.",
+      "inferred_memory": "Maya keeps a water bottle at her desk.",
+      "timestamp": "2026-02-10T17:15:00Z"
+    },
+    {
+      "memory_id": "u003_n_196",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I do not like mint toothpaste that feels extremely strong.",
+      "inferred_memory": "Maya dislikes very strong mint toothpaste.",
+      "timestamp": "2026-02-11T08:32:00Z"
+    },
+    {
+      "memory_id": "u003_n_197",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually take stairs for two or three floors.",
+      "inferred_memory": "Maya tends to take stairs for short vertical distances.",
+      "timestamp": "2026-02-11T11:49:00Z"
+    },
+    {
+      "memory_id": "u003_n_198",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep hand lotion in my bag during winter.",
+      "inferred_memory": "Maya carries hand lotion in winter.",
+      "timestamp": "2026-02-11T14:06:00Z"
+    },
+    {
+      "memory_id": "u003_n_199",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like walking shoes that do not look too sporty.",
+      "inferred_memory": "Maya prefers understated walking shoes.",
+      "timestamp": "2026-02-11T17:23:00Z"
+    },
+    {
+      "memory_id": "u003_n_200",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually set out clothes the night before early mornings.",
+      "inferred_memory": "Maya lays out clothes before early mornings.",
+      "timestamp": "2026-02-11T08:40:00Z"
+    },
+    {
+      "memory_id": "u003_n_201",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer quiet alarms over loud alarms.",
+      "inferred_memory": "Maya prefers quiet alarm sounds.",
+      "timestamp": "2026-02-12T11:57:00Z"
+    },
+    {
+      "memory_id": "u003_n_202",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep extra hair ties in several bags.",
+      "inferred_memory": "Maya stores hair ties in multiple bags.",
+      "timestamp": "2026-02-12T14:14:00Z"
+    },
+    {
+      "memory_id": "u003_n_203",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like breaks that involve standing near a window.",
+      "inferred_memory": "Maya uses window-standing breaks.",
+      "timestamp": "2026-02-12T17:31:00Z"
+    },
+    {
+      "memory_id": "u003_n_204",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually notice if I have skipped lunch because I get cold.",
+      "inferred_memory": "Maya associates skipped lunch with feeling cold.",
+      "timestamp": "2026-02-12T08:48:00Z"
+    },
+    {
+      "memory_id": "u003_n_205",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep electrolyte packets for very hot days.",
+      "inferred_memory": "Maya stores electrolyte packets for hot weather.",
+      "timestamp": "2026-02-12T11:05:00Z"
+    },
+    {
+      "memory_id": "u003_n_206",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer breathable jackets over heavy coats when walking.",
+      "inferred_memory": "Maya prefers breathable jackets for walks.",
+      "timestamp": "2026-02-13T14:22:00Z"
+    },
+    {
+      "memory_id": "u003_n_207",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I track sleep only when it has been bad for several nights.",
+      "inferred_memory": "Maya tracks sleep during poor sleep periods.",
+      "timestamp": "2026-02-13T17:39:00Z"
+    },
+    {
+      "memory_id": "u003_n_208",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like cool washcloths when I have been outside in heat.",
+      "inferred_memory": "Maya uses cool washcloths after being in heat.",
+      "timestamp": "2026-02-13T08:56:00Z"
+    },
+    {
+      "memory_id": "u003_n_209",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare mask in my work bag.",
+      "inferred_memory": "Maya carries a spare mask in her work bag.",
+      "timestamp": "2026-02-13T11:13:00Z"
+    },
+    {
+      "memory_id": "u003_n_210",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer unscented hand soap.",
+      "inferred_memory": "Maya prefers unscented hand soap.",
+      "timestamp": "2026-02-13T14:30:00Z"
+    },
+    {
+      "memory_id": "u003_n_211",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a timer when I take short breaks so they do not drift.",
+      "inferred_memory": "Maya times short breaks.",
+      "timestamp": "2026-02-14T17:47:00Z"
+    },
+    {
+      "memory_id": "u003_n_212",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like having a glass of water next to the bed.",
+      "inferred_memory": "Maya keeps bedside water.",
+      "timestamp": "2026-02-14T08:04:00Z"
+    },
+    {
+      "memory_id": "u003_n_213",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually walk around while waiting for laundry.",
+      "inferred_memory": "Maya walks while waiting for laundry.",
+      "timestamp": "2026-02-14T11:21:00Z"
+    },
+    {
+      "memory_id": "u003_n_214",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer matte sunscreen because shiny sunscreen annoys me.",
+      "inferred_memory": "Maya prefers matte sunscreen.",
+      "timestamp": "2026-02-14T14:38:00Z"
+    },
+    {
+      "memory_id": "u003_n_215",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small comb in my desk drawer.",
+      "inferred_memory": "Maya stores a comb at her desk.",
+      "timestamp": "2026-02-14T17:55:00Z"
+    },
+    {
+      "memory_id": "u003_n_216",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like stretching my hands after long drawing sessions.",
+      "inferred_memory": "Maya stretches hands after drawing sessions.",
+      "timestamp": "2026-02-15T08:12:00Z"
+    },
+    {
+      "memory_id": "u003_n_217",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually air out new shoes before wearing them all day.",
+      "inferred_memory": "Maya airs out new shoes before full-day wear.",
+      "timestamp": "2026-02-15T11:29:00Z"
+    },
+    {
+      "memory_id": "u003_n_218",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer warm socks at home even when the room is not very cold.",
+      "inferred_memory": "Maya likes wearing warm socks at home.",
+      "timestamp": "2026-02-15T14:46:00Z"
+    },
+    {
+      "memory_id": "u003_n_219",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep cough drops in a kitchen drawer.",
+      "inferred_memory": "Maya stores cough drops in the kitchen.",
+      "timestamp": "2026-02-15T17:03:00Z"
+    },
+    {
+      "memory_id": "u003_n_220",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like sitting near natural light when working long hours.",
+      "inferred_memory": "Maya prefers natural light during long work periods.",
+      "timestamp": "2026-02-15T08:20:00Z"
+    },
+    {
+      "memory_id": "u003_n_221",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually lower screen brightness in the evening.",
+      "inferred_memory": "Maya reduces screen brightness at night.",
+      "timestamp": "2026-02-16T11:37:00Z"
+    },
+    {
+      "memory_id": "u003_n_222",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer soap that does not leave a strong scent on my hands.",
+      "inferred_memory": "Maya dislikes lingering soap scents.",
+      "timestamp": "2026-02-16T14:54:00Z"
+    },
+    {
+      "memory_id": "u003_n_223",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a backup pair of glasses in a drawer.",
+      "inferred_memory": "Maya stores backup glasses in a drawer.",
+      "timestamp": "2026-02-16T17:11:00Z"
+    },
+    {
+      "memory_id": "u003_n_224",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like short mobility routines more when they have a clear endpoint.",
+      "inferred_memory": "Maya prefers mobility routines with clear endpoints.",
+      "timestamp": "2026-02-16T08:28:00Z"
+    },
+    {
+      "memory_id": "u003_n_225",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually open a window after cleaning products are used.",
+      "inferred_memory": "Maya ventilates after using cleaning products.",
+      "timestamp": "2026-02-16T11:45:00Z"
+    },
+    {
+      "memory_id": "u003_n_226",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer water at room temperature when I wake up.",
+      "inferred_memory": "Maya prefers room-temperature morning water.",
+      "timestamp": "2026-02-17T14:02:00Z"
+    },
+    {
+      "memory_id": "u003_n_227",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep tissues on both my desk and nightstand.",
+      "inferred_memory": "Maya keeps tissues in multiple locations.",
+      "timestamp": "2026-02-17T17:19:00Z"
+    },
+    {
+      "memory_id": "u003_n_228",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like sitting on the floor for a few minutes after long meetings.",
+      "inferred_memory": "Maya decompresses by sitting on the floor after long meetings.",
+      "timestamp": "2026-02-17T08:36:00Z"
+    },
+    {
+      "memory_id": "u003_n_229",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually schedule medical appointments in the morning if I have a choice.",
+      "inferred_memory": "Maya prefers morning medical appointments.",
+      "timestamp": "2026-02-17T11:53:00Z"
+    },
+    {
+      "memory_id": "u003_n_230",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small pouch for medications when traveling.",
+      "inferred_memory": "Maya packs travel medications in a small pouch.",
+      "timestamp": "2026-02-17T14:10:00Z"
+    },
+    {
+      "memory_id": "u003_n_231",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer gentle reminders over loud notification sounds.",
+      "inferred_memory": "Maya prefers gentle notification sounds.",
+      "timestamp": "2026-02-18T17:27:00Z"
+    },
+    {
+      "memory_id": "u003_n_232",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like walking routes with places to sit if I get tired.",
+      "inferred_memory": "Maya values seating along walking routes.",
+      "timestamp": "2026-02-18T08:44:00Z"
+    },
+    {
+      "memory_id": "u003_n_233",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually drink more water if it is in a bottle with measurement marks.",
+      "inferred_memory": "Maya drinks more from marked water bottles.",
+      "timestamp": "2026-02-18T11:01:00Z"
+    },
+    {
+      "memory_id": "u003_n_234",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a heating pad in a lower drawer.",
+      "inferred_memory": "Maya stores a heating pad in a lower drawer.",
+      "timestamp": "2026-02-18T14:18:00Z"
+    },
+    {
+      "memory_id": "u003_n_235",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer fragrance-free laundry detergent.",
+      "inferred_memory": "Maya prefers fragrance-free detergent.",
+      "timestamp": "2026-02-18T17:35:00Z"
+    },
+    {
+      "memory_id": "u003_n_236",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like ending workouts with the same short cooldown.",
+      "inferred_memory": "Maya prefers a consistent workout cooldown.",
+      "timestamp": "2026-02-19T08:52:00Z"
+    },
+    {
+      "memory_id": "u003_n_237",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I usually wash my face as soon as I get home on humid days.",
+      "inferred_memory": "Maya washes her face after humid days outside.",
+      "timestamp": "2026-02-19T11:09:00Z"
+    },
+    {
+      "memory_id": "u003_n_238",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep bandages in both the bathroom and my work bag.",
+      "inferred_memory": "Maya stores bandages in multiple places.",
+      "timestamp": "2026-02-19T14:26:00Z"
+    },
+    {
+      "memory_id": "u003_n_239",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer soft lighting before sleep.",
+      "inferred_memory": "Maya prefers soft pre-sleep lighting.",
+      "timestamp": "2026-02-19T17:43:00Z"
+    },
+    {
+      "memory_id": "u003_n_240",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like fresh pillowcases more often than fresh sheets.",
+      "inferred_memory": "Maya changes pillowcases more frequently than sheets.",
+      "timestamp": "2026-02-19T08:00:00Z"
+    },
+    {
+      "memory_id": "u003_n_241",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I round purchases up in my head when estimating monthly spending.",
+      "inferred_memory": "Maya mentally rounds purchases upward for budgeting.",
+      "timestamp": "2026-02-20T11:17:00Z"
+    },
+    {
+      "memory_id": "u003_n_242",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small buffer in checking because transfers make me nervous.",
+      "inferred_memory": "Maya keeps a checking-account buffer.",
+      "timestamp": "2026-02-20T14:34:00Z"
+    },
+    {
+      "memory_id": "u003_n_243",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer bills on autopay only after I have checked the first payment manually.",
+      "inferred_memory": "Maya verifies first payments before relying on autopay.",
+      "timestamp": "2026-02-20T17:51:00Z"
+    },
+    {
+      "memory_id": "u003_n_244",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save warranty emails in a separate folder.",
+      "inferred_memory": "Maya keeps warranty emails organized separately.",
+      "timestamp": "2026-02-20T08:08:00Z"
+    },
+    {
+      "memory_id": "u003_n_245",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a note of annual renewals so they do not surprise me.",
+      "inferred_memory": "Maya tracks annual renewals in notes.",
+      "timestamp": "2026-02-20T11:25:00Z"
+    },
+    {
+      "memory_id": "u003_n_246",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying replacement parts before replacing the whole item.",
+      "inferred_memory": "Maya favors replacement parts over full replacements.",
+      "timestamp": "2026-02-21T14:42:00Z"
+    },
+    {
+      "memory_id": "u003_n_247",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually wait for household items to go on sale if they are not urgent.",
+      "inferred_memory": "Maya waits for sales on non-urgent household items.",
+      "timestamp": "2026-02-21T17:59:00Z"
+    },
+    {
+      "memory_id": "u003_n_248",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep gift cards in my wallet app so I do not forget them.",
+      "inferred_memory": "Maya stores gift cards in her wallet app.",
+      "timestamp": "2026-02-21T08:16:00Z"
+    },
+    {
+      "memory_id": "u003_n_249",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check return windows before buying anything bulky.",
+      "inferred_memory": "Maya reviews return windows for bulky purchases.",
+      "timestamp": "2026-02-21T11:33:00Z"
+    },
+    {
+      "memory_id": "u003_n_250",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer simple cash-back cards over points systems.",
+      "inferred_memory": "Maya prefers simple cash-back rewards.",
+      "timestamp": "2026-02-21T14:50:00Z"
+    },
+    {
+      "memory_id": "u003_n_251",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small list of items to buy secondhand.",
+      "inferred_memory": "Maya tracks items suitable for secondhand purchase.",
+      "timestamp": "2026-02-22T17:07:00Z"
+    },
+    {
+      "memory_id": "u003_n_252",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually compare unit prices at the grocery store.",
+      "inferred_memory": "Maya compares grocery unit prices.",
+      "timestamp": "2026-02-22T08:24:00Z"
+    },
+    {
+      "memory_id": "u003_n_253",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep old phone boxes until the warranty period is over.",
+      "inferred_memory": "Maya keeps phone boxes during warranty periods.",
+      "timestamp": "2026-02-22T11:41:00Z"
+    },
+    {
+      "memory_id": "u003_n_254",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer repairing zippers over replacing bags.",
+      "inferred_memory": "Maya repairs zippers rather than replacing bags.",
+      "timestamp": "2026-02-22T14:58:00Z"
+    },
+    {
+      "memory_id": "u003_n_255",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track shared expenses in a spreadsheet when trips involve friends.",
+      "inferred_memory": "Maya uses spreadsheets for shared trip expenses.",
+      "timestamp": "2026-02-22T17:15:00Z"
+    },
+    {
+      "memory_id": "u003_n_256",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid free trials unless I set a cancellation reminder first.",
+      "inferred_memory": "Maya sets cancellation reminders before starting free trials.",
+      "timestamp": "2026-02-23T08:32:00Z"
+    },
+    {
+      "memory_id": "u003_n_257",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep paper manuals only for appliances with odd settings.",
+      "inferred_memory": "Maya keeps manuals for complex appliances.",
+      "timestamp": "2026-02-23T11:49:00Z"
+    },
+    {
+      "memory_id": "u003_n_258",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying neutral household items so I do not replace them for style reasons.",
+      "inferred_memory": "Maya buys neutral household items to reduce replacement urges.",
+      "timestamp": "2026-02-23T14:06:00Z"
+    },
+    {
+      "memory_id": "u003_n_259",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save screenshots of price drops for bigger purchases.",
+      "inferred_memory": "Maya screenshots price drops for larger purchases.",
+      "timestamp": "2026-02-23T17:23:00Z"
+    },
+    {
+      "memory_id": "u003_n_260",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually check my subscriptions on the first weekend of the month.",
+      "inferred_memory": "Maya reviews subscriptions monthly.",
+      "timestamp": "2026-02-23T08:40:00Z"
+    },
+    {
+      "memory_id": "u003_n_261",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a repair fund separate from general savings.",
+      "inferred_memory": "Maya separates repair savings from general savings.",
+      "timestamp": "2026-02-24T11:57:00Z"
+    },
+    {
+      "memory_id": "u003_n_262",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer reusable batteries for devices I use often.",
+      "inferred_memory": "Maya uses rechargeable batteries for frequent-use devices.",
+      "timestamp": "2026-02-24T14:14:00Z"
+    },
+    {
+      "memory_id": "u003_n_263",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep receipts for shoes until I know they are comfortable.",
+      "inferred_memory": "Maya keeps shoe receipts during comfort trial periods.",
+      "timestamp": "2026-02-24T17:31:00Z"
+    },
+    {
+      "memory_id": "u003_n_264",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually buy basic supplies in pairs if running out would be annoying.",
+      "inferred_memory": "Maya buys backup basic supplies in pairs.",
+      "timestamp": "2026-02-24T08:48:00Z"
+    },
+    {
+      "memory_id": "u003_n_265",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying storage bins until I have already sorted the items.",
+      "inferred_memory": "Maya sorts belongings before buying storage bins.",
+      "timestamp": "2026-02-24T11:05:00Z"
+    },
+    {
+      "memory_id": "u003_n_266",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a list of things I almost bought but did not need.",
+      "inferred_memory": "Maya tracks avoided purchases.",
+      "timestamp": "2026-02-25T14:22:00Z"
+    },
+    {
+      "memory_id": "u003_n_267",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer plain packaging if it makes the item cheaper.",
+      "inferred_memory": "Maya chooses cheaper plain-packaged items.",
+      "timestamp": "2026-02-25T17:39:00Z"
+    },
+    {
+      "memory_id": "u003_n_268",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check library access before buying ebooks.",
+      "inferred_memory": "Maya checks library availability before ebook purchases.",
+      "timestamp": "2026-02-25T08:56:00Z"
+    },
+    {
+      "memory_id": "u003_n_269",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a moving-expense note even after the move is done.",
+      "inferred_memory": "Maya maintains a moving-expense note.",
+      "timestamp": "2026-02-25T11:13:00Z"
+    },
+    {
+      "memory_id": "u003_n_270",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer paying small invoices as soon as I verify them.",
+      "inferred_memory": "Maya pays verified small invoices promptly.",
+      "timestamp": "2026-02-25T14:30:00Z"
+    },
+    {
+      "memory_id": "u003_n_271",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually compare shipping costs before choosing a retailer.",
+      "inferred_memory": "Maya compares retailer shipping costs.",
+      "timestamp": "2026-02-26T17:47:00Z"
+    },
+    {
+      "memory_id": "u003_n_272",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny emergency cash bill in a hidden wallet pocket.",
+      "inferred_memory": "Maya carries hidden emergency cash.",
+      "timestamp": "2026-02-26T08:04:00Z"
+    },
+    {
+      "memory_id": "u003_n_273",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying tools that can do one job reliably over multipurpose gadgets.",
+      "inferred_memory": "Maya prefers reliable single-purpose tools.",
+      "timestamp": "2026-02-26T11:21:00Z"
+    },
+    {
+      "memory_id": "u003_n_274",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying clothes that require special cleaning.",
+      "inferred_memory": "Maya avoids special-care clothing.",
+      "timestamp": "2026-02-26T14:38:00Z"
+    },
+    {
+      "memory_id": "u003_n_275",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a donation receipt folder for tax time.",
+      "inferred_memory": "Maya organizes donation receipts for taxes.",
+      "timestamp": "2026-02-26T17:55:00Z"
+    },
+    {
+      "memory_id": "u003_n_276",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually check whether a discount code exists before checking out.",
+      "inferred_memory": "Maya searches for discount codes before purchases.",
+      "timestamp": "2026-02-27T08:12:00Z"
+    },
+    {
+      "memory_id": "u003_n_277",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer monthly budgets that show fixed costs separately.",
+      "inferred_memory": "Maya separates fixed costs in budgets.",
+      "timestamp": "2026-02-27T11:29:00Z"
+    },
+    {
+      "memory_id": "u003_n_278",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep old utility bills for comparison when rates change.",
+      "inferred_memory": "Maya saves old utility bills for rate comparisons.",
+      "timestamp": "2026-02-27T14:46:00Z"
+    },
+    {
+      "memory_id": "u003_n_279",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually note why I returned an item so I do not rebuy the same mistake.",
+      "inferred_memory": "Maya records reasons for returns.",
+      "timestamp": "2026-02-27T17:03:00Z"
+    },
+    {
+      "memory_id": "u003_n_280",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying refill packs when the container still works.",
+      "inferred_memory": "Maya buys refill packs for usable containers.",
+      "timestamp": "2026-02-27T08:20:00Z"
+    },
+    {
+      "memory_id": "u003_n_281",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep maintenance dates for appliances in a note.",
+      "inferred_memory": "Maya tracks appliance maintenance dates.",
+      "timestamp": "2026-02-28T11:37:00Z"
+    },
+    {
+      "memory_id": "u003_n_282",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually pause before buying duplicates of things I already own.",
+      "inferred_memory": "Maya pauses before duplicate purchases.",
+      "timestamp": "2026-02-28T14:54:00Z"
+    },
+    {
+      "memory_id": "u003_n_283",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer low-fee accounts even if the interface is plain.",
+      "inferred_memory": "Maya prioritizes low fees over polished banking interfaces.",
+      "timestamp": "2026-02-28T17:11:00Z"
+    },
+    {
+      "memory_id": "u003_n_284",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check whether workplace benefits cover something before paying out of pocket.",
+      "inferred_memory": "Maya checks benefits before out-of-pocket spending.",
+      "timestamp": "2026-02-28T08:28:00Z"
+    },
+    {
+      "memory_id": "u003_n_285",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a list of recurring charges with renewal dates.",
+      "inferred_memory": "Maya tracks recurring charges and renewal dates.",
+      "timestamp": "2026-02-28T11:45:00Z"
+    },
+    {
+      "memory_id": "u003_n_286",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually buy generic medicine when the ingredients match.",
+      "inferred_memory": "Maya chooses generic medicine with matching ingredients.",
+      "timestamp": "2026-03-01T14:02:00Z"
+    },
+    {
+      "memory_id": "u003_n_287",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer keeping furniture that works even if it is not ideal.",
+      "inferred_memory": "Maya keeps functional furniture.",
+      "timestamp": "2026-03-01T17:19:00Z"
+    },
+    {
+      "memory_id": "u003_n_288",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track large purchases by purchase date and expected lifespan.",
+      "inferred_memory": "Maya records large purchase dates and lifespans.",
+      "timestamp": "2026-03-01T08:36:00Z"
+    },
+    {
+      "memory_id": "u003_n_289",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small category for household basics so they do not distort food spending.",
+      "inferred_memory": "Maya separates household basics from food spending.",
+      "timestamp": "2026-03-01T11:53:00Z"
+    },
+    {
+      "memory_id": "u003_n_290",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually read the cancellation policy before booking appointments.",
+      "inferred_memory": "Maya checks cancellation policies before appointments.",
+      "timestamp": "2026-03-01T14:10:00Z"
+    },
+    {
+      "memory_id": "u003_n_291",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer durable phone cases over decorative ones.",
+      "inferred_memory": "Maya prioritizes durable phone cases.",
+      "timestamp": "2026-03-02T17:27:00Z"
+    },
+    {
+      "memory_id": "u003_n_292",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a list of items borrowed from other people.",
+      "inferred_memory": "Maya tracks borrowed items.",
+      "timestamp": "2026-03-02T08:44:00Z"
+    },
+    {
+      "memory_id": "u003_n_293",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually choose standard shipping when timing is not urgent.",
+      "inferred_memory": "Maya chooses standard shipping for non-urgent orders.",
+      "timestamp": "2026-03-02T11:01:00Z"
+    },
+    {
+      "memory_id": "u003_n_294",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying one reliable notebook instead of several decorative ones.",
+      "inferred_memory": "Maya buys reliable notebooks over decorative multiples.",
+      "timestamp": "2026-03-02T14:18:00Z"
+    },
+    {
+      "memory_id": "u003_n_295",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep rent and utilities notes in the same folder.",
+      "inferred_memory": "Maya stores rent and utilities notes together.",
+      "timestamp": "2026-03-02T17:35:00Z"
+    },
+    {
+      "memory_id": "u003_n_296",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually check pantry supplies before grocery shopping to avoid duplicates.",
+      "inferred_memory": "Maya checks pantry inventory before shopping.",
+      "timestamp": "2026-03-03T08:52:00Z"
+    },
+    {
+      "memory_id": "u003_n_297",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer clear pricing over bundled offers.",
+      "inferred_memory": "Maya prefers transparent pricing to bundles.",
+      "timestamp": "2026-03-03T11:09:00Z"
+    },
+    {
+      "memory_id": "u003_n_298",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small savings goal for replacing worn everyday items.",
+      "inferred_memory": "Maya saves for replacement everyday items.",
+      "timestamp": "2026-03-03T14:26:00Z"
+    },
+    {
+      "memory_id": "u003_n_299",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I usually return items quickly because late returns annoy me.",
+      "inferred_memory": "Maya handles returns promptly.",
+      "timestamp": "2026-03-03T17:43:00Z"
+    },
+    {
+      "memory_id": "u003_n_300",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer a simple spreadsheet over budgeting apps with too many features.",
+      "inferred_memory": "Maya prefers simple spreadsheets for budgeting.",
+      "timestamp": "2026-03-03T08:00:00Z"
+    }
+  ]
+}

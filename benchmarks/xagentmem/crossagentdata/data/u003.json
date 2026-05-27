@@ -1,0 +1,1125 @@
+{
+  "user_id": "u003",
+  "profile": {
+    "name": "Maya Chen",
+    "summary": "Maya is a late-20s product designer at a robotics startup.",
+    "demographics": {
+      "age_range": "late 20s",
+      "location": null
+    }
+  },
+  "memories": [
+    {
+      "memory_id": "u003_cmrt_01",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "I stick with exercise when there is a visible route line. Open gym time never holds my attention.",
+      "inferred_memory": "Maya prefers structured movement with visible path tracking over unstructured workouts.",
+      "timestamp": "2026-01-07T15:10:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-01"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_02",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "I keep buying the same bitter melon dish even though most people at work think it is too plain.",
+      "inferred_memory": "Maya has a niche preference for bitter melon dishes.",
+      "timestamp": "2026-01-09T18:40:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-02"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_03",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "I learn design tools fastest when someone gives me a broken file and asks me to fix it. Tutorials make me skim.",
+      "inferred_memory": "Maya prefers debugging flawed examples over tutorial-based learning.",
+      "timestamp": "2026-01-12T09:25:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-03"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_04",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "When I visit a city, I usually look for hardware stores and transit depots before museums.",
+      "inferred_memory": "Maya enjoys practical infrastructure sites over standard cultural stops.",
+      "timestamp": "2026-01-16T20:05:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-04"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_05",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I do not mind paying for tools that reduce handoffs, but I avoid upgrades that only make dashboards look nicer.",
+      "inferred_memory": "Maya values workflow consolidation over visual polish in paid tools.",
+      "timestamp": "2026-01-19T13:35:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-05"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_06",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "I do better with lunches I can eat cold because reheating breaks my work flow.",
+      "inferred_memory": "Maya prefers cold-ready meals that avoid reheating steps.",
+      "timestamp": "2026-01-23T08:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-06"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_07",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "I keep a tiny bottle of black vinegar at my desk. It makes plain food feel finished.",
+      "inferred_memory": "Maya likes black vinegar as a finishing flavor.",
+      "timestamp": "2026-01-26T17:50:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-07"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_08",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I prefer hotels near loading docks or service alleys because mornings are more interesting there.",
+      "inferred_memory": "Maya prefers lodging near operational back-of-house activity.",
+      "timestamp": "2026-01-29T11:05:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-08"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_09",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "I like critique sessions where people mark directly on the screen. Verbal feedback disappears too quickly.",
+      "inferred_memory": "Maya prefers directly annotated visual feedback over verbal critique.",
+      "timestamp": "2026-02-02T14:45:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-09"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_10",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I cancel services that bill annually because I forget they exist. Monthly reminders work better for me.",
+      "inferred_memory": "Maya prefers recurring costs that create frequent visibility over annual billing.",
+      "timestamp": "2026-02-06T19:20:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-10"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_11",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "The only breathing exercise I tolerate is counting against a metronome. Anything scenic makes me disengage.",
+      "inferred_memory": "Maya prefers metronome-based breathing cues over scenic relaxation content.",
+      "timestamp": "2026-02-10T07:55:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-11"
+      }
+    },
+    {
+      "memory_id": "u003_cmrt_12",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I would rather take a longer train with a transfer than a direct bus. Watching the transfer board helps me plan.",
+      "inferred_memory": "Maya prefers train transfers over direct bus travel because transfer boards support planning.",
+      "timestamp": "2026-02-13T21:30:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-12"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_01a",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My rent contribution is eighteen hundred.",
+      "inferred_memory": "Maya’s rent contribution is $1,800.",
+      "timestamp": "2026-02-15T10:00:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_01",
+        "pair_role": "pair_01_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-01a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_01b",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My rent contribution is nineteen-fifty.",
+      "inferred_memory": "Maya’s rent contribution is $1,950.",
+      "timestamp": "2026-03-18T10:00:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_01",
+        "pair_role": "pair_01_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-01b"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_02a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My physical therapy appointment is on April 22.",
+      "inferred_memory": "Maya’s physical therapy appointment is April 22.",
+      "timestamp": "2026-02-17T16:20:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_02",
+        "pair_role": "pair_02_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-02a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_02b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My physical therapy appointment is on April 15.",
+      "inferred_memory": "Maya’s physical therapy appointment is April 15.",
+      "timestamp": "2026-03-21T16:20:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_02",
+        "pair_role": "pair_02_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-02b"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_03a",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My weekly grocery budget is ninety dollars.",
+      "inferred_memory": "Maya’s weekly grocery budget is $90.",
+      "timestamp": "2026-02-20T12:30:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_03",
+        "pair_role": "pair_03_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-03a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_03b",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My weekly grocery budget is seventy-five dollars.",
+      "inferred_memory": "Maya’s weekly grocery budget is $75.",
+      "timestamp": "2026-03-25T12:30:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_03",
+        "pair_role": "pair_03_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-03b"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_04a",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "My certification exam is on June 12.",
+      "inferred_memory": "Maya’s certification exam is June 12.",
+      "timestamp": "2026-02-24T09:45:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_04",
+        "pair_role": "pair_04_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-04a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_04b",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "My certification exam is on June 5.",
+      "inferred_memory": "Maya’s certification exam is June 5.",
+      "timestamp": "2026-03-29T09:45:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_04",
+        "pair_role": "pair_04_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-04b"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_05a",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "My flight to Denver leaves at 3:40 PM.",
+      "inferred_memory": "Maya’s Denver flight leaves at 3:40 PM.",
+      "timestamp": "2026-02-27T18:10:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_05",
+        "pair_role": "pair_05_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-05a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_05b",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "My flight to Denver leaves at 1:10 PM.",
+      "inferred_memory": "Maya’s Denver flight leaves at 1:10 PM.",
+      "timestamp": "2026-04-01T18:10:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_05",
+        "pair_role": "pair_05_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-05b"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_06a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My daily caffeine limit is three cups.",
+      "inferred_memory": "Maya’s daily caffeine limit is three cups.",
+      "timestamp": "2026-03-02T07:30:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_06",
+        "pair_role": "pair_06_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-06a"
+      }
+    },
+    {
+      "memory_id": "u003_tcr_06b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My daily caffeine limit is two cups.",
+      "inferred_memory": "Maya’s daily caffeine limit is two cups.",
+      "timestamp": "2026-04-04T07:30:00Z",
+      "metadata": {
+        "pair_id": "u003_tcr_06",
+        "pair_role": "pair_06_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-06b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_01a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want to put a serious amount toward my student loans every month.",
+      "inferred_memory": "Maya wants aggressive student-loan repayment.",
+      "timestamp": "2026-03-05T13:00:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_01",
+        "pair_role": "pair_01_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-01a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_01b",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "If I make food spending too tight, I end up buying random snacks during late prototype nights.",
+      "inferred_memory": "Maya needs a protected food allowance to avoid rebound snack spending.",
+      "timestamp": "2026-03-06T13:00:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_01",
+        "pair_role": "pair_01_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-01b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_02a",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I am trying to reduce wrist strain after long CAD sessions.",
+      "inferred_memory": "Maya needs to limit wrist strain.",
+      "timestamp": "2026-03-08T08:35:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_02",
+        "pair_role": "pair_02_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-02a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_02b",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I only retain software shortcuts when I physically repeat them, not when I watch someone else.",
+      "inferred_memory": "Maya learns software shortcuts through hands-on repetition.",
+      "timestamp": "2026-03-09T08:35:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_02",
+        "pair_role": "pair_02_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-02b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_03a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "I like trips with several transit legs because planning the sequence is part of the fun.",
+      "inferred_memory": "Maya enjoys multi-leg travel planning.",
+      "timestamp": "2026-03-11T19:10:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_03",
+        "pair_role": "pair_03_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-03a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_03b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I get migraines when I have to rush between stations without a buffer.",
+      "inferred_memory": "Maya needs schedule buffers to reduce migraine risk.",
+      "timestamp": "2026-03-12T19:10:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_03",
+        "pair_role": "pair_03_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-03b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_04a",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "I prefer strong fermented flavors when I eat out. Mild places feel forgettable.",
+      "inferred_memory": "Maya prefers strong fermented flavors.",
+      "timestamp": "2026-03-14T11:25:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_04",
+        "pair_role": "pair_04_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-04a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_04b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I am watching sodium because my doctor said my numbers were creeping up.",
+      "inferred_memory": "Maya needs to limit sodium.",
+      "timestamp": "2026-03-15T11:25:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_04",
+        "pair_role": "pair_04_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-04b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_05a",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I want to move fast on management training this quarter.",
+      "inferred_memory": "Maya wants rapid progress on management training.",
+      "timestamp": "2026-03-17T16:50:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_05",
+        "pair_role": "pair_05_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-05a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_05b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I lose sleep if I stack evening coursework after startup deadlines.",
+      "inferred_memory": "Maya needs to avoid excessive evening coursework.",
+      "timestamp": "2026-03-18T16:50:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_05",
+        "pair_role": "pair_05_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-05b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_06a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I am trying to keep my apartment setup costs low this year.",
+      "inferred_memory": "Maya wants to limit apartment setup spending.",
+      "timestamp": "2026-03-20T10:15:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_06",
+        "pair_role": "pair_06_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-06a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_06b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My neck gets stiff when I work from my laptop stand without a better screen angle.",
+      "inferred_memory": "Maya needs a workstation adjustment for neck strain.",
+      "timestamp": "2026-03-21T10:15:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_06",
+        "pair_role": "pair_06_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-06b"
+      }
+    },
+    {
+      "memory_id": "u003_dca_07a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "I like staying in industrial neighborhoods because the loading bays and workshops make walks interesting.",
+      "inferred_memory": "Maya prefers industrial-neighborhood lodging.",
+      "timestamp": "2026-03-23T20:40:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_07",
+        "pair_role": "pair_07_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-07a"
+      }
+    },
+    {
+      "memory_id": "u003_dca_07b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "I sleep badly when trucks idle near my room overnight.",
+      "inferred_memory": "Maya needs lodging that limits overnight noise exposure.",
+      "timestamp": "2026-03-24T20:40:00Z",
+      "metadata": {
+        "pair_id": "u003_dca_07",
+        "pair_role": "pair_07_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-07b"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "u003_q001",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Maya is choosing an active weekend activity. Which should the travel agent recommend?",
+      "options": {
+        "A": "Light jog around the green and refreshing park",
+        "B": "Guided walking route with a printed map",
+        "C": "Open recreation pass",
+        "D": "Wellness retreat session"
+      },
+      "correct_answer": "B",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_cmrt_01"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-01"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q002",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Maya is reviewing food spending and wants to keep one regular meal purchase. Which is most aligned?",
+      "options": {
+        "A": "Grain bowl subscription",
+        "B": "Bitter melon lunch order",
+        "C": "Smoothie membership",
+        "D": "Salad delivery plan"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u003_cmrt_02"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-02"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q003",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Maya wants to learn a new health tracking app. Which setup should the health agent suggest?",
+      "options": {
+        "A": "Guided onboarding course",
+        "B": "Short feature overview",
+        "C": "Sample tracker with errors to correct",
+        "D": "Weekly reminder checklist"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u003_cmrt_03"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-03"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q004",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Maya is picking a case-study topic. Which should the education agent recommend?",
+      "options": {
+        "A": "Museum exhibit layout",
+        "B": "Transit maintenance workflow",
+        "C": "Public art program",
+        "D": "Boutique hotel branding"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u003_cmrt_04"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-04"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q005",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Maya is choosing one design-course add-on. Which should the education agent recommend?",
+      "options": {
+        "A": "Advanced dashboard theme pack",
+        "B": "Shared workflow automation lab",
+        "C": "Personal branding templates",
+        "D": "Presentation slide library"
+      },
+      "correct_answer": "B",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_cmrt_05"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-05"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q006",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Maya is selecting a weekday lunch format. Which should the food agent recommend?",
+      "options": {
+        "A": "Cold lentil noodle box",
+        "B": "Hot soup rotation",
+        "C": "Baked casserole tray",
+        "D": "Microwave rice bowl"
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_cmrt_06"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-06"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q007",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Maya is choosing a food-related souvenir. Which should the travel agent suggest?",
+      "options": {
+        "A": "Black vinegar from a local producer",
+        "B": "Regional chocolate assortment",
+        "C": "Tea sampler box",
+        "D": "Ceramic spice dish"
+      },
+      "correct_answer": "A",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_cmrt_07"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-07"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q008",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Maya is deciding which travel upgrade is worth keeping. Which should the financial agent prioritize?",
+      "options": {
+        "A": "Room near service access",
+        "B": "Larger room category",
+        "C": "Hotel breakfast bundle",
+        "D": "Lounge access pass"
+      },
+      "correct_answer": "A",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_cmrt_08"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-08"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q009",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Maya is reviewing ergonomics advice for her workstation. Which format should the health agent suggest?",
+      "options": {
+        "A": "Live verbal consultation",
+        "B": "Annotated photo review",
+        "C": "General posture article",
+        "D": "Group webinar"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u003_cmrt_09"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-09"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q010",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Maya is choosing a meal-plan billing option. Which should the food agent recommend?",
+      "options": {
+        "A": "Monthly plan with visible renewal",
+        "B": "Annual plan with lower unit price",
+        "C": "Prepaid seasonal bundle",
+        "D": "One-time pantry box"
+      },
+      "correct_answer": "A",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u003_cmrt_10"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-10"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q011",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Maya is selecting a preparation exercise before studying. Which should the education agent recommend?",
+      "options": {
+        "A": "Scenic audio reset",
+        "B": "Metronome-count breathing",
+        "C": "Gratitude journal prompt",
+        "D": "Organize her desk so it is clean"
+      },
+      "correct_answer": "B",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_cmrt_11"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-11"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q012",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Maya is comparing low-cost commute options. Which should the financial agent suggest keeping?",
+      "options": {
+        "A": "Direct bus pass",
+        "B": "Rideshare credit",
+        "C": "Train pass with transfer access",
+        "D": "Bike-share membership"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u003_cmrt_12"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-12"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q013",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "What is Maya’s rent contribution?",
+      "options": {
+        "A": "$1,620",
+        "B": "$1,800",
+        "C": "$1,950",
+        "D": "$2,100"
+      },
+      "correct_answer": "C",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u003_tcr_01a",
+        "u003_tcr_01b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_01",
+        "source_row_ids": [
+          "TCR-01a",
+          "TCR-01b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q014",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "What is Maya’s physical therapy appointment date?",
+      "options": {
+        "A": "April 15",
+        "B": "April 18",
+        "C": "April 22",
+        "D": "April 29"
+      },
+      "correct_answer": "A",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_tcr_02a",
+        "u003_tcr_02b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_02",
+        "source_row_ids": [
+          "TCR-02a",
+          "TCR-02b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q015",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "What is Maya’s weekly grocery budget?",
+      "options": {
+        "A": "$75",
+        "B": "$90",
+        "C": "$105",
+        "D": "$120"
+      },
+      "correct_answer": "A",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u003_tcr_03a",
+        "u003_tcr_03b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_03",
+        "source_row_ids": [
+          "TCR-03a",
+          "TCR-03b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q016",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "What is Maya’s certification exam date?",
+      "options": {
+        "A": "June 5",
+        "B": "June 8",
+        "C": "June 12",
+        "D": "June 19"
+      },
+      "correct_answer": "A",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_tcr_04a",
+        "u003_tcr_04b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_04",
+        "source_row_ids": [
+          "TCR-04a",
+          "TCR-04b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q017",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "What time does Maya’s Denver flight leave?",
+      "options": {
+        "A": "11:20 AM",
+        "B": "1:10 PM",
+        "C": "3:40 PM",
+        "D": "5:05 PM"
+      },
+      "correct_answer": "B",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_tcr_05a",
+        "u003_tcr_05b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_05",
+        "source_row_ids": [
+          "TCR-05a",
+          "TCR-05b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q018",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "What is Maya’s daily caffeine limit?",
+      "options": {
+        "A": "One cup",
+        "B": "Two cups",
+        "C": "Three cups",
+        "D": "Four cups"
+      },
+      "correct_answer": "B",
+      "bait_answer": "C",
+      "eval_memory_ids": [
+        "u003_tcr_06a",
+        "u003_tcr_06b"
+      ],
+      "metadata": {
+        "pair_id": "u003_tcr_06",
+        "source_row_ids": [
+          "TCR-06a",
+          "TCR-06b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q019",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Maya is choosing a monthly budgeting approach. Which should the financial agent recommend?",
+      "options": {
+        "A": "Maximum repayment with no flexible category",
+        "B": "Moderate repayment with broad lifestyle padding",
+        "C": "Aggressive repayment with one small planned flexible category",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_01a",
+        "u003_dca_01b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_01",
+        "source_row_ids": [
+          "DCA-01a",
+          "DCA-01b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q020",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Maya is selecting a skill-building routine. Which should the education agent recommend?",
+      "options": {
+        "A": "Daily intensive practice using manual repetition",
+        "B": "Mostly lecture-based study with minimal practice",
+        "C": "Short practice blocks with tool-assisted setup",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_02a",
+        "u003_dca_02b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_02",
+        "source_row_ids": [
+          "DCA-02a",
+          "DCA-02b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q021",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Maya is planning a short trip. Which itinerary should the travel agent recommend?",
+      "options": {
+        "A": "Simple direct route with minimal planning",
+        "B": "Complex route with limited schedule buffer",
+        "C": "Multi-leg route with a protected backup window",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_03a",
+        "u003_dca_03b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_03",
+        "source_row_ids": [
+          "DCA-03a",
+          "DCA-03b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q022",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Maya is choosing a dinner option. Which should the food agent recommend?",
+      "options": {
+        "A": "Standard balanced restaurant menu",
+        "B": "Strong-flavor meal in a smaller portion format",
+        "C": "Large-format tasting menu",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "B",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_04a",
+        "u003_dca_04b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_04",
+        "source_row_ids": [
+          "DCA-04a",
+          "DCA-04b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q023",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Maya is choosing a professional-development plan. Which should the education agent recommend?",
+      "options": {
+        "A": "Full intensive program with evening assignments",
+        "B": "Slow self-paced reading plan",
+        "C": "Focused sprint with a fixed weekly cap",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_05a",
+        "u003_dca_05b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_05",
+        "source_row_ids": [
+          "DCA-05a",
+          "DCA-05b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q024",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Maya is choosing a workstation improvement. Which should the health agent recommend?",
+      "options": {
+        "A": "Full workstation replacement",
+        "B": "No equipment changes",
+        "C": "Targeted low-cost adjustment plus habit change",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "C",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_06a",
+        "u003_dca_06b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_06",
+        "source_row_ids": [
+          "DCA-06a",
+          "DCA-06b"
+        ]
+      }
+    },
+    {
+      "question_id": "u003_q025",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Maya is choosing lodging for a work trip. Which should the travel agent recommend?",
+      "options": {
+        "A": "Standard central hotel district",
+        "B": "Industrial-area stay with verified quiet-room option",
+        "C": "Lowest-cost room in an active service corridor",
+        "D": "Need more information about the user’s preferences."
+      },
+      "correct_answer": "B",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u003_dca_07a",
+        "u003_dca_07b"
+      ],
+      "metadata": {
+        "pair_id": "u003_dca_07",
+        "source_row_ids": [
+          "DCA-07a",
+          "DCA-07b"
+        ]
+      }
+    }
+  ]
+}

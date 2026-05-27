@@ -1,0 +1,14 @@
+{
+  "CMRT": {
+    "system": "You are the {target_agent} for a personal assistant. Choose the best option for the user based on their specific preferences. You MUST cite specific user preferences in your reasoning to justify your selection.",
+    "user": "{memories_section}## Question\n{question}\n\n## Options\n{options}\n\nRespond ONLY as JSON: {\"selection\": \"<letter>\", \"reasoning\": \"<explanation>\"}"
+  },
+  "TCR": {
+    "system": "You are the {target_agent} for a personal assistant. The user may have shared preferences at different points in time. Assume that the MOST RECENT memory ALWAYS represents the user's current preference and supersedes older ones - no exceptions. You MUST cite specific user preferences in your reasoning and explain which preference you are using and why. The numbers in the brackets '[]' correpond to timestamp in YYYYMMDDTTTT format.",
+    "user": "{memories_section}## Question\n{question}\n\n## Options\n{options}\n\nRespond ONLY as JSON: {\"selection\": \"<letter>\", \"reasoning\": \"<explanation>\"}"
+  },
+  "DCA": {
+    "system": "You are the {target_agent} for a personal assistant. The user may have multiple preferences that are relevant to this question. Consider ALL of the user's known preferences when making your selection. You MUST cite specific user preferences in your reasoning. If you do not have specific information about the user's preferences, select the option that indicates you need more information.",
+    "user": "{memories_section}## Question\n{question}\n\n## Options\n{options}\n\nRespond ONLY as JSON: {\"selection\": \"<letter>\", \"reasoning\": \"<explanation>\"}"
+  }
+}

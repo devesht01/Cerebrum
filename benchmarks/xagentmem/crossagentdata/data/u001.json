@@ -1,0 +1,1125 @@
+{
+  "user_id": "u001",
+  "profile": {
+    "name": "Priya Singh",
+    "summary": "",
+    "demographics": {
+      "age_range": "",
+      "location": null
+    }
+  },
+  "memories": [
+    {
+      "memory_id": "u001_cmrt_01",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "The doctor I still remember from childhood used to draw these messy little body maps on scrap paper. I hated the glossy handouts because they made me feel like nobody was really thinking with me.",
+      "inferred_memory": "Priya prefers rough improvised visual explanation over polished official materials.",
+      "timestamp": "2026-01-08T14:20:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-01"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_02",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I have a rule where big purchases sit in my notes app for two days before I touch them. Otherwise I start pretending future-attending money is already real.",
+      "inferred_memory": "Priya delays large purchases because she is cautious about early-career debt.",
+      "timestamp": "2026-01-10T19:05:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-02"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_03",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "I get excited when a menu has tamarind, curry leaves, chaat masala, or that railway-snack kind of flavor. I’ll pick that over a proper restaurant half the time.",
+      "inferred_memory": "Priya prefers tangy Indian street-snack flavors over conventionally polished dining.",
+      "timestamp": "2026-01-12T20:40:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-03"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_04",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I know it sounds dumb, but I’ll pick a boring pond with ducks over the famous scenic route. I like the stupid little waterfowl.",
+      "inferred_memory": "Priya prefers mundane pond/waterfowl routes over famous scenic routes.",
+      "timestamp": "2026-01-14T07:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-04"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_05",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "I learn better from ugly little case fragments than from clean board-review summaries. The polished stuff makes me skim.",
+      "inferred_memory": "Priya retains rough, unfinished case fragments better than polished summaries.",
+      "timestamp": "2026-01-16T16:30:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-05"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_06",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "I keep paying for that route app because it finds quiet little loops I would never notice on my own.",
+      "inferred_memory": "Priya values a route-planning app for finding quiet running loops.",
+      "timestamp": "2026-01-18T06:50:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-06"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_07",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "I’d rather repeat the same two outfits than lose my weekly dosa budget. Clothes are background noise to me unless something is actually falling apart.",
+      "inferred_memory": "Priya deprioritizes clothing variety and prioritizes a specific weekly dosa habit.",
+      "timestamp": "2026-01-20T21:10:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-07"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_08",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I don’t care if the restaurant block is famous. I like when dinner is next to one of those boring commuter paths where people jog after work.",
+      "inferred_memory": "Priya prefers restaurants near ordinary commuter jogging paths over famous dining districts.",
+      "timestamp": "2026-01-22T09:35:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-08"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_09",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "I don’t trust myself with flexible budgets right now. Give me the annoying version with envelopes and limits, or I’ll rationalize everything.",
+      "inferred_memory": "Priya wants restrictive envelope-style budgeting rather than flexible budgeting.",
+      "timestamp": "2026-01-24T18:25:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-09"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_10",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "Before pickleball, the thing that works is embarrassing: cold, tangy, snacky, barely a meal. Proper food makes me sluggish.",
+      "inferred_memory": "Priya prefers cold/tangy/snacky food before pickleball, even though it seems less meal-like.",
+      "timestamp": "2026-01-26T17:45:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-10"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_11",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "If I pay extra for travel, I want it to change the actual experience, not just make the receipt look fancier.",
+      "inferred_memory": "Priya prefers experiential travel upgrades over comfort/status upgrades.",
+      "timestamp": "2026-01-28T13:00:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-11"
+      }
+    },
+    {
+      "memory_id": "u001_cmrt_12",
+      "source_agent": "food_dining_agent",
+      "type": "CMRT",
+      "content": "My reliable lunch is basically chaos in a bowl: yogurt, pickle, crunch, heat. If it looks too normal, I get bored by day two.",
+      "inferred_memory": "Priya prefers chaotic tangy/crunchy/spicy lunch bowls over standard healthy lunches.",
+      "timestamp": "2026-01-30T12:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-12"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_01a",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "The graduation trip is the second week of July.",
+      "inferred_memory": "Priya's graduation trip is the second week of July.",
+      "timestamp": "2026-02-05T10:30:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_01",
+        "pair_role": "pair_01_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-01A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_01b",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "The graduation trip is the last week of June.",
+      "inferred_memory": "Priya's graduation trip is the last week of June.",
+      "timestamp": "2026-03-09T18:20:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_01",
+        "pair_role": "pair_01_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-01B"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_02a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "Pickleball is Tuesdays at seven.",
+      "inferred_memory": "Priya plays pickleball on Tuesday evenings.",
+      "timestamp": "2026-02-10T09:00:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_02",
+        "pair_role": "pair_02_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-02A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_02b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "Pickleball is Thursdays at seven.",
+      "inferred_memory": "Priya plays pickleball on Thursday evenings.",
+      "timestamp": "2026-03-14T09:00:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_02",
+        "pair_role": "pair_02_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-02B"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_03a",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly loan payment is four-fifty.",
+      "inferred_memory": "Priya's monthly student loan payment is $450.",
+      "timestamp": "2026-02-18T17:30:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_03",
+        "pair_role": "pair_03_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-03A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_03b",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly loan payment is three-twenty.",
+      "inferred_memory": "Priya's monthly student loan payment is $320.",
+      "timestamp": "2026-03-20T17:20:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_03",
+        "pair_role": "pair_03_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-03B"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_04a",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "The certification exam is October third.",
+      "inferred_memory": "Priya's NP certification exam is October 3rd.",
+      "timestamp": "2026-02-22T12:00:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_04",
+        "pair_role": "pair_04_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-04A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_04b",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "The certification exam is September fifteenth.",
+      "inferred_memory": "Priya's NP certification exam is September 15th.",
+      "timestamp": "2026-03-23T12:00:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_04",
+        "pair_role": "pair_04_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-04B"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_05a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "I run with Meera Sunday mornings at eight.",
+      "inferred_memory": "Priya runs with Meera on Sunday mornings.",
+      "timestamp": "2026-02-04T11:35:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_05",
+        "pair_role": "pair_05_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-05A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_05b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "I run with Meera Saturday mornings at seven.",
+      "inferred_memory": "Priya runs with Meera on Saturday mornings.",
+      "timestamp": "2026-03-19T09:45:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_05",
+        "pair_role": "pair_05_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-05B"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_06a",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My dosa spot is Sai Tiffins on Devon.",
+      "inferred_memory": "Priya's regular dosa place is Sai Tiffins on Devon Avenue.",
+      "timestamp": "2026-02-14T08:40:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_06",
+        "pair_role": "pair_06_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-06A"
+      }
+    },
+    {
+      "memory_id": "u001_tcr_06b",
+      "source_agent": "food_dining_agent",
+      "type": "TCR",
+      "content": "My dosa spot is Dosa Express on Clark.",
+      "inferred_memory": "Priya's regular dosa place is Dosa Express on Clark Street.",
+      "timestamp": "2026-03-24T09:05:00Z",
+      "metadata": {
+        "pair_id": "u001_tcr_06",
+        "pair_role": "pair_06_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-06B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_01a",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "The weekly dosa place is the food thing I would rather keep. It is not fancy, but I look forward to it.",
+      "inferred_memory": "Priya wants to preserve a weekly dosa restaurant habit.",
+      "timestamp": "2026-02-12T20:20:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_01",
+        "pair_role": "pair_01_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-01A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_01b",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "Food spending is the category where the loan spreadsheet starts looking annoying fastest, but I still value the weekly dosa place as its the one time I get to relax..",
+      "inferred_memory": "Priya finds food related spending challenging, but would rather preserve it as it allows her to de-stress.",
+      "timestamp": "2026-02-13T18:10:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_01",
+        "pair_role": "pair_01_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-01B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_02a",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "Repeating the same little running loop works better for me than constantly changing routes.",
+      "inferred_memory": "Priya prefers repeating a familiar running loop.",
+      "timestamp": "2026-02-16T07:20:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_02",
+        "pair_role": "pair_02_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-02A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_02b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My knee gets irritated when I stack too many similar running days together.",
+      "inferred_memory": "Priya needs to avoid too many repeated running days because of knee irritation.",
+      "timestamp": "2026-02-17T17:35:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_02",
+        "pair_role": "pair_02_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-02B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_03a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "I like outdoor trips, but I get more excited by plain little ponds and birdy paths than by big adventure itineraries.",
+      "inferred_memory": "Priya prefers low-key outdoor water-adjacent travel over organized adventure travel.",
+      "timestamp": "2026-02-20T10:00:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_03",
+        "pair_role": "pair_03_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-03A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_03b",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want weekend trips to stop turning into surprise budget problems.",
+      "inferred_memory": "Priya wants low-cost weekend travel.",
+      "timestamp": "2026-02-21T15:45:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_03",
+        "pair_role": "pair_03_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-03B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_04a",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "Before pickleball, I still want the tamarind-y crunchy thing. Plain protein food feels like homework.",
+      "inferred_memory": "Priya wants tangy crunchy food before pickleball.",
+      "timestamp": "2026-02-24T12:40:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_04",
+        "pair_role": "pair_04_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-04A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_04b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "If I eat a full meal before pickleball, I feel slow for the first few games.",
+      "inferred_memory": "Priya needs light food before pickleball.",
+      "timestamp": "2026-02-25T16:55:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_04",
+        "pair_role": "pair_04_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-04B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_05a",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "If a study plan feels too gentle, I start treating it like a suggestion instead of a plan.",
+      "inferred_memory": "Priya wants a demanding study structure.",
+      "timestamp": "2026-02-27T21:10:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_05",
+        "pair_role": "pair_05_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-05A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_05b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "When I let studying eat sleep, my judgment gets worse and I pretend it is discipline.",
+      "inferred_memory": "Priya needs to protect sleep while studying.",
+      "timestamp": "2026-02-28T06:35:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_05",
+        "pair_role": "pair_05_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-05B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_06a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want the loans to get hit early, even if it reduces flexibility a little.",
+      "inferred_memory": "Priya wants aggressive student loan repayment.",
+      "timestamp": "2026-03-01T13:20:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_06",
+        "pair_role": "pair_06_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-06A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_06b",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "If I over-restrict food spending, I end up buying random snacks after shifts.",
+      "inferred_memory": "Priya rebounds into random spending when food spending is over-restricted.",
+      "timestamp": "2026-03-02T19:15:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_06",
+        "pair_role": "pair_06_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-06B"
+      }
+    },
+    {
+      "memory_id": "u001_dca_07a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "A plain little water path can make a weekend work for me better than a packed landmark itinerary.",
+      "inferred_memory": "Priya prefers low-key water-adjacent walking over prestige sightseeing.",
+      "timestamp": "2026-03-04T09:50:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_07",
+        "pair_role": "pair_07_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-07A"
+      }
+    },
+    {
+      "memory_id": "u001_dca_07b",
+      "source_agent": "food_dining_agent",
+      "type": "DCA",
+      "content": "I do not need the restaurant to be famous. I want the snack-counter version: tamarind, crunch, yogurt, heat.",
+      "inferred_memory": "Priya prefers unfussy tangy snack-counter food over famous restaurants.",
+      "timestamp": "2026-03-05T20:30:00Z",
+      "metadata": {
+        "pair_id": "u001_dca_07",
+        "pair_role": "pair_07_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-07B"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "u001_q001",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Priya is choosing an advising format. Which should the education agent recommend?",
+      "options": {
+        "A": "Official advising packet with specialty timelines",
+        "B": "Faculty-led residency planning seminar",
+        "C": "Accredited online advising module",
+        "D": "Scrap-paper sketch session with a faculty mentor"
+      },
+      "correct_answer": "D",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_cmrt_01"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-01"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q002",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya is choosing lodging for a short conference trip. Which option should the travel agent recommend?",
+      "options": {
+        "A": "Hotel attached to the conference venue",
+        "B": "Clean hotel two transit stops away with breakfast included",
+        "C": "Boutique hotel in the main dining area",
+        "D": "Apartment-style room with more space"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_02"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-02"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q003",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya has one casual dinner slot during a city trip. Which food plan should the travel agent suggest?",
+      "options": {
+        "A": "Well-reviewed modern Indian restaurant",
+        "B": "Popular regional tasting menu",
+        "C": "Counter-service snack shop with tamarind chaat",
+        "D": "Seafood market with several vendors"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_03"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-03"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q004",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Priya wants a simple movement plan during a city trip. Which should the health agent suggest?",
+      "options": {
+        "A": "Popular scenic walking route",
+        "B": "Boutique fitness class",
+        "C": "Hotel gym session",
+        "D": "Short loop around a plain duck pond"
+      },
+      "correct_answer": "D",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_04"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-04"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q005",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Priya wants a study-day routine. Which should the health agent suggest?",
+      "options": {
+        "A": "Official board-review summary block",
+        "B": "Structured question bank by topic",
+        "C": "Faculty-made review slides",
+        "D": "Unsorted rough case scraps between breaks"
+      },
+      "correct_answer": "D",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_cmrt_05"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-05"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q006",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Priya wants to keep one low-cost personal subscription. Which should the financial agent keep?",
+      "options": {
+        "A": "Meal-planning app",
+        "B": "Meditation app",
+        "C": "Route-planning app",
+        "D": "Streaming app"
+      },
+      "correct_answer": "C",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_cmrt_06"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-06"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q007",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Priya wants to reduce spending without sacrificing her preferences. Which spending category matters least to Priya?",
+      "options": {
+        "A": "Weekly restaurant meals",
+        "B": "Basic clothing purchases",
+        "C": "Fitness-related fees",
+        "D": "Local transportation"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_07"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-07"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q008",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Priya asks where to book dinner during a city trip. Which location should the food agent choose?",
+      "options": {
+        "A": "Famous restaurant district",
+        "B": "Central food market",
+        "C": "Restaurant inside the hotel",
+        "D": "Restaurant next to an ordinary commuter jogging path"
+      },
+      "correct_answer": "D",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_08"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-08"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q009",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Priya asks how to structure her first post-med-school budget. Which setup should the financial agent suggest?",
+      "options": {
+        "A": "Flexible category-based budget",
+        "B": "Investment-first budget with monthly review",
+        "C": "Strict envelope-style budget",
+        "D": "Simple app-based spending summary"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_09"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-09"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q010",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Priya is choosing food before pickleball. Which order should the food agent suggest?",
+      "options": {
+        "A": "Chicken biryani with raita",
+        "B": "Paneer makhani with naan",
+        "C": "Small plate of dahi puri",
+        "D": "Grilled chicken bowl"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_10"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-10"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q011",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya has room for one small travel upgrade. Which should the travel agent choose?",
+      "options": {
+        "A": "Direct train ticket",
+        "B": "Hotel room with a better view",
+        "C": "Group food walk",
+        "D": "Premium airport transfer"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_cmrt_11"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-11"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q012",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Priya wants a repeatable lunch option. Which should the health agent suggest?",
+      "options": {
+        "A": "Grilled chicken with rice",
+        "B": "High-protein turkey wrap",
+        "C": "Greek yogurt smoothie",
+        "D": "Lentils with yogurt, pickle, and crushed papad"
+      },
+      "correct_answer": "D",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_cmrt_12"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-12"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q013",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "When is Priya's graduation trip?",
+      "options": {
+        "A": "Last week of June",
+        "B": "First two weeks of July",
+        "C": "Last two weeks of May",
+        "D": "Need more information"
+      },
+      "correct_answer": "A",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_tcr_01a",
+        "u001_tcr_01b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_01",
+        "source_row_ids": [
+          "TCR-01A",
+          "TCR-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q014",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Priya wants to meal prep a light pre-game snack. Which day should the food agent plan it for?",
+      "options": {
+        "A": "Tuesday afternoon",
+        "B": "Thursday afternoon",
+        "C": "Monday evening",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_tcr_02a",
+        "u001_tcr_02b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_02",
+        "source_row_ids": [
+          "TCR-02A",
+          "TCR-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q015",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "What is Priya's monthly loan payment?",
+      "options": {
+        "A": "$450",
+        "B": "$320",
+        "C": "$500",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_tcr_03a",
+        "u001_tcr_03b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_03",
+        "source_row_ids": [
+          "TCR-03A",
+          "TCR-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q016",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "When is Priya's certification exam?",
+      "options": {
+        "A": "October 3rd",
+        "B": "September 15th",
+        "C": "November 1st",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_tcr_04a",
+        "u001_tcr_04b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_04",
+        "source_row_ids": [
+          "TCR-04A",
+          "TCR-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q017",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya is planning a Saturday day trip. What is the earliest the travel agent should schedule departure?",
+      "options": {
+        "A": "After 9am",
+        "B": "Any time, Saturday morning is free",
+        "C": "After 6am",
+        "D": "Need more information"
+      },
+      "correct_answer": "A",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u001_tcr_05a",
+        "u001_tcr_05b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_05",
+        "source_row_ids": [
+          "TCR-05A",
+          "TCR-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q018",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya wants to grab dosas on the way to O'Hare. Which route should the travel agent plan?",
+      "options": {
+        "A": "Route through Devon Avenue",
+        "B": "Route through Clark Street",
+        "C": "Direct expressway route",
+        "D": "Need more information"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_tcr_06a",
+        "u001_tcr_06b"
+      ],
+      "metadata": {
+        "pair_id": "u001_tcr_06",
+        "source_row_ids": [
+          "TCR-06A",
+          "TCR-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q019",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Priya is adjusting her monthly discretionary budget. What would she most likely choose?",
+      "options": {
+        "A": "Lower weekly restaurant spending",
+        "B": "Lower clothing-related spending",
+        "C": "Use a meal kit for some dinners",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_01a",
+        "u001_dca_01b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_01",
+        "source_row_ids": [
+          "DCA-01A",
+          "DCA-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q020",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "Priya is choosing a weekly activity plan. What would she most likely pick?",
+      "options": {
+        "A": "Rotate between several low-impact activities",
+        "B": "Repeat one familiar route on limited days",
+        "C": "Use court sports as the main activity",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_02a",
+        "u001_dca_02b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_02",
+        "source_row_ids": [
+          "DCA-02A",
+          "DCA-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q021",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya is choosing a weekend reset trip. What would she most likely pick?",
+      "options": {
+        "A": "Book an organized outdoor package",
+        "B": "Choose a modest regional trip",
+        "C": "Choose a restaurant-focused city stay",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_03a",
+        "u001_dca_03b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_03",
+        "source_row_ids": [
+          "DCA-03A",
+          "DCA-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q022",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_dining_agent",
+      "question": "Priya is picking food before pickleball. What would she most likely choose?",
+      "options": {
+        "A": "Choose a standard athletic meal",
+        "B": "Choose a small snack-style option",
+        "C": "Choose a full casual meal",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_04a",
+        "u001_dca_04b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_04",
+        "source_row_ids": [
+          "DCA-04A",
+          "DCA-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q023",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "Priya is setting a certification study routine. What would she most likely follow?",
+      "options": {
+        "A": "Follow a flexible low-pressure review schedule",
+        "B": "Use an intense open-ended study schedule",
+        "C": "Use a demanding schedule with firm stopping rules",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_05a",
+        "u001_dca_05b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_05",
+        "source_row_ids": [
+          "DCA-05A",
+          "DCA-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q024",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "Priya is setting a monthly budget after graduation. What would she most likely choose?",
+      "options": {
+        "A": "Use a long repayment plan that has monthly flexibility",
+        "B": "Use a short repayment plan with a small planned food allowance, but less flexibility otherwise",
+        "C": "Use an aggressive repayment plan with minimal food and general flexibility",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_06a",
+        "u001_dca_06b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_06",
+        "source_row_ids": [
+          "DCA-06A",
+          "DCA-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u001_q025",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "Priya is choosing a weekend destination. What kind of place would she most likely pick?",
+      "options": {
+        "A": "Choose a well-known city with major landmarks",
+        "B": "Choose a food-centered city with popular restaurants",
+        "C": "Choose a low-key town with ordinary water-adjacent walks and casual food",
+        "D": "Need more information about the user's preferences"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u001_dca_07a",
+        "u001_dca_07b"
+      ],
+      "metadata": {
+        "pair_id": "u001_dca_07",
+        "source_row_ids": [
+          "DCA-07A",
+          "DCA-07B"
+        ]
+      }
+    }
+  ]
+}

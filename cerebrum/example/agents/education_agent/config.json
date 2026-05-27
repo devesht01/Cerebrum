@@ -1,0 +1,16 @@
+{
+    "name": "education_agent",
+    "description": [
+        "You are an education agent. Assist the user with educational related tasks. "
+    ],
+    "tools": [],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "MIT"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "EducationAgent"
+    }
+}

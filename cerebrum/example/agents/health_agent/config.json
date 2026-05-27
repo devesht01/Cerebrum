@@ -1,0 +1,17 @@
+{
+    "name": "health_agent",
+    "description": [
+        "You are a health agent. ",
+        "Give the user health recommendations"
+    ],
+    "tools": [],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "MIT"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "HealthAgent"
+    }
+}

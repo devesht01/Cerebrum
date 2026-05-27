@@ -1,0 +1,14 @@
+{
+    "name": "simple_math_agent",
+    "description": ["A simple agent that answers math questions using the LLM."],
+    "tools": [],
+    "meta": {
+        "author": "local",
+        "version": "0.0.1",
+        "license": "CC0"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "SimpleMathAgent"
+    }
+}

@@ -1,0 +1,1125 @@
+{
+  "user_id": "u004",
+  "profile": {
+    "name": "James O'Brien",
+    "summary": "James is a retired firefighter. In his free time, he enjoys painting and posting about his fire fighting experiences on Medium and YouTube with the help of his son",
+    "demographics": {
+      "age_range": "late 50s",
+      "location": "Tampa"
+    }
+  },
+  "memories": [
+    {
+      "memory_id": "u004_cmrt_01",
+      "source_agent": "food_agent",
+      "type": "CMRT",
+      "content": "I usually order the smoked fish dip and crackers as the meal. A full entrée is more than I want.",
+      "inferred_memory": "James prefers savory seafood plates over standard entrées.",
+      "timestamp": "2026-01-06T15:20:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-01"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_02",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "When I visit a town, I look for old station houses and municipal fire museums before I look at beach areas.",
+      "inferred_memory": "James prefers civic fire-service sites over standard leisure attractions.",
+      "timestamp": "2026-01-09T18:10:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-02"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_03",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "I don't like walking on grass, I enjoy sand more as it provides me with a more calming feeling.",
+      "inferred_memory": "James prefers walking on sand rather than grass as it de-stresses him more.",
+      "timestamp": "2026-01-14T13:35:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-03"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_04",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "When my son shows me video editing, I learn better from shortcut cards taped near the monitor than from another tutorial video.",
+      "inferred_memory": "James prefers fixed physical reference cards over video-only instruction.",
+      "timestamp": "2026-01-21T16:45:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-04"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_05",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I keep a separate envelope for cobalt blue paint and canvas panels so it does not disappear into general spending.",
+      "inferred_memory": "James values a dedicated art-supply allowance.",
+      "timestamp": "2026-01-28T20:05:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-05"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_06",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I avoid hotel gyms. If a building has a quiet stairwell, I would rather use that.",
+      "inferred_memory": "James prefers simple building-based movement over gym equipment.",
+      "timestamp": "2026-02-02T12:00:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-06"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_07",
+      "source_agent": "food_agent",
+      "type": "CMRT",
+      "content": "I like plain gas-station coffee with a pinch of salt. I do not get much from sweet coffee drinks.",
+      "inferred_memory": "James prefers plain low-cost coffee over sweet café drinks.",
+      "timestamp": "2026-02-06T14:15:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-07"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_08",
+      "source_agent": "education_agent",
+      "type": "CMRT",
+      "content": "I learn editing by rebuilding one old clip three times. Broad courses leave me with too many menus.",
+      "inferred_memory": "James learns best through repeated reconstruction of one familiar project.",
+      "timestamp": "2026-02-12T17:30:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-08"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_09",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "I give my son a fixed Saturday gas reimbursement when he helps film. I do not want to solve every recording issue by buying gear or using assistive tools.",
+      "inferred_memory": "James prefers scheduled low-cost help over new production equipment or assistive tools.",
+      "timestamp": "2026-02-18T19:40:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-09"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_10",
+      "source_agent": "health_agent",
+      "type": "CMRT",
+      "content": "I mark inhaler use with red ticks on the wall calendar. Phone reminders are easy for me to ignore.",
+      "inferred_memory": "James responds better to visible paper tracking than phone reminders.",
+      "timestamp": "2026-02-23T11:25:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-10"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_11",
+      "source_agent": "travel_agent",
+      "type": "CMRT",
+      "content": "I like places where I can see working docks and service trucks. A polished waterfront does not tell me much.",
+      "inferred_memory": "James prefers working waterfront settings over polished leisure settings.",
+      "timestamp": "2026-03-01T10:50:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-11"
+      }
+    },
+    {
+      "memory_id": "u004_cmrt_12",
+      "source_agent": "financial_agent",
+      "type": "CMRT",
+      "content": "If I donate a firehouse painting, I would rather it go to a local station fundraiser than a gallery sale.",
+      "inferred_memory": "James prefers local fire-service community venues over formal art-market venues.",
+      "timestamp": "2026-03-05T16:10:00Z",
+      "metadata": {
+        "source_row_id": "CMRT-12"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_01a",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly truck insurance payment is one-eighty-eight.",
+      "inferred_memory": "James's monthly truck insurance payment is $188.",
+      "timestamp": "2026-01-15T14:00:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_01",
+        "pair_role": "pair_01_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-01A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_01b",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly truck insurance payment is one-forty-two.",
+      "inferred_memory": "James's monthly truck insurance payment is $142.",
+      "timestamp": "2026-04-12T14:00:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_01",
+        "pair_role": "pair_01_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-01B"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_02a",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My physical therapy appointment is Tuesday at eight.",
+      "inferred_memory": "James's physical therapy appointment is Tuesday at 8:00.",
+      "timestamp": "2026-01-20T16:30:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_02",
+        "pair_role": "pair_02_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-02A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_02b",
+      "source_agent": "health_agent",
+      "type": "TCR",
+      "content": "My physical therapy appointment is Friday at ten.",
+      "inferred_memory": "James's physical therapy appointment is Friday at 10:00.",
+      "timestamp": "2026-03-18T16:30:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_02",
+        "pair_role": "pair_02_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-02B"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_03a",
+      "source_agent": "food_agent",
+      "type": "TCR",
+      "content": "My regular weekday lunch order is the turkey club.",
+      "inferred_memory": "James's regular weekday lunch order is the turkey club.",
+      "timestamp": "2026-02-01T12:20:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_03",
+        "pair_role": "pair_03_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-03A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_03b",
+      "source_agent": "food_agent",
+      "type": "TCR",
+      "content": "My regular weekday lunch order is the bean soup.",
+      "inferred_memory": "James's regular weekday lunch order is the bean soup.",
+      "timestamp": "2026-04-04T12:20:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_03",
+        "pair_role": "pair_03_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-03B"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_04a",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "My YouTube upload slot is Sunday afternoon.",
+      "inferred_memory": "James's YouTube upload slot is Sunday afternoon.",
+      "timestamp": "2026-02-08T19:00:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_04",
+        "pair_role": "pair_04_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-04A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_04b",
+      "source_agent": "education_agent",
+      "type": "TCR",
+      "content": "My YouTube upload slot is Wednesday evening.",
+      "inferred_memory": "James's YouTube upload slot is Wednesday evening.",
+      "timestamp": "2026-04-09T19:00:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_04",
+        "pair_role": "pair_04_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-04B"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_05a",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "My hotel loyalty program is Marriott.",
+      "inferred_memory": "James's hotel loyalty program is Marriott.",
+      "timestamp": "2026-02-14T09:45:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_05",
+        "pair_role": "pair_05_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-05A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_05b",
+      "source_agent": "travel_agent",
+      "type": "TCR",
+      "content": "My hotel loyalty program is Hilton.",
+      "inferred_memory": "James's hotel loyalty program is Hilton.",
+      "timestamp": "2026-04-17T09:45:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_05",
+        "pair_role": "pair_05_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-05B"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_06a",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly Medium editing budget is thirty-five dollars.",
+      "inferred_memory": "James's monthly Medium editing budget is $35.",
+      "timestamp": "2026-02-20T21:10:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_06",
+        "pair_role": "pair_06_memory_1",
+        "temporal_role": "earlier",
+        "source_row_id": "TCR-06A"
+      }
+    },
+    {
+      "memory_id": "u004_tcr_06b",
+      "source_agent": "financial_agent",
+      "type": "TCR",
+      "content": "My monthly Medium editing budget is eighteen dollars.",
+      "inferred_memory": "James's monthly Medium editing budget is $18.",
+      "timestamp": "2026-04-22T21:10:00Z",
+      "metadata": {
+        "pair_id": "u004_tcr_06",
+        "pair_role": "pair_06_memory_2",
+        "temporal_role": "later",
+        "source_row_id": "TCR-06B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_01a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I want the home-repair loan paid down aggressively this year.",
+      "inferred_memory": "James wants aggressive debt repayment.",
+      "timestamp": "2026-01-11T15:00:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_01",
+        "pair_role": "pair_01_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-01A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_01b",
+      "source_agent": "food_agent",
+      "type": "DCA",
+      "content": "If I make the same plain lunch all week, I end up buying extra snacks after evening errands.",
+      "inferred_memory": "Overly strict food spending causes James to make unplanned snack purchases.",
+      "timestamp": "2026-01-24T15:00:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_01",
+        "pair_role": "pair_01_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-01B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_02a",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My doctor wants me to cut back on refined carbs at dinner.",
+      "inferred_memory": "James needs to reduce refined carbs.",
+      "timestamp": "2026-01-18T13:15:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_02",
+        "pair_role": "pair_02_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-02A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_02b",
+      "source_agent": "food_agent",
+      "type": "DCA",
+      "content": "After painting group, I like getting one guava pastry from the same bakery.",
+      "inferred_memory": "James values a specific pastry routine.",
+      "timestamp": "2026-01-31T13:15:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_02",
+        "pair_role": "pair_02_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-02B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_03a",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "In new towns, I like walking the industrial waterfront streets and looking at service entrances.",
+      "inferred_memory": "James enjoys walking working-district routes while traveling.",
+      "timestamp": "2026-02-03T10:10:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_03",
+        "pair_role": "pair_03_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-03A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_03b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My knee handles flat ground, but long routes make the next day harder.",
+      "inferred_memory": "James needs to limit walking distance because of knee strain.",
+      "timestamp": "2026-02-16T10:10:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_03",
+        "pair_role": "pair_03_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-03B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_04a",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I want the firehouse stories on YouTube to stay detailed, not just quick clips.",
+      "inferred_memory": "James values detailed storytelling in his YouTube posts.",
+      "timestamp": "2026-02-07T18:25:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_04",
+        "pair_role": "pair_04_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-04A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_04b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My voice gets rough if I record for more than about twenty minutes.",
+      "inferred_memory": "James needs short recording sessions to protect his voice.",
+      "timestamp": "2026-02-21T18:25:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_04",
+        "pair_role": "pair_04_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-04B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_05a",
+      "source_agent": "financial_agent",
+      "type": "DCA",
+      "content": "I do not want large leisure purchases until the emergency fund is rebuilt.",
+      "inferred_memory": "James wants to avoid large discretionary spending.",
+      "timestamp": "2026-02-11T09:30:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_05",
+        "pair_role": "pair_05_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-05A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_05b",
+      "source_agent": "travel_agent",
+      "type": "DCA",
+      "content": "I like visiting small rescue and aviation museums within driving distance of Tampa.",
+      "inferred_memory": "James values niche nearby museums as leisure activities.",
+      "timestamp": "2026-02-24T09:30:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_05",
+        "pair_role": "pair_05_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-05B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_06a",
+      "source_agent": "food_agent",
+      "type": "DCA",
+      "content": "When I edit at night, I like salty smoked snacks nearby.",
+      "inferred_memory": "James likes salty snacks while editing.",
+      "timestamp": "2026-03-02T20:40:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_06",
+        "pair_role": "pair_06_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-06A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_06b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My blood pressure readings have been high, so I need to reduce sodium.",
+      "inferred_memory": "James needs to reduce sodium intake.",
+      "timestamp": "2026-03-13T20:40:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_06",
+        "pair_role": "pair_06_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-06B"
+      }
+    },
+    {
+      "memory_id": "u004_dca_07a",
+      "source_agent": "education_agent",
+      "type": "DCA",
+      "content": "I learn best when my son and I work through editing problems together on Saturdays.",
+      "inferred_memory": "James values collaborative Saturday editing sessions with his son.",
+      "timestamp": "2026-03-07T17:05:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_07",
+        "pair_role": "pair_07_constraint_A",
+        "constraint_role": "A",
+        "source_row_id": "DCA-07A"
+      }
+    },
+    {
+      "memory_id": "u004_dca_07b",
+      "source_agent": "health_agent",
+      "type": "DCA",
+      "content": "My eyes get irritated if I stay on the editing screen for more than forty-five minutes.",
+      "inferred_memory": "James needs to limit continuous screen time.",
+      "timestamp": "2026-03-19T17:05:00Z",
+      "metadata": {
+        "pair_id": "u004_dca_07",
+        "pair_role": "pair_07_constraint_B",
+        "constraint_role": "B",
+        "source_row_id": "DCA-07B"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "u004_q001",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "James is choosing a food stop during a trip. Which should the travel agent recommend?",
+      "options": {
+        "A": "Great value Italian pasta, that fits into his budget",
+        "B": "Seafood counter plate",
+        "C": "Steakhouse",
+        "D": "Coffee shop pastry"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_01"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-01"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q002",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "James is choosing a research topic for a short personal essay. Which should the education agent recommend?",
+      "options": {
+        "A": "Coastal tourism history",
+        "B": "Municipal station-house design",
+        "C": "General retirement planning",
+        "D": "Regional restaurant trends"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_02"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-02"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q003",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "James is selecting a walking activity for a day trip. Which should the travel agent recommend?",
+      "options": {
+        "A": "Beach-edge walking route",
+        "B": "Paved bayfront loop",
+        "C": "Grass park loop",
+        "D": "Gravel nature trail"
+      },
+      "correct_answer": "A",
+      "bait_answer": "B",
+      "eval_memory_ids": [
+        "u004_cmrt_03"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-03"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q004",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "James is choosing a tool to support personal budgeting. Which should the financial agent recommend?",
+      "options": {
+        "A": "Budgeting app subscription",
+        "B": "Printed category-card system",
+        "C": "Online finance course",
+        "D": "Spreadsheet template bundle"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_04"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-04"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q005",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "James is adjusting costs without cutting personal spending. Which should the financial agent recommend?",
+      "options": {
+        "A": "Reduce art supplies spending",
+        "B": "Reduce meals and have a small allowance",
+        "C": "Replace art supplies with restaurant gift cards",
+        "D": "Move all discretionary spending into one shared category"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_05"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-05"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q006",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "James wants a exercise option while staying at his hotel. Which should the health agent recommend?",
+      "options": {
+        "A": "Accessible hotel fitness center for light cardio",
+        "B": "Stairwell walking",
+        "C": "Pool workout class",
+        "D": "Guided cycling rental"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_06"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-06"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q007",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "James is reducing small daily purchases while preserving preferences. Which should the financial agent keep?",
+      "options": {
+        "A": "Cafe coffee to energize his mornings",
+        "B": "Gas station coffee",
+        "C": "Bottled smoothie",
+        "D": "Bakery coffee bundle"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_07"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-07"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q008",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "James is choosing one paid learning resource. Which should the financial agent recommend?",
+      "options": {
+        "A": "Monthly video-editing course library",
+        "B": "Single-project editing workbook",
+        "C": "General creator economy seminar",
+        "D": "Advanced camera equipment guide"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_08"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-08"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q009",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "James is improving his YouTube workflow. Which should the education agent recommend?",
+      "options": {
+        "A": "Free AI-assisted video editing and AI analytics to increase his viewer base",
+        "B": "Fixed weekly review session",
+        "C": "Creator certification program",
+        "D": "Outsourced editing package"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_09"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-09"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q010",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "James is planning a trip checklist. Which should the travel agent recommend?",
+      "options": {
+        "A": "Mobile reminder app",
+        "B": "Printed wall checklist",
+        "C": "Email itinerary folder",
+        "D": "Smartwatch alert plan"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_10"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-10"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q011",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "food_agent",
+      "question": "James is choosing a meal location. Which should the food agent recommend?",
+      "options": {
+        "A": "High value waterfront dining",
+        "B": "Dockside lunch counter",
+        "C": "Hotel lobby café",
+        "D": "Shopping-district bistro"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_11"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-11"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q012",
+      "task_type": "CMRT",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "James is choosing where to present his painting process. Which should the education agent recommend?",
+      "options": {
+        "A": "Museum lecture night",
+        "B": "Local station workshop",
+        "C": "Online art marketplace panel",
+        "D": "University gallery talk"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_cmrt_12"
+      ],
+      "metadata": {
+        "source_row_ids": [
+          "CMRT-12"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q013",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "What is James's monthly truck insurance payment?",
+      "options": {
+        "A": "$188",
+        "B": "$142",
+        "C": "$216",
+        "D": "$99"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_01a",
+        "u004_tcr_01b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_01",
+        "source_row_ids": [
+          "TCR-01A",
+          "TCR-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q014",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "health_agent",
+      "question": "When is James's physical therapy appointment?",
+      "options": {
+        "A": "Tuesday at 8:00",
+        "B": "Thursday at 9:00",
+        "C": "Friday at 10:00",
+        "D": "Monday at 7:30"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_02a",
+        "u004_tcr_02b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_02",
+        "source_row_ids": [
+          "TCR-02A",
+          "TCR-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q015",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "food_agent",
+      "question": "What is James's regular weekday lunch order?",
+      "options": {
+        "A": "Turkey club",
+        "B": "Bean soup",
+        "C": "Chicken salad",
+        "D": "Tuna melt"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_03a",
+        "u004_tcr_03b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_03",
+        "source_row_ids": [
+          "TCR-03A",
+          "TCR-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q016",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "What is James's YouTube upload slot?",
+      "options": {
+        "A": "Sunday afternoon",
+        "B": "Saturday morning",
+        "C": "Wednesday evening",
+        "D": "Friday afternoon"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_04a",
+        "u004_tcr_04b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_04",
+        "source_row_ids": [
+          "TCR-04A",
+          "TCR-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q017",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "What is James's hotel loyalty program?",
+      "options": {
+        "A": "Marriott",
+        "B": "Hilton",
+        "C": "Hyatt",
+        "D": "Wyndham"
+      },
+      "correct_answer": "B",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_05a",
+        "u004_tcr_05b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_05",
+        "source_row_ids": [
+          "TCR-05A",
+          "TCR-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q018",
+      "task_type": "TCR",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "What is James's monthly Medium editing budget?",
+      "options": {
+        "A": "$35",
+        "B": "$28",
+        "C": "$18",
+        "D": "$50"
+      },
+      "correct_answer": "C",
+      "bait_answer": "A",
+      "eval_memory_ids": [
+        "u004_tcr_06a",
+        "u004_tcr_06b"
+      ],
+      "metadata": {
+        "pair_id": "u004_tcr_06",
+        "source_row_ids": [
+          "TCR-06A",
+          "TCR-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q019",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "financial_agent",
+      "question": "James is choosing next month's discretionary plan. Which should the financial agent recommend?",
+      "options": {
+        "A": "Front-load repayment while protecting one small flexible category",
+        "B": "Put all available money into repayment",
+        "C": "Slow repayment and keep routine spending unchanged",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_01a",
+        "u004_dca_01b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_01",
+        "source_row_ids": [
+          "DCA-01A",
+          "DCA-01B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q020",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_agent",
+      "question": "James is choosing a weekly dessert pattern. Which should the food agent recommend?",
+      "options": {
+        "A": "Pair one planned small dessert with a lighter base meal",
+        "B": "Remove dessert items entirely",
+        "C": "Keep dessert unchanged and reduce unrelated items",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_02a",
+        "u004_dca_02b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_02",
+        "source_row_ids": [
+          "DCA-02A",
+          "DCA-02B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q021",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "James is selecting a day-trip itinerary. Which should the travel agent recommend?",
+      "options": {
+        "A": "Short flat route with one primary stop",
+        "B": "Long multi-district walking route",
+        "C": "Seated overview tour only",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_03a",
+        "u004_dca_03b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_03",
+        "source_row_ids": [
+          "DCA-03A",
+          "DCA-03B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q022",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "James is planning a recording schedule. Which should the education agent recommend?",
+      "options": {
+        "A": "Split one detailed topic across short recording blocks",
+        "B": "Record full episodes in one sitting",
+        "C": "Switch to brief updates only",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_04a",
+        "u004_dca_04b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_04",
+        "source_row_ids": [
+          "DCA-04A",
+          "DCA-04B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q023",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "travel_agent",
+      "question": "James is choosing a weekend activity. Which should the travel agent recommend?",
+      "options": {
+        "A": "Local plan with a fixed cap and one selected paid stop",
+        "B": "Higher-cost overnight plan",
+        "C": "No paid activity until later",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_05a",
+        "u004_dca_05b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_05",
+        "source_row_ids": [
+          "DCA-05A",
+          "DCA-05B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q024",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "food_agent",
+      "question": "James is choosing an evening snack plan. Which should the food agent recommend?",
+      "options": {
+        "A": "Pre-portion a small savory item with a neutral base",
+        "B": "Remove savory snacks entirely",
+        "C": "Keep the usual snack setup unchanged",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_06a",
+        "u004_dca_06b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_06",
+        "source_row_ids": [
+          "DCA-06A",
+          "DCA-06B"
+        ]
+      }
+    },
+    {
+      "question_id": "u004_q025",
+      "task_type": "DCA",
+      "answer_type": "MCQ",
+      "target_agent": "education_agent",
+      "question": "James is setting up a weekly editing practice. Which should the education agent recommend?",
+      "options": {
+        "A": "Alternate short shared review blocks with offline notes",
+        "B": "Use one long shared editing session",
+        "C": "Move practice fully to solo written study",
+        "D": "Need more information about the user's preferences."
+      },
+      "correct_answer": "A",
+      "bait_answer": "D",
+      "eval_memory_ids": [
+        "u004_dca_07a",
+        "u004_dca_07b"
+      ],
+      "metadata": {
+        "pair_id": "u004_dca_07",
+        "source_row_ids": [
+          "DCA-07A",
+          "DCA-07B"
+        ]
+      }
+    }
+  ]
+}

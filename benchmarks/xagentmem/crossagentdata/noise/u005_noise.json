@@ -1,0 +1,2404 @@
+{
+  "memories": [
+    {
+      "memory_id": "u005_n_001",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a separate notebook page for firm vendor renewal dates.",
+      "inferred_memory": "Fatima tracks firm vendor renewal dates separately.",
+      "timestamp": "2026-01-02T09:07:00Z"
+    },
+    {
+      "memory_id": "u005_n_002",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare pair of flats at the office for courthouse days.",
+      "inferred_memory": "Fatima keeps spare flats at the office for courthouse days.",
+      "timestamp": "2026-01-03T09:14:00Z"
+    },
+    {
+      "memory_id": "u005_n_003",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like cardamom in coffee when I make it at home.",
+      "inferred_memory": "Fatima likes cardamom in homemade coffee.",
+      "timestamp": "2026-01-04T09:21:00Z"
+    },
+    {
+      "memory_id": "u005_n_004",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a pocket-sized notebook for statute section numbers.",
+      "inferred_memory": "Fatima keeps a pocket notebook for statute section numbers.",
+      "timestamp": "2026-01-05T09:28:00Z"
+    },
+    {
+      "memory_id": "u005_n_005",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer aisle seats on flights when I have case files with me.",
+      "inferred_memory": "Fatima prefers aisle seats when traveling with case files.",
+      "timestamp": "2026-01-06T09:35:00Z"
+    },
+    {
+      "memory_id": "u005_n_006",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like seeing quarterly tax notes on paper before I enter anything into software.",
+      "inferred_memory": "Fatima prefers reviewing quarterly tax notes on paper first.",
+      "timestamp": "2026-01-04T10:42:00Z"
+    },
+    {
+      "memory_id": "u005_n_007",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I drink water from a metal bottle because I can tell how much is left by weight.",
+      "inferred_memory": "Fatima prefers a metal water bottle because it helps her gauge remaining water.",
+      "timestamp": "2026-01-05T10:49:00Z"
+    },
+    {
+      "memory_id": "u005_n_008",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep dates in the pantry for guests who stop by after dinner.",
+      "inferred_memory": "Fatima keeps dates available for guests.",
+      "timestamp": "2026-01-06T10:56:00Z"
+    },
+    {
+      "memory_id": "u005_n_009",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer CLE sessions with printed hypotheticals.",
+      "inferred_memory": "Fatima prefers CLE sessions that include printed hypotheticals.",
+      "timestamp": "2026-01-07T10:03:00Z"
+    },
+    {
+      "memory_id": "u005_n_010",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a folded tote bag in my carry-on.",
+      "inferred_memory": "Fatima keeps a folded tote bag in her carry-on.",
+      "timestamp": "2026-01-08T10:10:00Z"
+    },
+    {
+      "memory_id": "u005_n_011",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep my office supply receipts clipped by month.",
+      "inferred_memory": "Fatima organizes office supply receipts by month.",
+      "timestamp": "2026-01-06T11:17:00Z"
+    },
+    {
+      "memory_id": "u005_n_012",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stretch my calves before long client intake afternoons.",
+      "inferred_memory": "Fatima stretches her calves before long intake afternoons.",
+      "timestamp": "2026-01-07T11:24:00Z"
+    },
+    {
+      "memory_id": "u005_n_013",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer parsley chopped fine in tabbouleh.",
+      "inferred_memory": "Fatima prefers finely chopped parsley in tabbouleh.",
+      "timestamp": "2026-01-08T11:31:00Z"
+    },
+    {
+      "memory_id": "u005_n_014",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I mark confusing rule changes with a question mark in the margin.",
+      "inferred_memory": "Fatima marks confusing rule changes with marginal question marks.",
+      "timestamp": "2026-01-09T11:38:00Z"
+    },
+    {
+      "memory_id": "u005_n_015",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotels with a real desk instead of only a small round table.",
+      "inferred_memory": "Fatima prefers hotels with a real desk.",
+      "timestamp": "2026-01-10T11:45:00Z"
+    },
+    {
+      "memory_id": "u005_n_016",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer predictable flat-fee vendors when the service quality is comparable.",
+      "inferred_memory": "Fatima prefers predictable flat-fee vendors when quality is comparable.",
+      "timestamp": "2026-01-08T12:52:00Z"
+    },
+    {
+      "memory_id": "u005_n_017",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep unscented hand cream in my desk drawer.",
+      "inferred_memory": "Fatima keeps unscented hand cream at her desk.",
+      "timestamp": "2026-01-09T12:59:00Z"
+    },
+    {
+      "memory_id": "u005_n_018",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like labneh with olive oil more than sweet spreads at breakfast.",
+      "inferred_memory": "Fatima prefers labneh with olive oil over sweet breakfast spreads.",
+      "timestamp": "2026-01-10T12:06:00Z"
+    },
+    {
+      "memory_id": "u005_n_019",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate index for asylum-related country-condition sources.",
+      "inferred_memory": "Fatima maintains a separate index for asylum country-condition sources.",
+      "timestamp": "2026-01-11T12:13:00Z"
+    },
+    {
+      "memory_id": "u005_n_020",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer parking garages with clear pedestrian exits.",
+      "inferred_memory": "Fatima prefers parking garages with clear pedestrian exits.",
+      "timestamp": "2026-01-12T12:20:00Z"
+    },
+    {
+      "memory_id": "u005_n_021",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review recurring firm expenses on the first Monday after payroll clears.",
+      "inferred_memory": "Fatima reviews recurring firm expenses after payroll clears.",
+      "timestamp": "2026-01-10T13:27:00Z"
+    },
+    {
+      "memory_id": "u005_n_022",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer short walks around the block after tense calls.",
+      "inferred_memory": "Fatima uses short walks after tense calls.",
+      "timestamp": "2026-01-11T13:34:00Z"
+    },
+    {
+      "memory_id": "u005_n_023",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a jar of pickled turnips in the fridge.",
+      "inferred_memory": "Fatima keeps pickled turnips at home.",
+      "timestamp": "2026-01-12T13:41:00Z"
+    },
+    {
+      "memory_id": "u005_n_024",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer short case summaries that include procedural posture.",
+      "inferred_memory": "Fatima prefers case summaries with procedural posture.",
+      "timestamp": "2026-01-13T13:48:00Z"
+    },
+    {
+      "memory_id": "u005_n_025",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep printed confirmation numbers in my passport wallet.",
+      "inferred_memory": "Fatima keeps printed confirmation numbers in her passport wallet.",
+      "timestamp": "2026-01-14T13:55:00Z"
+    },
+    {
+      "memory_id": "u005_n_026",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small list of subscriptions that require partner approval before renewal.",
+      "inferred_memory": "Fatima uses partner approval for selected subscription renewals.",
+      "timestamp": "2026-01-12T14:02:00Z"
+    },
+    {
+      "memory_id": "u005_n_027",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a backup pair of reading glasses in my briefcase.",
+      "inferred_memory": "Fatima keeps backup reading glasses in her briefcase.",
+      "timestamp": "2026-01-13T14:09:00Z"
+    },
+    {
+      "memory_id": "u005_n_028",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer pistachios without added flavoring.",
+      "inferred_memory": "Fatima prefers plain pistachios.",
+      "timestamp": "2026-01-14T14:16:00Z"
+    },
+    {
+      "memory_id": "u005_n_029",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep old seminar name tags in a drawer until I enter the credits.",
+      "inferred_memory": "Fatima keeps seminar name tags until CLE credits are entered.",
+      "timestamp": "2026-01-15T14:23:00Z"
+    },
+    {
+      "memory_id": "u005_n_030",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like arriving at unfamiliar courthouses from the main entrance.",
+      "inferred_memory": "Fatima prefers using main entrances at unfamiliar courthouses.",
+      "timestamp": "2026-01-16T14:30:00Z"
+    },
+    {
+      "memory_id": "u005_n_031",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer invoices that show matter codes clearly.",
+      "inferred_memory": "Fatima values invoices with clear matter-code labeling.",
+      "timestamp": "2026-01-14T15:37:00Z"
+    },
+    {
+      "memory_id": "u005_n_032",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like the office thermostat slightly cool during long drafting sessions.",
+      "inferred_memory": "Fatima prefers a slightly cool office during long drafting sessions.",
+      "timestamp": "2026-01-15T15:44:00Z"
+    },
+    {
+      "memory_id": "u005_n_033",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like mint added to lemonade when it is very cold.",
+      "inferred_memory": "Fatima likes mint in very cold lemonade.",
+      "timestamp": "2026-01-16T15:51:00Z"
+    },
+    {
+      "memory_id": "u005_n_034",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like practice problems that use realistic fact patterns.",
+      "inferred_memory": "Fatima prefers realistic fact patterns in practice problems.",
+      "timestamp": "2026-01-17T15:58:00Z"
+    },
+    {
+      "memory_id": "u005_n_035",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer compact hotel floors where the elevator is easy to find.",
+      "inferred_memory": "Fatima prefers compact hotel layouts with easy elevator access.",
+      "timestamp": "2026-01-18T15:05:00Z"
+    },
+    {
+      "memory_id": "u005_n_036",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a spare checkbook in the locked file cabinet at the office.",
+      "inferred_memory": "Fatima keeps a spare checkbook in a locked office file cabinet.",
+      "timestamp": "2026-01-16T09:12:00Z"
+    },
+    {
+      "memory_id": "u005_n_037",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small timer to remind myself to stand during document review.",
+      "inferred_memory": "Fatima uses a small timer for standing reminders during document review.",
+      "timestamp": "2026-01-17T09:19:00Z"
+    },
+    {
+      "memory_id": "u005_n_038",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer rice that is fluffy rather than sticky for family meals.",
+      "inferred_memory": "Fatima prefers fluffy rice for family meals.",
+      "timestamp": "2026-01-18T09:26:00Z"
+    },
+    {
+      "memory_id": "u005_n_039",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer learning new software from a printed quick-start sheet.",
+      "inferred_memory": "Fatima prefers printed quick-start sheets for learning software.",
+      "timestamp": "2026-01-19T09:33:00Z"
+    },
+    {
+      "memory_id": "u005_n_040",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small pouch for chargers inside my carry-on.",
+      "inferred_memory": "Fatima keeps chargers in a small carry-on pouch.",
+      "timestamp": "2026-01-20T09:40:00Z"
+    },
+    {
+      "memory_id": "u005_n_041",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like separating client-cost reimbursements from normal operating expenses.",
+      "inferred_memory": "Fatima separates client-cost reimbursements from operating expenses.",
+      "timestamp": "2026-01-18T10:47:00Z"
+    },
+    {
+      "memory_id": "u005_n_042",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep mint tea bags at work for late afternoons.",
+      "inferred_memory": "Fatima keeps mint tea bags at work.",
+      "timestamp": "2026-01-19T10:54:00Z"
+    },
+    {
+      "memory_id": "u005_n_043",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep za'atar near the stove instead of in the spice drawer.",
+      "inferred_memory": "Fatima keeps za'atar near the stove.",
+      "timestamp": "2026-01-20T10:01:00Z"
+    },
+    {
+      "memory_id": "u005_n_044",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a running list of acronyms that newer staff ask about.",
+      "inferred_memory": "Fatima keeps a list of acronyms for staff training.",
+      "timestamp": "2026-01-21T10:08:00Z"
+    },
+    {
+      "memory_id": "u005_n_045",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like regional trains where I can keep my bag within sight.",
+      "inferred_memory": "Fatima prefers train seating where luggage stays visible.",
+      "timestamp": "2026-01-22T10:15:00Z"
+    },
+    {
+      "memory_id": "u005_n_046",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check the postage meter balance before large filing weeks.",
+      "inferred_memory": "Fatima checks postage balance before large filing weeks.",
+      "timestamp": "2026-01-20T11:22:00Z"
+    },
+    {
+      "memory_id": "u005_n_047",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer low-fragrance cleaning products in my office.",
+      "inferred_memory": "Fatima prefers low-fragrance office cleaning products.",
+      "timestamp": "2026-01-21T11:29:00Z"
+    },
+    {
+      "memory_id": "u005_n_048",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like cucumbers cut small in yogurt salads.",
+      "inferred_memory": "Fatima prefers small-cut cucumbers in yogurt salads.",
+      "timestamp": "2026-01-22T11:36:00Z"
+    },
+    {
+      "memory_id": "u005_n_049",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I mark important webinar timestamps on a sticky note.",
+      "inferred_memory": "Fatima notes important webinar timestamps on sticky notes.",
+      "timestamp": "2026-01-23T11:43:00Z"
+    },
+    {
+      "memory_id": "u005_n_050",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotels that list quiet hours clearly.",
+      "inferred_memory": "Fatima values hotels with clear quiet-hour policies.",
+      "timestamp": "2026-01-24T11:50:00Z"
+    },
+    {
+      "memory_id": "u005_n_051",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small petty-cash log for courthouse parking reimbursements.",
+      "inferred_memory": "Fatima tracks courthouse parking reimbursements in a petty-cash log.",
+      "timestamp": "2026-01-22T12:57:00Z"
+    },
+    {
+      "memory_id": "u005_n_052",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I wear a light scarf in over-air-conditioned conference rooms.",
+      "inferred_memory": "Fatima brings a light scarf for cold conference rooms.",
+      "timestamp": "2026-01-23T12:04:00Z"
+    },
+    {
+      "memory_id": "u005_n_053",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer flatbread warmed directly before serving.",
+      "inferred_memory": "Fatima prefers flatbread warmed just before serving.",
+      "timestamp": "2026-01-24T12:11:00Z"
+    },
+    {
+      "memory_id": "u005_n_054",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer training examples that include mistakes to correct.",
+      "inferred_memory": "Fatima learns well from training examples with correctable mistakes.",
+      "timestamp": "2026-01-25T12:18:00Z"
+    },
+    {
+      "memory_id": "u005_n_055",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a paper city map if the trip includes multiple offices.",
+      "inferred_memory": "Fatima keeps a paper city map for trips with multiple offices.",
+      "timestamp": "2026-01-26T12:25:00Z"
+    },
+    {
+      "memory_id": "u005_n_056",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like year-end expense summaries to include a short note about unusual months.",
+      "inferred_memory": "Fatima prefers year-end expense summaries with notes on unusual months.",
+      "timestamp": "2026-01-24T13:32:00Z"
+    },
+    {
+      "memory_id": "u005_n_057",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a wrist rest in my home office drawer.",
+      "inferred_memory": "Fatima keeps a wrist rest in her home office.",
+      "timestamp": "2026-01-25T13:39:00Z"
+    },
+    {
+      "memory_id": "u005_n_058",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep roasted chickpeas around for quick savory snacks.",
+      "inferred_memory": "Fatima keeps roasted chickpeas for quick savory snacks.",
+      "timestamp": "2026-01-26T13:46:00Z"
+    },
+    {
+      "memory_id": "u005_n_059",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep separate tabs for family petitions and employment petitions.",
+      "inferred_memory": "Fatima separates family and employment petition materials with tabs.",
+      "timestamp": "2026-01-27T13:53:00Z"
+    },
+    {
+      "memory_id": "u005_n_060",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like rideshares that drop off near a staffed entrance.",
+      "inferred_memory": "Fatima prefers rideshare drop-offs near staffed entrances.",
+      "timestamp": "2026-01-28T13:00:00Z"
+    },
+    {
+      "memory_id": "u005_n_061",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep professional dues in their own budget category.",
+      "inferred_memory": "Fatima budgets professional dues separately.",
+      "timestamp": "2026-01-26T14:07:00Z"
+    },
+    {
+      "memory_id": "u005_n_062",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer walking meetings when the topic is not confidential.",
+      "inferred_memory": "Fatima likes walking meetings for non-confidential topics.",
+      "timestamp": "2026-01-27T14:14:00Z"
+    },
+    {
+      "memory_id": "u005_n_063",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like orange blossom water used lightly in desserts.",
+      "inferred_memory": "Fatima likes light use of orange blossom water in desserts.",
+      "timestamp": "2026-01-28T14:21:00Z"
+    },
+    {
+      "memory_id": "u005_n_064",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like continuing education materials that cite the actual rule text.",
+      "inferred_memory": "Fatima values CLE materials that cite actual rule text.",
+      "timestamp": "2026-01-29T14:28:00Z"
+    },
+    {
+      "memory_id": "u005_n_065",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer travel itineraries that include building names, not just street addresses.",
+      "inferred_memory": "Fatima prefers itineraries with building names.",
+      "timestamp": "2026-01-30T14:35:00Z"
+    },
+    {
+      "memory_id": "u005_n_066",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer not to mix personal dining receipts with firm meal receipts.",
+      "inferred_memory": "Fatima separates personal dining receipts from firm meal receipts.",
+      "timestamp": "2026-01-28T15:42:00Z"
+    },
+    {
+      "memory_id": "u005_n_067",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small pack of tissues in every work bag.",
+      "inferred_memory": "Fatima keeps tissues in her work bags.",
+      "timestamp": "2026-01-29T15:49:00Z"
+    },
+    {
+      "memory_id": "u005_n_068",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer tea glasses that are small and clear.",
+      "inferred_memory": "Fatima prefers small clear tea glasses.",
+      "timestamp": "2026-01-30T15:56:00Z"
+    },
+    {
+      "memory_id": "u005_n_069",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer role-play intake practice over abstract discussion.",
+      "inferred_memory": "Fatima prefers role-play practice for intake training.",
+      "timestamp": "2026-01-31T15:03:00Z"
+    },
+    {
+      "memory_id": "u005_n_070",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small envelope for transit cards from different cities.",
+      "inferred_memory": "Fatima stores transit cards in a small envelope.",
+      "timestamp": "2026-02-01T15:10:00Z"
+    },
+    {
+      "memory_id": "u005_n_071",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep scanner maintenance costs under the office equipment line.",
+      "inferred_memory": "Fatima categorizes scanner maintenance as office equipment.",
+      "timestamp": "2026-01-30T09:17:00Z"
+    },
+    {
+      "memory_id": "u005_n_072",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a standing break after every long asylum declaration review.",
+      "inferred_memory": "Fatima takes standing breaks after long declaration reviews.",
+      "timestamp": "2026-01-31T09:24:00Z"
+    },
+    {
+      "memory_id": "u005_n_073",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep sumac where I can reach it quickly.",
+      "inferred_memory": "Fatima keeps sumac within easy reach.",
+      "timestamp": "2026-02-01T09:31:00Z"
+    },
+    {
+      "memory_id": "u005_n_074",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a short glossary for interpreters' workflow terms.",
+      "inferred_memory": "Fatima keeps a glossary of interpreter workflow terms.",
+      "timestamp": "2026-02-02T09:38:00Z"
+    },
+    {
+      "memory_id": "u005_n_075",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotel rooms away from ice machines.",
+      "inferred_memory": "Fatima prefers hotel rooms away from ice machines.",
+      "timestamp": "2026-02-03T09:45:00Z"
+    },
+    {
+      "memory_id": "u005_n_076",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like comparing vendor renewals in a two-column paper list.",
+      "inferred_memory": "Fatima compares vendor renewals using two-column paper lists.",
+      "timestamp": "2026-02-01T10:52:00Z"
+    },
+    {
+      "memory_id": "u005_n_077",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like a dim desk lamp when I am reviewing documents at night.",
+      "inferred_memory": "Fatima prefers dim desk lighting during night document review.",
+      "timestamp": "2026-02-02T10:59:00Z"
+    },
+    {
+      "memory_id": "u005_n_078",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like lentil soup smoother than chunky.",
+      "inferred_memory": "Fatima prefers smoother lentil soup.",
+      "timestamp": "2026-02-03T10:06:00Z"
+    },
+    {
+      "memory_id": "u005_n_079",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like handwritten arrows between related deadlines.",
+      "inferred_memory": "Fatima uses handwritten arrows to connect related deadlines.",
+      "timestamp": "2026-02-04T10:13:00Z"
+    },
+    {
+      "memory_id": "u005_n_080",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer early check-in when the trip follows a morning hearing.",
+      "inferred_memory": "Fatima prefers early check-in after morning hearings.",
+      "timestamp": "2026-02-05T10:20:00Z"
+    },
+    {
+      "memory_id": "u005_n_081",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I mark reimbursable filing fees with a blue paper clip.",
+      "inferred_memory": "Fatima marks reimbursable filing fees with a blue paper clip.",
+      "timestamp": "2026-02-03T11:27:00Z"
+    },
+    {
+      "memory_id": "u005_n_082",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a pair of blue-light glasses at the office.",
+      "inferred_memory": "Fatima keeps blue-light glasses at work.",
+      "timestamp": "2026-02-04T11:34:00Z"
+    },
+    {
+      "memory_id": "u005_n_083",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer tomatoes stored on the counter if they will be used soon.",
+      "inferred_memory": "Fatima stores soon-to-use tomatoes on the counter.",
+      "timestamp": "2026-02-05T11:41:00Z"
+    },
+    {
+      "memory_id": "u005_n_084",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer staff training checklists that fit on one page.",
+      "inferred_memory": "Fatima prefers one-page staff training checklists.",
+      "timestamp": "2026-02-06T11:48:00Z"
+    },
+    {
+      "memory_id": "u005_n_085",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep spare passport photos in a travel document folder.",
+      "inferred_memory": "Fatima keeps spare passport photos in a travel folder.",
+      "timestamp": "2026-02-07T11:55:00Z"
+    },
+    {
+      "memory_id": "u005_n_086",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small cushion for postage spikes during filing-heavy months.",
+      "inferred_memory": "Fatima budgets for postage spikes during filing-heavy months.",
+      "timestamp": "2026-02-05T12:02:00Z"
+    },
+    {
+      "memory_id": "u005_n_087",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer lunch away from my desk when the schedule allows it.",
+      "inferred_memory": "Fatima prefers eating lunch away from her desk when possible.",
+      "timestamp": "2026-02-06T12:09:00Z"
+    },
+    {
+      "memory_id": "u005_n_088",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a separate cutting board for herbs.",
+      "inferred_memory": "Fatima uses a separate cutting board for herbs.",
+      "timestamp": "2026-02-07T12:16:00Z"
+    },
+    {
+      "memory_id": "u005_n_089",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate folder for forms that changed recently.",
+      "inferred_memory": "Fatima keeps recently changed forms in a separate folder.",
+      "timestamp": "2026-02-08T12:23:00Z"
+    },
+    {
+      "memory_id": "u005_n_090",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like airports where the rental-car signs are easy to follow.",
+      "inferred_memory": "Fatima values airports with clear rental-car signage.",
+      "timestamp": "2026-02-09T12:30:00Z"
+    },
+    {
+      "memory_id": "u005_n_091",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer paying bar association dues from the professional development category.",
+      "inferred_memory": "Fatima pays bar association dues from professional development funds.",
+      "timestamp": "2026-02-07T13:37:00Z"
+    },
+    {
+      "memory_id": "u005_n_092",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small first-aid pouch in my filing cabinet.",
+      "inferred_memory": "Fatima keeps first-aid supplies in her filing cabinet.",
+      "timestamp": "2026-02-08T13:44:00Z"
+    },
+    {
+      "memory_id": "u005_n_093",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like feta crumbled small rather than sliced thick.",
+      "inferred_memory": "Fatima prefers feta crumbled small.",
+      "timestamp": "2026-02-09T13:51:00Z"
+    },
+    {
+      "memory_id": "u005_n_094",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like examples that show both the weak and strong version of an argument.",
+      "inferred_memory": "Fatima prefers examples comparing weak and strong arguments.",
+      "timestamp": "2026-02-10T13:58:00Z"
+    },
+    {
+      "memory_id": "u005_n_095",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer not to change hotels during a short work trip.",
+      "inferred_memory": "Fatima avoids hotel changes during short work trips.",
+      "timestamp": "2026-02-11T13:05:00Z"
+    },
+    {
+      "memory_id": "u005_n_096",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check whether a vendor invoice names the right firm entity before approving it.",
+      "inferred_memory": "Fatima verifies the firm entity on vendor invoices.",
+      "timestamp": "2026-02-09T14:12:00Z"
+    },
+    {
+      "memory_id": "u005_n_097",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use elevator rides as a cue to relax my shoulders.",
+      "inferred_memory": "Fatima uses elevator rides as a shoulder-relaxation cue.",
+      "timestamp": "2026-02-10T14:19:00Z"
+    },
+    {
+      "memory_id": "u005_n_098",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer grocery lists grouped by store aisle.",
+      "inferred_memory": "Fatima organizes grocery lists by store aisle.",
+      "timestamp": "2026-02-11T14:26:00Z"
+    },
+    {
+      "memory_id": "u005_n_099",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer to review new guidance with a highlighter and pencil.",
+      "inferred_memory": "Fatima reviews new guidance with a highlighter and pencil.",
+      "timestamp": "2026-02-12T14:33:00Z"
+    },
+    {
+      "memory_id": "u005_n_100",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small travel lint roller in my bag.",
+      "inferred_memory": "Fatima carries a travel lint roller.",
+      "timestamp": "2026-02-13T14:40:00Z"
+    },
+    {
+      "memory_id": "u005_n_101",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep the office coffee order under staff amenities, not meals.",
+      "inferred_memory": "Fatima categorizes office coffee as staff amenities.",
+      "timestamp": "2026-02-11T15:47:00Z"
+    },
+    {
+      "memory_id": "u005_n_102",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer not to schedule back-to-back intake calls without a short pause.",
+      "inferred_memory": "Fatima prefers short pauses between intake calls.",
+      "timestamp": "2026-02-12T15:54:00Z"
+    },
+    {
+      "memory_id": "u005_n_103",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep extra lemons because someone always asks for them.",
+      "inferred_memory": "Fatima keeps extra lemons for guests.",
+      "timestamp": "2026-02-13T15:01:00Z"
+    },
+    {
+      "memory_id": "u005_n_104",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep saved searches for immigration-policy updates.",
+      "inferred_memory": "Fatima maintains saved searches for immigration-policy updates.",
+      "timestamp": "2026-02-14T15:08:00Z"
+    },
+    {
+      "memory_id": "u005_n_105",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train stations with clear platform announcements.",
+      "inferred_memory": "Fatima values clear platform announcements at train stations.",
+      "timestamp": "2026-02-15T15:15:00Z"
+    },
+    {
+      "memory_id": "u005_n_106",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like to review large office purchases with my co-owner before placing them.",
+      "inferred_memory": "Fatima reviews large office purchases with her co-owner.",
+      "timestamp": "2026-02-13T09:22:00Z"
+    },
+    {
+      "memory_id": "u005_n_107",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep lip balm in the side pocket of my court bag.",
+      "inferred_memory": "Fatima keeps lip balm in her court bag.",
+      "timestamp": "2026-02-14T09:29:00Z"
+    },
+    {
+      "memory_id": "u005_n_108",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like soup served in wide bowls.",
+      "inferred_memory": "Fatima prefers soup in wide bowls.",
+      "timestamp": "2026-02-15T09:36:00Z"
+    },
+    {
+      "memory_id": "u005_n_109",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like lunchtime trainings when they include concrete takeaways.",
+      "inferred_memory": "Fatima values lunchtime trainings with concrete takeaways.",
+      "timestamp": "2026-02-16T09:43:00Z"
+    },
+    {
+      "memory_id": "u005_n_110",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotels where the lobby has a quiet seating corner.",
+      "inferred_memory": "Fatima prefers hotels with quiet lobby seating.",
+      "timestamp": "2026-02-17T09:50:00Z"
+    },
+    {
+      "memory_id": "u005_n_111",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep travel reimbursements in a separate envelope until I enter them.",
+      "inferred_memory": "Fatima temporarily stores travel reimbursements separately before entry.",
+      "timestamp": "2026-02-15T10:57:00Z"
+    },
+    {
+      "memory_id": "u005_n_112",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like gentle neck stretches before video consultations.",
+      "inferred_memory": "Fatima does gentle neck stretches before video consultations.",
+      "timestamp": "2026-02-16T10:04:00Z"
+    },
+    {
+      "memory_id": "u005_n_113",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer hummus with a visible pool of olive oil.",
+      "inferred_memory": "Fatima prefers hummus served with visible olive oil.",
+      "timestamp": "2026-02-17T10:11:00Z"
+    },
+    {
+      "memory_id": "u005_n_114",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer sample letters that include bracketed drafting notes.",
+      "inferred_memory": "Fatima prefers sample letters with bracketed drafting notes.",
+      "timestamp": "2026-02-18T10:18:00Z"
+    },
+    {
+      "memory_id": "u005_n_115",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep digital boarding passes but still write the gate on paper when posted.",
+      "inferred_memory": "Fatima writes gate information on paper even with digital boarding passes.",
+      "timestamp": "2026-02-19T10:25:00Z"
+    },
+    {
+      "memory_id": "u005_n_116",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer monthly summaries that show both actual and planned spending.",
+      "inferred_memory": "Fatima prefers budget summaries with planned and actual spending.",
+      "timestamp": "2026-02-17T11:32:00Z"
+    },
+    {
+      "memory_id": "u005_n_117",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small humidifier at home during dry weeks.",
+      "inferred_memory": "Fatima uses a small humidifier at home during dry weeks.",
+      "timestamp": "2026-02-18T11:39:00Z"
+    },
+    {
+      "memory_id": "u005_n_118",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep coffee cups separate from tea glasses.",
+      "inferred_memory": "Fatima stores coffee cups separately from tea glasses.",
+      "timestamp": "2026-02-19T11:46:00Z"
+    },
+    {
+      "memory_id": "u005_n_119",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a note about which forms require wet signatures.",
+      "inferred_memory": "Fatima tracks forms requiring wet signatures.",
+      "timestamp": "2026-02-20T11:53:00Z"
+    },
+    {
+      "memory_id": "u005_n_120",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like to know the nearest pharmacy before I arrive.",
+      "inferred_memory": "Fatima checks nearby pharmacies before traveling.",
+      "timestamp": "2026-02-21T11:00:00Z"
+    },
+    {
+      "memory_id": "u005_n_121",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I label client-paid filing fees differently from firm-paid filing fees.",
+      "inferred_memory": "Fatima distinguishes client-paid and firm-paid filing fees.",
+      "timestamp": "2026-02-19T12:07:00Z"
+    },
+    {
+      "memory_id": "u005_n_122",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer shoes with quiet soles for courthouse hallways.",
+      "inferred_memory": "Fatima prefers quiet-soled shoes for courthouse hallways.",
+      "timestamp": "2026-02-20T12:14:00Z"
+    },
+    {
+      "memory_id": "u005_n_123",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like parsley washed and dried before the weekend starts.",
+      "inferred_memory": "Fatima prepares parsley before the weekend.",
+      "timestamp": "2026-02-21T12:21:00Z"
+    },
+    {
+      "memory_id": "u005_n_124",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like study materials sorted by client journey stage.",
+      "inferred_memory": "Fatima prefers materials sorted by client journey stage.",
+      "timestamp": "2026-02-22T12:28:00Z"
+    },
+    {
+      "memory_id": "u005_n_125",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer moderate layovers over tight connections.",
+      "inferred_memory": "Fatima prefers moderate layovers to tight connections.",
+      "timestamp": "2026-02-23T12:35:00Z"
+    },
+    {
+      "memory_id": "u005_n_126",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small reserve for interpreter scheduling deposits.",
+      "inferred_memory": "Fatima maintains a reserve for interpreter scheduling deposits.",
+      "timestamp": "2026-02-21T13:42:00Z"
+    },
+    {
+      "memory_id": "u005_n_127",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep herbal lozenges in the office kitchen.",
+      "inferred_memory": "Fatima keeps herbal lozenges in the office kitchen.",
+      "timestamp": "2026-02-22T13:49:00Z"
+    },
+    {
+      "memory_id": "u005_n_128",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer stuffed grape leaves served closer to room temperature.",
+      "inferred_memory": "Fatima prefers stuffed grape leaves closer to room temperature.",
+      "timestamp": "2026-02-23T13:56:00Z"
+    },
+    {
+      "memory_id": "u005_n_129",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer refresher courses that separate rule updates from practice tips.",
+      "inferred_memory": "Fatima prefers refresher courses separating rule updates and practice tips.",
+      "timestamp": "2026-02-24T13:03:00Z"
+    },
+    {
+      "memory_id": "u005_n_130",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a scarf in my travel bag for cold plane cabins.",
+      "inferred_memory": "Fatima keeps a scarf in her travel bag.",
+      "timestamp": "2026-02-25T13:10:00Z"
+    },
+    {
+      "memory_id": "u005_n_131",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like office supply orders to happen on one scheduled day, not scattered through the week.",
+      "inferred_memory": "Fatima prefers scheduled office supply ordering.",
+      "timestamp": "2026-02-23T14:17:00Z"
+    },
+    {
+      "memory_id": "u005_n_132",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a simple breathing count before difficult calls.",
+      "inferred_memory": "Fatima uses a breathing count before difficult calls.",
+      "timestamp": "2026-02-24T14:24:00Z"
+    },
+    {
+      "memory_id": "u005_n_133",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small container of toasted pine nuts for garnishes.",
+      "inferred_memory": "Fatima keeps toasted pine nuts for garnishes.",
+      "timestamp": "2026-02-25T14:31:00Z"
+    },
+    {
+      "memory_id": "u005_n_134",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a binder pocket for frequently used consular processing notes.",
+      "inferred_memory": "Fatima keeps consular processing notes in a binder pocket.",
+      "timestamp": "2026-02-26T14:38:00Z"
+    },
+    {
+      "memory_id": "u005_n_135",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotel closets with enough hangers for court clothes.",
+      "inferred_memory": "Fatima values hotel closets with enough hangers.",
+      "timestamp": "2026-02-27T14:45:00Z"
+    },
+    {
+      "memory_id": "u005_n_136",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review credit card statements line by line before the bookkeeper closes the month.",
+      "inferred_memory": "Fatima reviews credit card statements before monthly close.",
+      "timestamp": "2026-02-25T15:52:00Z"
+    },
+    {
+      "memory_id": "u005_n_137",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like daylight near my desk but not direct glare.",
+      "inferred_memory": "Fatima prefers daylight without glare at her desk.",
+      "timestamp": "2026-02-26T15:59:00Z"
+    },
+    {
+      "memory_id": "u005_n_138",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like yogurt sauces with garlic grated very fine.",
+      "inferred_memory": "Fatima prefers very finely grated garlic in yogurt sauces.",
+      "timestamp": "2026-02-27T15:06:00Z"
+    },
+    {
+      "memory_id": "u005_n_139",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like examples that include common document defects.",
+      "inferred_memory": "Fatima values examples with common document defects.",
+      "timestamp": "2026-02-28T15:13:00Z"
+    },
+    {
+      "memory_id": "u005_n_140",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer rental cars with straightforward controls.",
+      "inferred_memory": "Fatima prefers rental cars with simple controls.",
+      "timestamp": "2026-03-01T15:20:00Z"
+    },
+    {
+      "memory_id": "u005_n_141",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep continuing legal education receipts in a folder by year.",
+      "inferred_memory": "Fatima organizes CLE receipts by year.",
+      "timestamp": "2026-02-27T09:27:00Z"
+    },
+    {
+      "memory_id": "u005_n_142",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small umbrella by the office door.",
+      "inferred_memory": "Fatima keeps an umbrella near the office door.",
+      "timestamp": "2026-02-28T09:34:00Z"
+    },
+    {
+      "memory_id": "u005_n_143",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer family-style serving spoons that are not too large.",
+      "inferred_memory": "Fatima prefers moderate-size family-style serving spoons.",
+      "timestamp": "2026-03-01T09:41:00Z"
+    },
+    {
+      "memory_id": "u005_n_144",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer summaries that state what changed since the last version.",
+      "inferred_memory": "Fatima prefers summaries showing changes from prior versions.",
+      "timestamp": "2026-03-02T09:48:00Z"
+    },
+    {
+      "memory_id": "u005_n_145",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a list of trusted taxi stands near common courthouses.",
+      "inferred_memory": "Fatima keeps a list of trusted taxi stands near courthouses.",
+      "timestamp": "2026-03-03T09:55:00Z"
+    },
+    {
+      "memory_id": "u005_n_146",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer conservative revenue projections for the firm.",
+      "inferred_memory": "Fatima prefers conservative firm revenue projections.",
+      "timestamp": "2026-03-01T10:02:00Z"
+    },
+    {
+      "memory_id": "u005_n_147",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer short shoulder mobility breaks over longer exercise blocks during workdays.",
+      "inferred_memory": "Fatima prefers short mobility breaks during workdays.",
+      "timestamp": "2026-03-02T10:09:00Z"
+    },
+    {
+      "memory_id": "u005_n_148",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep spice labels facing forward.",
+      "inferred_memory": "Fatima keeps spice labels facing forward.",
+      "timestamp": "2026-03-03T10:16:00Z"
+    },
+    {
+      "memory_id": "u005_n_149",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a page of sample questions for new client consultations.",
+      "inferred_memory": "Fatima keeps sample consultation questions.",
+      "timestamp": "2026-03-04T10:23:00Z"
+    },
+    {
+      "memory_id": "u005_n_150",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like trip plans that include the nearest printing option.",
+      "inferred_memory": "Fatima values trip plans with nearby printing options.",
+      "timestamp": "2026-03-05T10:30:00Z"
+    },
+    {
+      "memory_id": "u005_n_151",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I flag duplicate vendor charges with a sticky note before emailing the bookkeeper.",
+      "inferred_memory": "Fatima flags duplicate vendor charges with sticky notes.",
+      "timestamp": "2026-03-03T11:37:00Z"
+    },
+    {
+      "memory_id": "u005_n_152",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a non-slip mat by the office entry in winter.",
+      "inferred_memory": "Fatima keeps a winter non-slip mat by the office entry.",
+      "timestamp": "2026-03-04T11:44:00Z"
+    },
+    {
+      "memory_id": "u005_n_153",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like chickpea salads with more herbs than onion.",
+      "inferred_memory": "Fatima prefers chickpea salads with more herbs than onion.",
+      "timestamp": "2026-03-05T11:51:00Z"
+    },
+    {
+      "memory_id": "u005_n_154",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like workshop leaders who pause for applied exercises.",
+      "inferred_memory": "Fatima prefers workshops with applied exercises.",
+      "timestamp": "2026-03-06T11:58:00Z"
+    },
+    {
+      "memory_id": "u005_n_155",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotel elevators that require keycard access.",
+      "inferred_memory": "Fatima prefers hotels with keycard-access elevators.",
+      "timestamp": "2026-03-07T11:05:00Z"
+    },
+    {
+      "memory_id": "u005_n_156",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like keeping a short list of annual costs that always surprise people.",
+      "inferred_memory": "Fatima tracks annual costs that can be overlooked.",
+      "timestamp": "2026-03-05T12:12:00Z"
+    },
+    {
+      "memory_id": "u005_n_157",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like to refill my water bottle before client meetings start.",
+      "inferred_memory": "Fatima refills water before client meetings.",
+      "timestamp": "2026-03-06T12:19:00Z"
+    },
+    {
+      "memory_id": "u005_n_158",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer unsweetened yogurt for cooking.",
+      "inferred_memory": "Fatima prefers unsweetened yogurt for cooking.",
+      "timestamp": "2026-03-07T12:26:00Z"
+    },
+    {
+      "memory_id": "u005_n_159",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer citations placed near the relevant sentence.",
+      "inferred_memory": "Fatima prefers citations close to the relevant text.",
+      "timestamp": "2026-03-08T12:33:00Z"
+    },
+    {
+      "memory_id": "u005_n_160",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a copy of my bar card in my travel folder.",
+      "inferred_memory": "Fatima keeps a bar card copy in her travel folder.",
+      "timestamp": "2026-03-09T12:40:00Z"
+    },
+    {
+      "memory_id": "u005_n_161",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep the printer paper budget separate from general supplies.",
+      "inferred_memory": "Fatima separates printer paper spending from general supplies.",
+      "timestamp": "2026-03-07T13:47:00Z"
+    },
+    {
+      "memory_id": "u005_n_162",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a backup phone charger so I do not rush around looking for one.",
+      "inferred_memory": "Fatima keeps a backup phone charger to avoid rushed searching.",
+      "timestamp": "2026-03-08T13:54:00Z"
+    },
+    {
+      "memory_id": "u005_n_163",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep extra containers for sending food home with relatives.",
+      "inferred_memory": "Fatima keeps containers for sharing leftovers with relatives.",
+      "timestamp": "2026-03-09T13:01:00Z"
+    },
+    {
+      "memory_id": "u005_n_164",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep an error log for rejected filing packets.",
+      "inferred_memory": "Fatima maintains an error log for rejected filings.",
+      "timestamp": "2026-03-10T13:08:00Z"
+    },
+    {
+      "memory_id": "u005_n_165",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like walking routes that avoid poorly marked construction areas.",
+      "inferred_memory": "Fatima prefers walking routes avoiding poorly marked construction.",
+      "timestamp": "2026-03-11T13:15:00Z"
+    },
+    {
+      "memory_id": "u005_n_166",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review merchant fees when online payment volume increases.",
+      "inferred_memory": "Fatima reviews merchant fees when online payment volume rises.",
+      "timestamp": "2026-03-09T14:22:00Z"
+    },
+    {
+      "memory_id": "u005_n_167",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer mild room lighting during mediation prep.",
+      "inferred_memory": "Fatima prefers mild lighting during mediation preparation.",
+      "timestamp": "2026-03-10T14:29:00Z"
+    },
+    {
+      "memory_id": "u005_n_168",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like the first pot of coffee made before guests arrive.",
+      "inferred_memory": "Fatima prefers coffee ready before guests arrive.",
+      "timestamp": "2026-03-11T14:36:00Z"
+    },
+    {
+      "memory_id": "u005_n_169",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like reviewing form instructions before looking at commentary.",
+      "inferred_memory": "Fatima reviews form instructions before commentary.",
+      "timestamp": "2026-03-12T14:43:00Z"
+    },
+    {
+      "memory_id": "u005_n_170",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer ground-floor cafes when meeting clients during travel.",
+      "inferred_memory": "Fatima prefers ground-floor cafes for travel meetings.",
+      "timestamp": "2026-03-13T14:50:00Z"
+    },
+    {
+      "memory_id": "u005_n_171",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer one clean reimbursement form instead of several informal messages.",
+      "inferred_memory": "Fatima prefers standardized reimbursement forms.",
+      "timestamp": "2026-03-11T15:57:00Z"
+    },
+    {
+      "memory_id": "u005_n_172",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small notebook to note headache triggers when they appear.",
+      "inferred_memory": "Fatima tracks headache triggers in a small notebook.",
+      "timestamp": "2026-03-12T15:04:00Z"
+    },
+    {
+      "memory_id": "u005_n_173",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer warm pita wrapped in a towel.",
+      "inferred_memory": "Fatima wraps warm pita in a towel.",
+      "timestamp": "2026-03-13T15:11:00Z"
+    },
+    {
+      "memory_id": "u005_n_174",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer office trainings that end with an updated checklist.",
+      "inferred_memory": "Fatima prefers trainings that produce updated checklists.",
+      "timestamp": "2026-03-14T15:18:00Z"
+    },
+    {
+      "memory_id": "u005_n_175",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a separate small bag for documents that cannot be checked.",
+      "inferred_memory": "Fatima keeps non-checkable documents in a separate small bag.",
+      "timestamp": "2026-03-15T15:25:00Z"
+    },
+    {
+      "memory_id": "u005_n_176",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep charitable sponsorship requests in a pending folder until partner review.",
+      "inferred_memory": "Fatima holds sponsorship requests for partner review.",
+      "timestamp": "2026-03-13T09:32:00Z"
+    },
+    {
+      "memory_id": "u005_n_177",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep sunscreen in my summer work bag.",
+      "inferred_memory": "Fatima carries sunscreen in her summer work bag.",
+      "timestamp": "2026-03-14T09:39:00Z"
+    },
+    {
+      "memory_id": "u005_n_178",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep cinnamon sticks for tea rather than ground cinnamon.",
+      "inferred_memory": "Fatima uses cinnamon sticks for tea.",
+      "timestamp": "2026-03-15T09:46:00Z"
+    },
+    {
+      "memory_id": "u005_n_179",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep separate notes for policy changes that are final versus proposed.",
+      "inferred_memory": "Fatima separates final and proposed policy-change notes.",
+      "timestamp": "2026-03-16T09:53:00Z"
+    },
+    {
+      "memory_id": "u005_n_180",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train seats with a stable tray table.",
+      "inferred_memory": "Fatima values stable tray tables on trains.",
+      "timestamp": "2026-03-17T09:00:00Z"
+    },
+    {
+      "memory_id": "u005_n_181",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like comparing courier fees by route before changing vendors.",
+      "inferred_memory": "Fatima compares courier fees by route.",
+      "timestamp": "2026-03-15T10:07:00Z"
+    },
+    {
+      "memory_id": "u005_n_182",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer scheduled lunch windows on heavy hearing days.",
+      "inferred_memory": "Fatima prefers scheduled lunch windows during heavy hearing days.",
+      "timestamp": "2026-03-16T10:14:00Z"
+    },
+    {
+      "memory_id": "u005_n_183",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like eggplant roasted until the edges darken.",
+      "inferred_memory": "Fatima prefers eggplant roasted until edges darken.",
+      "timestamp": "2026-03-17T10:21:00Z"
+    },
+    {
+      "memory_id": "u005_n_184",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like case-law updates grouped by court.",
+      "inferred_memory": "Fatima prefers case-law updates grouped by court.",
+      "timestamp": "2026-03-18T10:28:00Z"
+    },
+    {
+      "memory_id": "u005_n_185",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotel bathrooms with good counter space.",
+      "inferred_memory": "Fatima prefers hotel bathrooms with good counter space.",
+      "timestamp": "2026-03-19T10:35:00Z"
+    },
+    {
+      "memory_id": "u005_n_186",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep the office lease notice dates in the same folder as insurance renewals.",
+      "inferred_memory": "Fatima stores office lease notice dates with insurance renewals.",
+      "timestamp": "2026-03-17T11:42:00Z"
+    },
+    {
+      "memory_id": "u005_n_187",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small packet of electrolyte powder in my drawer for long days.",
+      "inferred_memory": "Fatima keeps electrolyte powder for long workdays.",
+      "timestamp": "2026-03-18T11:49:00Z"
+    },
+    {
+      "memory_id": "u005_n_188",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer olives served in a shallow dish.",
+      "inferred_memory": "Fatima prefers olives in a shallow dish.",
+      "timestamp": "2026-03-19T11:56:00Z"
+    },
+    {
+      "memory_id": "u005_n_189",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples with dates written out clearly.",
+      "inferred_memory": "Fatima prefers examples with clear written-out dates.",
+      "timestamp": "2026-03-20T11:03:00Z"
+    },
+    {
+      "memory_id": "u005_n_190",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a written backup of important phone numbers while traveling.",
+      "inferred_memory": "Fatima keeps written backup phone numbers during travel.",
+      "timestamp": "2026-03-21T11:10:00Z"
+    },
+    {
+      "memory_id": "u005_n_191",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer separating one-time setup costs from monthly operating costs.",
+      "inferred_memory": "Fatima distinguishes setup costs from monthly operating costs.",
+      "timestamp": "2026-03-19T12:17:00Z"
+    },
+    {
+      "memory_id": "u005_n_192",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like taking the stairs down when I have time, but not when carrying heavy files.",
+      "inferred_memory": "Fatima may take stairs down when not carrying heavy files.",
+      "timestamp": "2026-03-20T12:24:00Z"
+    },
+    {
+      "memory_id": "u005_n_193",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small dish for pits next to olive plates.",
+      "inferred_memory": "Fatima provides a small dish for olive pits.",
+      "timestamp": "2026-03-21T12:31:00Z"
+    },
+    {
+      "memory_id": "u005_n_194",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a staff learning board in the conference room.",
+      "inferred_memory": "Fatima keeps a staff learning board in the conference room.",
+      "timestamp": "2026-03-22T12:38:00Z"
+    },
+    {
+      "memory_id": "u005_n_195",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like parking spots near stair or elevator access when carrying files.",
+      "inferred_memory": "Fatima prefers parking near stair or elevator access when carrying files.",
+      "timestamp": "2026-03-23T12:45:00Z"
+    },
+    {
+      "memory_id": "u005_n_196",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check client trust accounting reminders every Friday afternoon.",
+      "inferred_memory": "Fatima checks client trust accounting reminders weekly.",
+      "timestamp": "2026-03-21T13:52:00Z"
+    },
+    {
+      "memory_id": "u005_n_197",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep my home office chair adjusted lower than most chairs.",
+      "inferred_memory": "Fatima prefers a lower home office chair setting.",
+      "timestamp": "2026-03-22T13:59:00Z"
+    },
+    {
+      "memory_id": "u005_n_198",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like lentils rinsed twice before cooking.",
+      "inferred_memory": "Fatima rinses lentils twice before cooking.",
+      "timestamp": "2026-03-23T13:06:00Z"
+    },
+    {
+      "memory_id": "u005_n_199",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like to annotate slides after printing them.",
+      "inferred_memory": "Fatima annotates printed slides.",
+      "timestamp": "2026-03-24T13:13:00Z"
+    },
+    {
+      "memory_id": "u005_n_200",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer to know whether hotel windows open before booking.",
+      "inferred_memory": "Fatima checks whether hotel windows open before booking.",
+      "timestamp": "2026-03-25T13:20:00Z"
+    },
+    {
+      "memory_id": "u005_n_201",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a handwritten running list of checks that need signatures.",
+      "inferred_memory": "Fatima maintains a handwritten check-signature list.",
+      "timestamp": "2026-03-23T14:27:00Z"
+    },
+    {
+      "memory_id": "u005_n_202",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer quiet waiting areas before medical appointments.",
+      "inferred_memory": "Fatima prefers quiet waiting areas for appointments.",
+      "timestamp": "2026-03-24T14:34:00Z"
+    },
+    {
+      "memory_id": "u005_n_203",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer weekend breakfast to include something savory.",
+      "inferred_memory": "Fatima prefers savory items at weekend breakfast.",
+      "timestamp": "2026-03-25T14:41:00Z"
+    },
+    {
+      "memory_id": "u005_n_204",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer questions that test one rule at a time.",
+      "inferred_memory": "Fatima prefers single-rule test questions.",
+      "timestamp": "2026-03-26T14:48:00Z"
+    },
+    {
+      "memory_id": "u005_n_205",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a reusable laundry bag in my suitcase.",
+      "inferred_memory": "Fatima keeps a reusable laundry bag in her suitcase.",
+      "timestamp": "2026-03-27T14:55:00Z"
+    },
+    {
+      "memory_id": "u005_n_206",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer fee reports that separate consultations from retained matters.",
+      "inferred_memory": "Fatima prefers fee reports separating consultations and retained matters.",
+      "timestamp": "2026-03-25T15:02:00Z"
+    },
+    {
+      "memory_id": "u005_n_207",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a soft eyeglass cloth in my blazer pocket.",
+      "inferred_memory": "Fatima carries an eyeglass cloth in her blazer pocket.",
+      "timestamp": "2026-03-26T15:09:00Z"
+    },
+    {
+      "memory_id": "u005_n_208",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep turmeric in a small jar near the rice pot.",
+      "inferred_memory": "Fatima keeps turmeric near the rice pot.",
+      "timestamp": "2026-03-27T15:16:00Z"
+    },
+    {
+      "memory_id": "u005_n_209",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a checklist for reviewing translated documents.",
+      "inferred_memory": "Fatima uses a checklist for translated document review.",
+      "timestamp": "2026-03-28T15:23:00Z"
+    },
+    {
+      "memory_id": "u005_n_210",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like airport lounges only when they have quiet seating.",
+      "inferred_memory": "Fatima values airport lounges for quiet seating.",
+      "timestamp": "2026-03-29T15:30:00Z"
+    },
+    {
+      "memory_id": "u005_n_211",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I note late vendor payments in the margin of the monthly expense sheet.",
+      "inferred_memory": "Fatima marks late vendor payments on expense sheets.",
+      "timestamp": "2026-03-27T09:37:00Z"
+    },
+    {
+      "memory_id": "u005_n_212",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use warm water when my hands feel stiff after typing.",
+      "inferred_memory": "Fatima uses warm water for hand stiffness after typing.",
+      "timestamp": "2026-03-28T09:44:00Z"
+    },
+    {
+      "memory_id": "u005_n_213",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like cucumber slices salted right before serving.",
+      "inferred_memory": "Fatima salts cucumber slices just before serving.",
+      "timestamp": "2026-03-29T09:51:00Z"
+    },
+    {
+      "memory_id": "u005_n_214",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like comparing old and new form editions side by side.",
+      "inferred_memory": "Fatima compares old and new forms side by side.",
+      "timestamp": "2026-03-30T09:58:00Z"
+    },
+    {
+      "memory_id": "u005_n_215",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotels that are easy for relatives to find if they visit.",
+      "inferred_memory": "Fatima prefers hotels relatives can find easily.",
+      "timestamp": "2026-03-31T09:05:00Z"
+    },
+    {
+      "memory_id": "u005_n_216",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep building access-card fees under facilities expenses.",
+      "inferred_memory": "Fatima categorizes building access-card fees as facilities expenses.",
+      "timestamp": "2026-03-29T10:12:00Z"
+    },
+    {
+      "memory_id": "u005_n_217",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like to park where I can take a short walk before entering court.",
+      "inferred_memory": "Fatima prefers parking that allows a short pre-court walk.",
+      "timestamp": "2026-03-30T10:19:00Z"
+    },
+    {
+      "memory_id": "u005_n_218",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer plain sparkling water with meals.",
+      "inferred_memory": "Fatima prefers plain sparkling water with meals.",
+      "timestamp": "2026-03-31T10:26:00Z"
+    },
+    {
+      "memory_id": "u005_n_219",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer brief end-of-week policy recaps.",
+      "inferred_memory": "Fatima prefers brief end-of-week policy recaps.",
+      "timestamp": "2026-04-01T10:33:00Z"
+    },
+    {
+      "memory_id": "u005_n_220",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small packet of document flags in my travel folder.",
+      "inferred_memory": "Fatima carries document flags in her travel folder.",
+      "timestamp": "2026-04-02T10:40:00Z"
+    },
+    {
+      "memory_id": "u005_n_221",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like renewal notices printed before I discuss them with my co-owner.",
+      "inferred_memory": "Fatima prefers printed renewal notices for partner discussions.",
+      "timestamp": "2026-03-31T11:47:00Z"
+    },
+    {
+      "memory_id": "u005_n_222",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a checklist for restocking health items in my work bag.",
+      "inferred_memory": "Fatima uses a checklist to restock health items in her work bag.",
+      "timestamp": "2026-04-01T11:54:00Z"
+    },
+    {
+      "memory_id": "u005_n_223",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a handwritten list of relatives' food allergies inside a cabinet door.",
+      "inferred_memory": "Fatima keeps a handwritten allergy list for relatives.",
+      "timestamp": "2026-04-02T11:01:00Z"
+    },
+    {
+      "memory_id": "u005_n_224",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep notes from mentoring calls in a separate folder.",
+      "inferred_memory": "Fatima stores mentoring-call notes separately.",
+      "timestamp": "2026-04-03T11:08:00Z"
+    },
+    {
+      "memory_id": "u005_n_225",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like city trips where the courthouse and lodging are on the same transit line.",
+      "inferred_memory": "Fatima prefers courthouse lodging on the same transit line.",
+      "timestamp": "2026-04-04T11:15:00Z"
+    },
+    {
+      "memory_id": "u005_n_226",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer not to auto-renew professional tools without reviewing usage.",
+      "inferred_memory": "Fatima reviews usage before renewing professional tools.",
+      "timestamp": "2026-04-02T12:22:00Z"
+    },
+    {
+      "memory_id": "u005_n_227",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer moderate room temperature during long client interviews.",
+      "inferred_memory": "Fatima prefers moderate room temperature during long interviews.",
+      "timestamp": "2026-04-03T12:29:00Z"
+    },
+    {
+      "memory_id": "u005_n_228",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like walnuts toasted lightly for desserts.",
+      "inferred_memory": "Fatima prefers lightly toasted walnuts in desserts.",
+      "timestamp": "2026-04-04T12:36:00Z"
+    },
+    {
+      "memory_id": "u005_n_229",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like training handouts with room for margin notes.",
+      "inferred_memory": "Fatima prefers handouts with margin space.",
+      "timestamp": "2026-04-05T12:43:00Z"
+    },
+    {
+      "memory_id": "u005_n_230",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer rental counters that allow after-hours return.",
+      "inferred_memory": "Fatima prefers rental cars with after-hours return options.",
+      "timestamp": "2026-04-06T12:50:00Z"
+    },
+    {
+      "memory_id": "u005_n_231",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep office snack purchases separate from client hospitality.",
+      "inferred_memory": "Fatima separates office snacks from client hospitality costs.",
+      "timestamp": "2026-04-04T13:57:00Z"
+    },
+    {
+      "memory_id": "u005_n_232",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small snack in my bag so I do not skip eating on court days.",
+      "inferred_memory": "Fatima carries a small snack to avoid skipping food on court days.",
+      "timestamp": "2026-04-05T13:04:00Z"
+    },
+    {
+      "memory_id": "u005_n_233",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer rice pudding with a thin texture.",
+      "inferred_memory": "Fatima prefers thinner rice pudding.",
+      "timestamp": "2026-04-06T13:11:00Z"
+    },
+    {
+      "memory_id": "u005_n_234",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer sample filings that include cover-letter structure.",
+      "inferred_memory": "Fatima prefers sample filings with cover-letter structure.",
+      "timestamp": "2026-04-07T13:18:00Z"
+    },
+    {
+      "memory_id": "u005_n_235",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep receipts from travel meals in a separate zip pocket.",
+      "inferred_memory": "Fatima stores travel meal receipts separately.",
+      "timestamp": "2026-04-08T13:25:00Z"
+    },
+    {
+      "memory_id": "u005_n_236",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review the firm phone bill when new staff lines are added.",
+      "inferred_memory": "Fatima reviews phone bills after staff line changes.",
+      "timestamp": "2026-04-06T14:32:00Z"
+    },
+    {
+      "memory_id": "u005_n_237",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like chair stretches that do not look distracting in a conference room.",
+      "inferred_memory": "Fatima prefers discreet chair stretches in conference rooms.",
+      "timestamp": "2026-04-07T14:39:00Z"
+    },
+    {
+      "memory_id": "u005_n_238",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a serving tray ready for tea after dinner.",
+      "inferred_memory": "Fatima keeps a tea tray ready after dinner.",
+      "timestamp": "2026-04-08T14:46:00Z"
+    },
+    {
+      "memory_id": "u005_n_239",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of immigration terms that clients often misunderstand.",
+      "inferred_memory": "Fatima tracks immigration terms clients often misunderstand.",
+      "timestamp": "2026-04-09T14:53:00Z"
+    },
+    {
+      "memory_id": "u005_n_240",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotel rooms with enough outlets near the desk.",
+      "inferred_memory": "Fatima prefers hotel rooms with outlets near the desk.",
+      "timestamp": "2026-04-10T14:00:00Z"
+    },
+    {
+      "memory_id": "u005_n_241",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like marking approved invoices with a date stamp.",
+      "inferred_memory": "Fatima date-stamps approved invoices.",
+      "timestamp": "2026-04-08T15:07:00Z"
+    },
+    {
+      "memory_id": "u005_n_242",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare hair tie in every document bag.",
+      "inferred_memory": "Fatima keeps spare hair ties in document bags.",
+      "timestamp": "2026-04-09T15:14:00Z"
+    },
+    {
+      "memory_id": "u005_n_243",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like grocery trips early before the store gets crowded.",
+      "inferred_memory": "Fatima prefers early grocery trips before crowds.",
+      "timestamp": "2026-04-10T15:21:00Z"
+    },
+    {
+      "memory_id": "u005_n_244",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like reviewing appeal standards in small sections.",
+      "inferred_memory": "Fatima reviews appeal standards in small sections.",
+      "timestamp": "2026-04-11T15:28:00Z"
+    },
+    {
+      "memory_id": "u005_n_245",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer routes that avoid complicated left turns in unfamiliar cities.",
+      "inferred_memory": "Fatima prefers routes avoiding complicated left turns in unfamiliar cities.",
+      "timestamp": "2026-04-12T15:35:00Z"
+    },
+    {
+      "memory_id": "u005_n_246",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small budget line for replacement badge holders.",
+      "inferred_memory": "Fatima budgets for replacement badge holders.",
+      "timestamp": "2026-04-10T09:42:00Z"
+    },
+    {
+      "memory_id": "u005_n_247",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer to leave a few minutes between evening calls and bedtime routines.",
+      "inferred_memory": "Fatima prefers a short gap between evening calls and bedtime routines.",
+      "timestamp": "2026-04-11T09:49:00Z"
+    },
+    {
+      "memory_id": "u005_n_248",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer cucumbers that stay crisp in salads.",
+      "inferred_memory": "Fatima values crisp cucumbers in salads.",
+      "timestamp": "2026-04-12T09:56:00Z"
+    },
+    {
+      "memory_id": "u005_n_249",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer rule charts that show effective dates.",
+      "inferred_memory": "Fatima prefers rule charts with effective dates.",
+      "timestamp": "2026-04-13T09:03:00Z"
+    },
+    {
+      "memory_id": "u005_n_250",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small sewing kit in my overnight bag.",
+      "inferred_memory": "Fatima carries a small sewing kit in her overnight bag.",
+      "timestamp": "2026-04-14T09:10:00Z"
+    },
+    {
+      "memory_id": "u005_n_251",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer to batch small reimbursements once a week.",
+      "inferred_memory": "Fatima batches small reimbursements weekly.",
+      "timestamp": "2026-04-12T10:17:00Z"
+    },
+    {
+      "memory_id": "u005_n_252",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use an analog kitchen timer when I need to step away from a screen.",
+      "inferred_memory": "Fatima uses an analog timer to support screen breaks.",
+      "timestamp": "2026-04-13T10:24:00Z"
+    },
+    {
+      "memory_id": "u005_n_253",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep an extra bag of lentils in the pantry.",
+      "inferred_memory": "Fatima keeps extra lentils stocked.",
+      "timestamp": "2026-04-14T10:31:00Z"
+    },
+    {
+      "memory_id": "u005_n_254",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep notes on which CLE speakers explain practical steps well.",
+      "inferred_memory": "Fatima tracks CLE speakers who explain practical steps well.",
+      "timestamp": "2026-04-15T10:38:00Z"
+    },
+    {
+      "memory_id": "u005_n_255",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like boarding earlier when overhead space may run out.",
+      "inferred_memory": "Fatima boards earlier when overhead space may be limited.",
+      "timestamp": "2026-04-16T10:45:00Z"
+    },
+    {
+      "memory_id": "u005_n_256",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep payroll-related mail in a red folder.",
+      "inferred_memory": "Fatima stores payroll-related mail in a red folder.",
+      "timestamp": "2026-04-14T11:52:00Z"
+    },
+    {
+      "memory_id": "u005_n_257",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small towel in the car during humid months.",
+      "inferred_memory": "Fatima keeps a small towel in the car during humid months.",
+      "timestamp": "2026-04-15T11:59:00Z"
+    },
+    {
+      "memory_id": "u005_n_258",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like breakfast plates arranged simply.",
+      "inferred_memory": "Fatima prefers simply arranged breakfast plates.",
+      "timestamp": "2026-04-16T11:06:00Z"
+    },
+    {
+      "memory_id": "u005_n_259",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like training new staff with anonymized filing packets.",
+      "inferred_memory": "Fatima trains staff using anonymized filing packets.",
+      "timestamp": "2026-04-17T11:13:00Z"
+    },
+    {
+      "memory_id": "u005_n_260",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer direct routes to government buildings even if they are slightly slower.",
+      "inferred_memory": "Fatima prefers direct routes to government buildings.",
+      "timestamp": "2026-04-18T11:20:00Z"
+    },
+    {
+      "memory_id": "u005_n_261",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like to see a short note explaining any expense over the usual range.",
+      "inferred_memory": "Fatima wants notes for expenses outside the usual range.",
+      "timestamp": "2026-04-16T12:27:00Z"
+    },
+    {
+      "memory_id": "u005_n_262",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer gentle weekend walks after family dinners.",
+      "inferred_memory": "Fatima likes gentle walks after family dinners.",
+      "timestamp": "2026-04-17T12:34:00Z"
+    },
+    {
+      "memory_id": "u005_n_263",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer herbs dried on a towel, not in the salad spinner.",
+      "inferred_memory": "Fatima prefers towel-dried herbs.",
+      "timestamp": "2026-04-18T12:41:00Z"
+    },
+    {
+      "memory_id": "u005_n_264",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer practice quizzes that explain why the wrong options are wrong.",
+      "inferred_memory": "Fatima prefers practice quizzes with explanations for wrong options.",
+      "timestamp": "2026-04-19T12:48:00Z"
+    },
+    {
+      "memory_id": "u005_n_265",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep hotel keycards in the same bag pocket every time.",
+      "inferred_memory": "Fatima stores hotel keycards in a consistent bag pocket.",
+      "timestamp": "2026-04-20T12:55:00Z"
+    },
+    {
+      "memory_id": "u005_n_266",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a checklist for end-of-month account review.",
+      "inferred_memory": "Fatima uses an end-of-month account review checklist.",
+      "timestamp": "2026-04-18T13:02:00Z"
+    },
+    {
+      "memory_id": "u005_n_267",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep hand sanitizer in the outer pocket of my briefcase.",
+      "inferred_memory": "Fatima keeps hand sanitizer in her briefcase.",
+      "timestamp": "2026-04-19T13:09:00Z"
+    },
+    {
+      "memory_id": "u005_n_268",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small spoon in the tahini jar area.",
+      "inferred_memory": "Fatima keeps a small spoon near the tahini jar.",
+      "timestamp": "2026-04-20T13:16:00Z"
+    },
+    {
+      "memory_id": "u005_n_269",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a correction sheet for recurring intake-form errors.",
+      "inferred_memory": "Fatima keeps a correction sheet for intake-form errors.",
+      "timestamp": "2026-04-21T13:23:00Z"
+    },
+    {
+      "memory_id": "u005_n_270",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like travel plans that list backup transportation options.",
+      "inferred_memory": "Fatima values backup transportation options in travel plans.",
+      "timestamp": "2026-04-22T13:30:00Z"
+    },
+    {
+      "memory_id": "u005_n_271",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer vendors that send itemized receipts without being asked.",
+      "inferred_memory": "Fatima values vendors that provide itemized receipts proactively.",
+      "timestamp": "2026-04-20T14:37:00Z"
+    },
+    {
+      "memory_id": "u005_n_272",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like to sit near an aisle during long seminars so I can stand quietly.",
+      "inferred_memory": "Fatima prefers aisle seating during long seminars for easy standing breaks.",
+      "timestamp": "2026-04-21T14:44:00Z"
+    },
+    {
+      "memory_id": "u005_n_273",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like tea poured after the table is cleared.",
+      "inferred_memory": "Fatima prefers tea after clearing the table.",
+      "timestamp": "2026-04-22T14:51:00Z"
+    },
+    {
+      "memory_id": "u005_n_274",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like country-condition research guides with source dates visible.",
+      "inferred_memory": "Fatima prefers research guides with visible source dates.",
+      "timestamp": "2026-04-23T14:58:00Z"
+    },
+    {
+      "memory_id": "u005_n_275",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer to avoid hotel rooms next to elevators.",
+      "inferred_memory": "Fatima avoids hotel rooms next to elevators.",
+      "timestamp": "2026-04-24T14:05:00Z"
+    },
+    {
+      "memory_id": "u005_n_276",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep courier tips in the delivery-cost category.",
+      "inferred_memory": "Fatima categorizes courier tips as delivery costs.",
+      "timestamp": "2026-04-22T15:12:00Z"
+    },
+    {
+      "memory_id": "u005_n_277",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare mask in my office drawer.",
+      "inferred_memory": "Fatima keeps a spare mask in her office drawer.",
+      "timestamp": "2026-04-23T15:19:00Z"
+    },
+    {
+      "memory_id": "u005_n_278",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer soup reheated slowly on the stove.",
+      "inferred_memory": "Fatima prefers reheating soup slowly on the stove.",
+      "timestamp": "2026-04-24T15:26:00Z"
+    },
+    {
+      "memory_id": "u005_n_279",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer legal updates that separate agency guidance from court decisions.",
+      "inferred_memory": "Fatima prefers updates separating agency guidance and court decisions.",
+      "timestamp": "2026-04-25T15:33:00Z"
+    },
+    {
+      "memory_id": "u005_n_280",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small flashlight in my travel pouch.",
+      "inferred_memory": "Fatima carries a small flashlight in her travel pouch.",
+      "timestamp": "2026-04-26T15:40:00Z"
+    },
+    {
+      "memory_id": "u005_n_281",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I mark prepaid services so they are not mistaken for monthly expenses.",
+      "inferred_memory": "Fatima labels prepaid services separately.",
+      "timestamp": "2026-04-24T09:47:00Z"
+    },
+    {
+      "memory_id": "u005_n_282",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer to review dense documents earlier in the day when possible.",
+      "inferred_memory": "Fatima prefers reviewing dense documents earlier in the day.",
+      "timestamp": "2026-04-25T09:54:00Z"
+    },
+    {
+      "memory_id": "u005_n_283",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a ceramic bowl for mixing dressings.",
+      "inferred_memory": "Fatima uses a ceramic bowl for dressings.",
+      "timestamp": "2026-04-26T09:01:00Z"
+    },
+    {
+      "memory_id": "u005_n_284",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a binder clip on pages that need partner discussion.",
+      "inferred_memory": "Fatima clips pages that require partner discussion.",
+      "timestamp": "2026-04-27T09:08:00Z"
+    },
+    {
+      "memory_id": "u005_n_285",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like checking courtroom entry rules before leaving the hotel.",
+      "inferred_memory": "Fatima checks courtroom entry rules before leaving lodging.",
+      "timestamp": "2026-04-28T09:15:00Z"
+    },
+    {
+      "memory_id": "u005_n_286",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like tracking office plants under facilities rather than staff amenities.",
+      "inferred_memory": "Fatima categorizes office plants as facilities expenses.",
+      "timestamp": "2026-04-26T10:22:00Z"
+    },
+    {
+      "memory_id": "u005_n_287",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep comfortable house slippers by the door after long courthouse days.",
+      "inferred_memory": "Fatima keeps comfortable slippers by the door for long courthouse days.",
+      "timestamp": "2026-04-27T10:29:00Z"
+    },
+    {
+      "memory_id": "u005_n_288",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like mint leaves left whole in tea.",
+      "inferred_memory": "Fatima prefers whole mint leaves in tea.",
+      "timestamp": "2026-04-28T10:36:00Z"
+    },
+    {
+      "memory_id": "u005_n_289",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like staff workshops that include a five-minute recap.",
+      "inferred_memory": "Fatima likes staff workshops with brief recaps.",
+      "timestamp": "2026-04-29T10:43:00Z"
+    },
+    {
+      "memory_id": "u005_n_290",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer hotels with breakfast hours posted clearly.",
+      "inferred_memory": "Fatima values clearly posted hotel breakfast hours.",
+      "timestamp": "2026-04-30T10:50:00Z"
+    },
+    {
+      "memory_id": "u005_n_291",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep refund confirmations until the next statement arrives.",
+      "inferred_memory": "Fatima retains refund confirmations until statement verification.",
+      "timestamp": "2026-04-28T11:57:00Z"
+    },
+    {
+      "memory_id": "u005_n_292",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a brief shoulder roll before joining video hearings.",
+      "inferred_memory": "Fatima does a brief shoulder roll before video hearings.",
+      "timestamp": "2026-04-29T11:04:00Z"
+    },
+    {
+      "memory_id": "u005_n_293",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer not to overfill plates at family dinners.",
+      "inferred_memory": "Fatima prefers not overfilling plates at family dinners.",
+      "timestamp": "2026-04-30T11:11:00Z"
+    },
+    {
+      "memory_id": "u005_n_294",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer learning checklists that leave space for local practice notes.",
+      "inferred_memory": "Fatima prefers checklists with space for local practice notes.",
+      "timestamp": "2026-05-01T11:18:00Z"
+    },
+    {
+      "memory_id": "u005_n_295",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a pen clipped to my boarding-pass printout.",
+      "inferred_memory": "Fatima clips a pen to boarding-pass printouts.",
+      "timestamp": "2026-05-02T11:25:00Z"
+    },
+    {
+      "memory_id": "u005_n_296",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer budget notes that identify whether a cost is required or optional.",
+      "inferred_memory": "Fatima prefers budget notes separating required and optional costs.",
+      "timestamp": "2026-04-30T12:32:00Z"
+    },
+    {
+      "memory_id": "u005_n_297",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer not to eat very late after evening client calls.",
+      "inferred_memory": "Fatima prefers avoiding very late eating after evening client calls.",
+      "timestamp": "2026-05-01T12:39:00Z"
+    },
+    {
+      "memory_id": "u005_n_298",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep extra napkins near the dining table.",
+      "inferred_memory": "Fatima keeps extra napkins near the dining table.",
+      "timestamp": "2026-05-02T12:46:00Z"
+    },
+    {
+      "memory_id": "u005_n_299",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a note about which templates should not be reused.",
+      "inferred_memory": "Fatima tracks templates that should not be reused.",
+      "timestamp": "2026-05-03T12:53:00Z"
+    },
+    {
+      "memory_id": "u005_n_300",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like returning rental cars with more time than the minimum.",
+      "inferred_memory": "Fatima returns rental cars with extra time before deadlines.",
+      "timestamp": "2026-05-04T12:00:00Z"
+    }
+  ]
+}

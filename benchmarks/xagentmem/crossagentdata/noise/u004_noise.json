@@ -1,0 +1,2405 @@
+{
+  "user_id": "u004",
+  "memories": [
+    {
+      "memory_id": "u004_n_001",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep hardware-store receipts in a separate folder because paint supplies and house repairs blend together otherwise.",
+      "inferred_memory": "James separates hardware-store receipts to distinguish art supplies from home repairs.",
+      "timestamp": "2026-01-02T09:12:00Z"
+    },
+    {
+      "memory_id": "u004_n_002",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I write check numbers on the bill envelope before I mail anything.",
+      "inferred_memory": "James tracks mailed bill payments by writing check numbers on envelopes.",
+      "timestamp": "2026-01-02T18:19:00Z"
+    },
+    {
+      "memory_id": "u004_n_003",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer paying annual fees only after I have used the service for a full month.",
+      "inferred_memory": "James waits to evaluate a service before committing to annual fees.",
+      "timestamp": "2026-01-03T03:26:00Z"
+    },
+    {
+      "memory_id": "u004_n_004",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small cash roll in the glove box for parking meters and small tolls.",
+      "inferred_memory": "James keeps small cash available in his vehicle for parking and tolls.",
+      "timestamp": "2026-01-03T12:33:00Z"
+    },
+    {
+      "memory_id": "u004_n_005",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save appliance manuals in the same drawer as the warranty papers.",
+      "inferred_memory": "James stores appliance manuals with warranty documents.",
+      "timestamp": "2026-01-03T21:40:00Z"
+    },
+    {
+      "memory_id": "u004_n_006",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I mark tax documents with blue painter's tape so I do not mix them with regular mail.",
+      "inferred_memory": "James uses blue painter's tape to identify tax-related documents.",
+      "timestamp": "2026-01-04T06:47:00Z"
+    },
+    {
+      "memory_id": "u004_n_007",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like getting printed receipts at the pharmacy, even when they offer email receipts.",
+      "inferred_memory": "James prefers printed pharmacy receipts.",
+      "timestamp": "2026-01-04T15:54:00Z"
+    },
+    {
+      "memory_id": "u004_n_008",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track charitable donations in a notebook before I enter them into tax software.",
+      "inferred_memory": "James records donations manually before entering them digitally.",
+      "timestamp": "2026-01-05T01:01:00Z"
+    },
+    {
+      "memory_id": "u004_n_009",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a coin jar for laundromats even though I rarely need it.",
+      "inferred_memory": "James keeps spare coins available for occasional laundry needs.",
+      "timestamp": "2026-01-05T09:08:00Z"
+    },
+    {
+      "memory_id": "u004_n_010",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer a plain bank branch lobby over handling unusual account issues by chat.",
+      "inferred_memory": "James prefers in-person banking for unusual account issues.",
+      "timestamp": "2026-01-05T18:15:00Z"
+    },
+    {
+      "memory_id": "u004_n_011",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I label auto-maintenance receipts by mileage instead of by date.",
+      "inferred_memory": "James organizes vehicle maintenance records by mileage.",
+      "timestamp": "2026-01-06T03:22:00Z"
+    },
+    {
+      "memory_id": "u004_n_012",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep my property-tax notice clipped to the refrigerator until it is paid.",
+      "inferred_memory": "James uses a visible reminder for property-tax payments.",
+      "timestamp": "2026-01-06T12:29:00Z"
+    },
+    {
+      "memory_id": "u004_n_013",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I use the same envelope color every year for insurance papers.",
+      "inferred_memory": "James organizes insurance paperwork by using a consistent envelope color.",
+      "timestamp": "2026-01-06T21:36:00Z"
+    },
+    {
+      "memory_id": "u004_n_014",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check the expiration dates on store coupons before I put them in my wallet.",
+      "inferred_memory": "James screens coupons for expiration dates before carrying them.",
+      "timestamp": "2026-01-07T06:43:00Z"
+    },
+    {
+      "memory_id": "u004_n_015",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a separate note for subscription renewal dates, not just the monthly amount.",
+      "inferred_memory": "James tracks subscription renewal dates separately from subscription costs.",
+      "timestamp": "2026-01-07T15:50:00Z"
+    },
+    {
+      "memory_id": "u004_n_016",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I round utility estimates up by five dollars when I plan the month.",
+      "inferred_memory": "James pads utility estimates slightly when budgeting.",
+      "timestamp": "2026-01-08T00:57:00Z"
+    },
+    {
+      "memory_id": "u004_n_017",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying replacement batteries in two-packs so they do not sit unused for years.",
+      "inferred_memory": "James avoids overbuying household batteries.",
+      "timestamp": "2026-01-08T10:04:00Z"
+    },
+    {
+      "memory_id": "u004_n_018",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small line item for postage because it is easy to forget.",
+      "inferred_memory": "James includes postage in his routine budget.",
+      "timestamp": "2026-01-08T18:11:00Z"
+    },
+    {
+      "memory_id": "u004_n_019",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I write the warranty end date on the inside cover of new equipment manuals.",
+      "inferred_memory": "James annotates equipment manuals with warranty expiration dates.",
+      "timestamp": "2026-01-09T03:18:00Z"
+    },
+    {
+      "memory_id": "u004_n_020",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare grocery receipts by store only once a month, not every trip.",
+      "inferred_memory": "James reviews grocery store costs monthly rather than after each trip.",
+      "timestamp": "2026-01-09T12:25:00Z"
+    },
+    {
+      "memory_id": "u004_n_021",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep my old calculator on the desk because I trust it for bill totals.",
+      "inferred_memory": "James prefers using a familiar physical calculator for bill totals.",
+      "timestamp": "2026-01-09T21:32:00Z"
+    },
+    {
+      "memory_id": "u004_n_022",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save a photo of repair invoices before putting the paper copy away.",
+      "inferred_memory": "James keeps digital backups of repair invoices.",
+      "timestamp": "2026-01-10T06:39:00Z"
+    },
+    {
+      "memory_id": "u004_n_023",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I use plain labels on budget folders because color coding becomes too much.",
+      "inferred_memory": "James prefers simple labeling over complex color-coding for budget folders.",
+      "timestamp": "2026-01-10T15:46:00Z"
+    },
+    {
+      "memory_id": "u004_n_024",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I do not like auto-renewals unless the cancellation date is written somewhere visible.",
+      "inferred_memory": "James wants visible cancellation-date reminders for auto-renewing services.",
+      "timestamp": "2026-01-11T00:53:00Z"
+    },
+    {
+      "memory_id": "u004_n_025",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep home-improvement rebates in their own envelope until they clear.",
+      "inferred_memory": "James tracks home-improvement rebates separately until payment is received.",
+      "timestamp": "2026-01-11T10:00:00Z"
+    },
+    {
+      "memory_id": "u004_n_026",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer flat-rate service calls when the price difference is small.",
+      "inferred_memory": "James favors predictable service-call pricing.",
+      "timestamp": "2026-01-11T18:07:00Z"
+    },
+    {
+      "memory_id": "u004_n_027",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a list of household lightbulb sizes in my wallet.",
+      "inferred_memory": "James carries a reference list of household lightbulb sizes.",
+      "timestamp": "2026-01-12T03:14:00Z"
+    },
+    {
+      "memory_id": "u004_n_028",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I log gas purchases by odometer reading when I remember.",
+      "inferred_memory": "James sometimes tracks fuel purchases by odometer reading.",
+      "timestamp": "2026-01-12T12:21:00Z"
+    },
+    {
+      "memory_id": "u004_n_029",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set aside a small amount for replacement work gloves because I go through them slowly but regularly.",
+      "inferred_memory": "James budgets modestly for periodic replacement work gloves.",
+      "timestamp": "2026-01-12T21:28:00Z"
+    },
+    {
+      "memory_id": "u004_n_030",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep the water bill and electric bill in different folders because I mix them up if they are together.",
+      "inferred_memory": "James separates utility bills by type to avoid confusion.",
+      "timestamp": "2026-01-13T06:35:00Z"
+    },
+    {
+      "memory_id": "u004_n_031",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer plain paper statements for the accounts I review with a highlighter.",
+      "inferred_memory": "James likes paper statements for accounts he reviews manually.",
+      "timestamp": "2026-01-13T15:42:00Z"
+    },
+    {
+      "memory_id": "u004_n_032",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I wait until a tool has been borrowed twice before I consider buying my own.",
+      "inferred_memory": "James uses repeated borrowing as a signal before buying a tool.",
+      "timestamp": "2026-01-14T00:49:00Z"
+    },
+    {
+      "memory_id": "u004_n_033",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a running list of household items that are cheaper at the warehouse store.",
+      "inferred_memory": "James tracks which household items are cost-effective at the warehouse store.",
+      "timestamp": "2026-01-14T09:56:00Z"
+    },
+    {
+      "memory_id": "u004_n_034",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I put gift-card balances on sticky notes so I do not forget the remaining amount.",
+      "inferred_memory": "James labels gift cards with remaining balances.",
+      "timestamp": "2026-01-14T19:03:00Z"
+    },
+    {
+      "memory_id": "u004_n_035",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review Medicare paperwork at the kitchen table because the desk gets cluttered.",
+      "inferred_memory": "James prefers reviewing Medicare paperwork at the kitchen table.",
+      "timestamp": "2026-01-15T03:10:00Z"
+    },
+    {
+      "memory_id": "u004_n_036",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a separate folder for old fire department pension letters.",
+      "inferred_memory": "James stores pension correspondence separately.",
+      "timestamp": "2026-01-15T12:17:00Z"
+    },
+    {
+      "memory_id": "u004_n_037",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I mark paid bills with the date paid instead of just checking them off.",
+      "inferred_memory": "James records payment dates on bills.",
+      "timestamp": "2026-01-15T21:24:00Z"
+    },
+    {
+      "memory_id": "u004_n_038",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small reserve for printer ink because it always runs out at the wrong time.",
+      "inferred_memory": "James budgets for printer ink replacement.",
+      "timestamp": "2026-01-16T06:31:00Z"
+    },
+    {
+      "memory_id": "u004_n_039",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save contractor business cards in a recipe box near the phone.",
+      "inferred_memory": "James stores contractor contacts in a physical card box.",
+      "timestamp": "2026-01-16T15:38:00Z"
+    },
+    {
+      "memory_id": "u004_n_040",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer itemized estimates over round-number quotes.",
+      "inferred_memory": "James likes itemized estimates for services.",
+      "timestamp": "2026-01-17T00:45:00Z"
+    },
+    {
+      "memory_id": "u004_n_041",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check whether a store brand has the same warranty before choosing it.",
+      "inferred_memory": "James compares warranty terms when considering store-brand items.",
+      "timestamp": "2026-01-17T09:52:00Z"
+    },
+    {
+      "memory_id": "u004_n_042",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep cash gifts for the grandkids in separate envelopes until birthdays come up.",
+      "inferred_memory": "James separates cash gifts by recipient or occasion.",
+      "timestamp": "2026-01-17T18:59:00Z"
+    },
+    {
+      "memory_id": "u004_n_043",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track household subscriptions on the same page as utilities.",
+      "inferred_memory": "James records household subscriptions alongside utility expenses.",
+      "timestamp": "2026-01-18T03:06:00Z"
+    },
+    {
+      "memory_id": "u004_n_044",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer a slow replacement schedule for household items that still work.",
+      "inferred_memory": "James avoids replacing functioning household items quickly.",
+      "timestamp": "2026-01-18T12:13:00Z"
+    },
+    {
+      "memory_id": "u004_n_045",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a note of which credit card has the rental-car coverage.",
+      "inferred_memory": "James tracks credit-card travel protections in a note.",
+      "timestamp": "2026-01-18T21:20:00Z"
+    },
+    {
+      "memory_id": "u004_n_046",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I staple return labels to the receipt until the return window closes.",
+      "inferred_memory": "James keeps return labels with receipts during return windows.",
+      "timestamp": "2026-01-19T06:27:00Z"
+    },
+    {
+      "memory_id": "u004_n_047",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I do not count rebates in the budget until the money actually arrives.",
+      "inferred_memory": "James excludes pending rebates from available budget funds.",
+      "timestamp": "2026-01-19T15:34:00Z"
+    },
+    {
+      "memory_id": "u004_n_048",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer getting one clear estimate instead of three vague ones.",
+      "inferred_memory": "James values clarity in estimates over collecting many vague quotes.",
+      "timestamp": "2026-01-20T00:41:00Z"
+    },
+    {
+      "memory_id": "u004_n_049",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a separate notebook page for annual city fees.",
+      "inferred_memory": "James tracks annual city fees in a notebook.",
+      "timestamp": "2026-01-20T09:48:00Z"
+    },
+    {
+      "memory_id": "u004_n_050",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare insurance deductibles on paper because the online screens blur together.",
+      "inferred_memory": "James reviews insurance deductible options on paper.",
+      "timestamp": "2026-01-20T18:55:00Z"
+    },
+    {
+      "memory_id": "u004_n_051",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I write the due date on the outside of any bill envelope that comes in.",
+      "inferred_memory": "James marks bill due dates visibly on envelopes.",
+      "timestamp": "2026-01-21T04:02:00Z"
+    },
+    {
+      "memory_id": "u004_n_052",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small buffer for shipping costs when I mail paintings or family gifts.",
+      "inferred_memory": "James budgets a small amount for shipping costs.",
+      "timestamp": "2026-01-21T12:09:00Z"
+    },
+    {
+      "memory_id": "u004_n_053",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying replacement filters in person so I can match the size.",
+      "inferred_memory": "James likes matching replacement filter sizes in store.",
+      "timestamp": "2026-01-21T21:16:00Z"
+    },
+    {
+      "memory_id": "u004_n_054",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save receipts from framing shops in the art folder, not the household folder.",
+      "inferred_memory": "James files framing expenses with art-related records.",
+      "timestamp": "2026-01-22T06:23:00Z"
+    },
+    {
+      "memory_id": "u004_n_055",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a running list of local senior discounts but only use the ones that are simple.",
+      "inferred_memory": "James tracks senior discounts and prefers straightforward ones.",
+      "timestamp": "2026-01-22T15:30:00Z"
+    },
+    {
+      "memory_id": "u004_n_056",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I double-check recurring charges after the first bill of the year.",
+      "inferred_memory": "James reviews recurring charges early each year.",
+      "timestamp": "2026-01-23T00:37:00Z"
+    },
+    {
+      "memory_id": "u004_n_057",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a paper copy of the household inventory in the filing cabinet.",
+      "inferred_memory": "James maintains a physical household inventory record.",
+      "timestamp": "2026-01-23T09:44:00Z"
+    },
+    {
+      "memory_id": "u004_n_058",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I use the bank's bill-pay calendar for regular bills but still write them on paper.",
+      "inferred_memory": "James combines digital bill-pay scheduling with paper reminders.",
+      "timestamp": "2026-01-23T18:51:00Z"
+    },
+    {
+      "memory_id": "u004_n_059",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer repairs that extend useful life over upgrades that only look newer.",
+      "inferred_memory": "James prioritizes functional repairs over appearance-based upgrades.",
+      "timestamp": "2026-01-24T03:58:00Z"
+    },
+    {
+      "memory_id": "u004_n_060",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set aside small change from cash purchases for parking downtown.",
+      "inferred_memory": "James reserves small change for downtown parking.",
+      "timestamp": "2026-01-24T12:05:00Z"
+    },
+    {
+      "memory_id": "u004_n_061",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better when the room has a steady fan sound.",
+      "inferred_memory": "James prefers steady fan noise while sleeping.",
+      "timestamp": "2026-01-24T21:12:00Z"
+    },
+    {
+      "memory_id": "u004_n_062",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep sunscreen by the back door so I remember it before yard work.",
+      "inferred_memory": "James uses a visible sunscreen placement to support outdoor sun protection.",
+      "timestamp": "2026-01-25T06:19:00Z"
+    },
+    {
+      "memory_id": "u004_n_063",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I drink water better from a metal bottle than from disposable bottles.",
+      "inferred_memory": "James prefers using a metal water bottle.",
+      "timestamp": "2026-01-25T15:26:00Z"
+    },
+    {
+      "memory_id": "u004_n_064",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stretch my calves while the kettle heats in the morning.",
+      "inferred_memory": "James pairs morning calf stretching with making hot water.",
+      "timestamp": "2026-01-26T00:33:00Z"
+    },
+    {
+      "memory_id": "u004_n_065",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare pair of reading glasses near the medicine cabinet.",
+      "inferred_memory": "James keeps backup reading glasses near medical supplies.",
+      "timestamp": "2026-01-26T09:40:00Z"
+    },
+    {
+      "memory_id": "u004_n_066",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I put a towel over the porch chair before sitting outside in humid weather.",
+      "inferred_memory": "James uses a towel on outdoor seating in humid weather.",
+      "timestamp": "2026-01-26T18:47:00Z"
+    },
+    {
+      "memory_id": "u004_n_067",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer morning appointments because afternoon traffic makes me tense.",
+      "inferred_memory": "James prefers morning health appointments.",
+      "timestamp": "2026-01-27T03:54:00Z"
+    },
+    {
+      "memory_id": "u004_n_068",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a paper list of medication names in my wallet.",
+      "inferred_memory": "James carries a written medication list.",
+      "timestamp": "2026-01-27T13:01:00Z"
+    },
+    {
+      "memory_id": "u004_n_069",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a weekly pill organizer with large compartments.",
+      "inferred_memory": "James prefers a large-compartment weekly pill organizer.",
+      "timestamp": "2026-01-27T21:08:00Z"
+    },
+    {
+      "memory_id": "u004_n_070",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I check the pollen report before opening the windows in spring.",
+      "inferred_memory": "James monitors pollen levels before ventilating the house.",
+      "timestamp": "2026-01-28T06:15:00Z"
+    },
+    {
+      "memory_id": "u004_n_071",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep cough drops in the truck console during dry months.",
+      "inferred_memory": "James keeps cough drops in his vehicle during dry periods.",
+      "timestamp": "2026-01-28T15:22:00Z"
+    },
+    {
+      "memory_id": "u004_n_072",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like short breathing exercises that I can do while standing at the sink.",
+      "inferred_memory": "James prefers brief standing breathing exercises.",
+      "timestamp": "2026-01-29T00:29:00Z"
+    },
+    {
+      "memory_id": "u004_n_073",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep the blood pressure cuff on the side table so I do not forget it.",
+      "inferred_memory": "James keeps a blood pressure cuff in a visible place.",
+      "timestamp": "2026-01-29T09:36:00Z"
+    },
+    {
+      "memory_id": "u004_n_074",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I wash yard-work gloves separately from regular laundry.",
+      "inferred_memory": "James separates yard-work gloves from normal laundry.",
+      "timestamp": "2026-01-29T18:43:00Z"
+    },
+    {
+      "memory_id": "u004_n_075",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer unscented soap because strong smells linger too long.",
+      "inferred_memory": "James prefers unscented soap.",
+      "timestamp": "2026-01-30T03:50:00Z"
+    },
+    {
+      "memory_id": "u004_n_076",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I put a hat by the door when the UV index is high.",
+      "inferred_memory": "James uses a door-side hat as a sun-protection reminder.",
+      "timestamp": "2026-01-30T12:57:00Z"
+    },
+    {
+      "memory_id": "u004_n_077",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I write down new symptoms before appointments so I do not ramble.",
+      "inferred_memory": "James prepares written symptom notes for appointments.",
+      "timestamp": "2026-01-30T22:04:00Z"
+    },
+    {
+      "memory_id": "u004_n_078",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small towel in the truck for humid days.",
+      "inferred_memory": "James carries a towel in his vehicle for humidity.",
+      "timestamp": "2026-01-31T06:11:00Z"
+    },
+    {
+      "memory_id": "u004_n_079",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like chairs with firm backs better than deep soft chairs.",
+      "inferred_memory": "James prefers firm-backed chairs.",
+      "timestamp": "2026-01-31T15:18:00Z"
+    },
+    {
+      "memory_id": "u004_n_080",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I rinse my eyes with plain water after dusty garage work.",
+      "inferred_memory": "James rinses his eyes after dusty garage tasks.",
+      "timestamp": "2026-02-01T00:25:00Z"
+    },
+    {
+      "memory_id": "u004_n_081",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep electrolyte packets for very hot yard days.",
+      "inferred_memory": "James uses electrolyte packets during hot outdoor work.",
+      "timestamp": "2026-02-01T09:32:00Z"
+    },
+    {
+      "memory_id": "u004_n_082",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer walking errands early before the pavement gets hot.",
+      "inferred_memory": "James prefers doing walking errands early on hot days.",
+      "timestamp": "2026-02-01T18:39:00Z"
+    },
+    {
+      "memory_id": "u004_n_083",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep bandages in the kitchen drawer because that is where I actually need them.",
+      "inferred_memory": "James stores bandages in the kitchen for practical access.",
+      "timestamp": "2026-02-02T03:46:00Z"
+    },
+    {
+      "memory_id": "u004_n_084",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a foam kneeling pad for low household repairs.",
+      "inferred_memory": "James uses a kneeling pad for household tasks near the floor.",
+      "timestamp": "2026-02-02T12:53:00Z"
+    },
+    {
+      "memory_id": "u004_n_085",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep the porch light bright enough to avoid missing the step.",
+      "inferred_memory": "James values good porch lighting for step visibility.",
+      "timestamp": "2026-02-02T22:00:00Z"
+    },
+    {
+      "memory_id": "u004_n_086",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer light stretching to sitting still before household chores.",
+      "inferred_memory": "James likes stretching before chores.",
+      "timestamp": "2026-02-03T06:07:00Z"
+    },
+    {
+      "memory_id": "u004_n_087",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I track water intake with hash marks on a scrap of paper.",
+      "inferred_memory": "James uses paper hash marks to track hydration.",
+      "timestamp": "2026-02-03T15:14:00Z"
+    },
+    {
+      "memory_id": "u004_n_088",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep my old firehouse earplugs in the garage for loud equipment.",
+      "inferred_memory": "James uses earplugs for loud garage equipment.",
+      "timestamp": "2026-02-04T00:21:00Z"
+    },
+    {
+      "memory_id": "u004_n_089",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid strong room sprays because they bother my breathing.",
+      "inferred_memory": "James avoids strongly scented room sprays.",
+      "timestamp": "2026-02-04T09:28:00Z"
+    },
+    {
+      "memory_id": "u004_n_090",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like a short rest after carrying groceries inside.",
+      "inferred_memory": "James benefits from a brief rest after carrying groceries.",
+      "timestamp": "2026-02-04T18:35:00Z"
+    },
+    {
+      "memory_id": "u004_n_091",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep spare inhaler instructions taped inside the medicine cabinet.",
+      "inferred_memory": "James stores inhaler instructions visibly in the medicine cabinet.",
+      "timestamp": "2026-02-05T03:42:00Z"
+    },
+    {
+      "memory_id": "u004_n_092",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer shirts with loose collars on humid days.",
+      "inferred_memory": "James prefers loose-collar shirts in humid weather.",
+      "timestamp": "2026-02-05T12:49:00Z"
+    },
+    {
+      "memory_id": "u004_n_093",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I check the heat index before doing outdoor chores.",
+      "inferred_memory": "James uses heat-index checks to plan outdoor chores.",
+      "timestamp": "2026-02-05T21:56:00Z"
+    },
+    {
+      "memory_id": "u004_n_094",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small flashlight near the bed in case I need to get up at night.",
+      "inferred_memory": "James keeps a bedside flashlight.",
+      "timestamp": "2026-02-06T07:03:00Z"
+    },
+    {
+      "memory_id": "u004_n_095",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I wash reusable water bottles on Sunday evenings.",
+      "inferred_memory": "James has a routine for cleaning reusable water bottles.",
+      "timestamp": "2026-02-06T15:10:00Z"
+    },
+    {
+      "memory_id": "u004_n_096",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer medical forms printed out before appointments.",
+      "inferred_memory": "James likes having medical forms printed before appointments.",
+      "timestamp": "2026-02-07T00:17:00Z"
+    },
+    {
+      "memory_id": "u004_n_097",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a simple first-aid kit in the truck.",
+      "inferred_memory": "James keeps a first-aid kit in his vehicle.",
+      "timestamp": "2026-02-07T09:24:00Z"
+    },
+    {
+      "memory_id": "u004_n_098",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stand up between editing tasks even if I am not leaving the room.",
+      "inferred_memory": "James takes standing breaks between editing tasks.",
+      "timestamp": "2026-02-07T18:31:00Z"
+    },
+    {
+      "memory_id": "u004_n_099",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a kitchen timer for posture breaks because phone timers distract me.",
+      "inferred_memory": "James prefers a kitchen timer for posture breaks.",
+      "timestamp": "2026-02-08T03:38:00Z"
+    },
+    {
+      "memory_id": "u004_n_100",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a clean towel near the garage sink for dusty hands and face.",
+      "inferred_memory": "James keeps a towel by the garage sink.",
+      "timestamp": "2026-02-08T12:45:00Z"
+    },
+    {
+      "memory_id": "u004_n_101",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer plain lip balm during windy weather.",
+      "inferred_memory": "James uses plain lip balm in windy conditions.",
+      "timestamp": "2026-02-08T21:52:00Z"
+    },
+    {
+      "memory_id": "u004_n_102",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I take the shaded side of the street when the sun is hard.",
+      "inferred_memory": "James chooses shaded walking routes in strong sun.",
+      "timestamp": "2026-02-09T06:59:00Z"
+    },
+    {
+      "memory_id": "u004_n_103",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small notepad for questions to ask the doctor.",
+      "inferred_memory": "James writes down questions for medical visits.",
+      "timestamp": "2026-02-09T15:06:00Z"
+    },
+    {
+      "memory_id": "u004_n_104",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer a firm pillow that does not fold in half.",
+      "inferred_memory": "James prefers firm pillows.",
+      "timestamp": "2026-02-10T00:13:00Z"
+    },
+    {
+      "memory_id": "u004_n_105",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep allergy tablets in the same cabinet all year.",
+      "inferred_memory": "James stores allergy medication consistently.",
+      "timestamp": "2026-02-10T09:20:00Z"
+    },
+    {
+      "memory_id": "u004_n_106",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I clean my glasses before driving at night.",
+      "inferred_memory": "James cleans his glasses before nighttime driving.",
+      "timestamp": "2026-02-10T18:27:00Z"
+    },
+    {
+      "memory_id": "u004_n_107",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer low-glare lamp bulbs near the reading chair.",
+      "inferred_memory": "James favors low-glare lighting for reading.",
+      "timestamp": "2026-02-11T03:34:00Z"
+    },
+    {
+      "memory_id": "u004_n_108",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare mask in the glove box for dusty places.",
+      "inferred_memory": "James keeps a mask in his vehicle for dusty environments.",
+      "timestamp": "2026-02-11T12:41:00Z"
+    },
+    {
+      "memory_id": "u004_n_109",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I take the elevator when carrying a heavy bag, even if the building is only a few floors.",
+      "inferred_memory": "James avoids carrying heavy bags on stairs.",
+      "timestamp": "2026-02-11T21:48:00Z"
+    },
+    {
+      "memory_id": "u004_n_110",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a paper record of vaccination dates in the file cabinet.",
+      "inferred_memory": "James maintains a paper vaccination record.",
+      "timestamp": "2026-02-12T06:55:00Z"
+    },
+    {
+      "memory_id": "u004_n_111",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like simple chair exercises that do not require equipment.",
+      "inferred_memory": "James prefers equipment-free chair exercises.",
+      "timestamp": "2026-02-12T16:02:00Z"
+    },
+    {
+      "memory_id": "u004_n_112",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a bottle of water on the painting table so I do not forget to drink.",
+      "inferred_memory": "James uses a visible water bottle while painting.",
+      "timestamp": "2026-02-13T00:09:00Z"
+    },
+    {
+      "memory_id": "u004_n_113",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a broad-brim hat for yard work instead of a baseball cap.",
+      "inferred_memory": "James prefers broad-brim hats for yard work.",
+      "timestamp": "2026-02-13T09:16:00Z"
+    },
+    {
+      "memory_id": "u004_n_114",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer early evening porch time after the worst heat has passed.",
+      "inferred_memory": "James likes porch time after peak heat.",
+      "timestamp": "2026-02-13T18:23:00Z"
+    },
+    {
+      "memory_id": "u004_n_115",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small thermometer in the travel bag.",
+      "inferred_memory": "James packs a small thermometer when traveling.",
+      "timestamp": "2026-02-14T03:30:00Z"
+    },
+    {
+      "memory_id": "u004_n_116",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I rinse off after mowing before sitting on the couch.",
+      "inferred_memory": "James showers or rinses after mowing before relaxing indoors.",
+      "timestamp": "2026-02-14T12:37:00Z"
+    },
+    {
+      "memory_id": "u004_n_117",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid skipping breakfast before appointments because it makes me edgy.",
+      "inferred_memory": "James prefers eating breakfast before appointments.",
+      "timestamp": "2026-02-14T21:44:00Z"
+    },
+    {
+      "memory_id": "u004_n_118",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a handwritten emergency contact card in my wallet.",
+      "inferred_memory": "James carries a handwritten emergency contact card.",
+      "timestamp": "2026-02-15T06:51:00Z"
+    },
+    {
+      "memory_id": "u004_n_119",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer clean cotton socks for long errands.",
+      "inferred_memory": "James prefers cotton socks for long errands.",
+      "timestamp": "2026-02-15T15:58:00Z"
+    },
+    {
+      "memory_id": "u004_n_120",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep eye drops in the desk drawer for dry days.",
+      "inferred_memory": "James keeps eye drops at his desk.",
+      "timestamp": "2026-02-16T00:05:00Z"
+    },
+    {
+      "memory_id": "u004_n_121",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like toast darker than most people make it.",
+      "inferred_memory": "James prefers darker toast.",
+      "timestamp": "2026-02-16T09:12:00Z"
+    },
+    {
+      "memory_id": "u004_n_122",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep crackers in a tin because they stay better than in the box.",
+      "inferred_memory": "James stores crackers in a tin for freshness.",
+      "timestamp": "2026-02-16T18:19:00Z"
+    },
+    {
+      "memory_id": "u004_n_123",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like iced tea without sweetener when it is hot outside.",
+      "inferred_memory": "James prefers unsweetened iced tea in hot weather.",
+      "timestamp": "2026-02-17T03:26:00Z"
+    },
+    {
+      "memory_id": "u004_n_124",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small jar of pickled onions in the refrigerator.",
+      "inferred_memory": "James likes having pickled onions available.",
+      "timestamp": "2026-02-17T12:33:00Z"
+    },
+    {
+      "memory_id": "u004_n_125",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer diner eggs over hotel buffet eggs.",
+      "inferred_memory": "James prefers diner-style eggs to hotel buffet eggs.",
+      "timestamp": "2026-02-17T21:40:00Z"
+    },
+    {
+      "memory_id": "u004_n_126",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I use a cast-iron skillet for breakfast potatoes.",
+      "inferred_memory": "James cooks breakfast potatoes in cast iron.",
+      "timestamp": "2026-02-18T06:47:00Z"
+    },
+    {
+      "memory_id": "u004_n_127",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like orange marmalade more than grape jelly.",
+      "inferred_memory": "James prefers orange marmalade over grape jelly.",
+      "timestamp": "2026-02-18T15:54:00Z"
+    },
+    {
+      "memory_id": "u004_n_128",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep canned tomatoes for quick soup bases.",
+      "inferred_memory": "James keeps canned tomatoes for simple soup preparation.",
+      "timestamp": "2026-02-19T01:01:00Z"
+    },
+    {
+      "memory_id": "u004_n_129",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer rye toast with breakfast when it is available.",
+      "inferred_memory": "James likes rye toast for breakfast.",
+      "timestamp": "2026-02-19T09:08:00Z"
+    },
+    {
+      "memory_id": "u004_n_130",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small bottle of vinegar near the stove.",
+      "inferred_memory": "James keeps vinegar handy while cooking.",
+      "timestamp": "2026-02-19T18:15:00Z"
+    },
+    {
+      "memory_id": "u004_n_131",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like soup hotter than most cafés serve it.",
+      "inferred_memory": "James prefers soup served very hot.",
+      "timestamp": "2026-02-20T03:22:00Z"
+    },
+    {
+      "memory_id": "u004_n_132",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I usually cut sandwiches diagonally at home.",
+      "inferred_memory": "James prefers diagonally cut sandwiches.",
+      "timestamp": "2026-02-20T12:29:00Z"
+    },
+    {
+      "memory_id": "u004_n_133",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep peanut butter in the pantry, not the refrigerator.",
+      "inferred_memory": "James stores peanut butter at room temperature.",
+      "timestamp": "2026-02-20T21:36:00Z"
+    },
+    {
+      "memory_id": "u004_n_134",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer a counter seat when eating alone at casual places.",
+      "inferred_memory": "James likes counter seating for solo casual meals.",
+      "timestamp": "2026-02-21T06:43:00Z"
+    },
+    {
+      "memory_id": "u004_n_135",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep reusable grocery bags in the truck bed box.",
+      "inferred_memory": "James stores reusable grocery bags in his vehicle.",
+      "timestamp": "2026-02-21T15:50:00Z"
+    },
+    {
+      "memory_id": "u004_n_136",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like celery in tuna salad for the crunch.",
+      "inferred_memory": "James likes crunchy celery in tuna salad.",
+      "timestamp": "2026-02-22T00:57:00Z"
+    },
+    {
+      "memory_id": "u004_n_137",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer paper menus because I do not like scanning codes at the table.",
+      "inferred_memory": "James prefers paper restaurant menus.",
+      "timestamp": "2026-02-22T10:04:00Z"
+    },
+    {
+      "memory_id": "u004_n_138",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a thermos for soup on chilly days.",
+      "inferred_memory": "James uses a thermos for soup.",
+      "timestamp": "2026-02-22T18:11:00Z"
+    },
+    {
+      "memory_id": "u004_n_139",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like lemon in water but not in iced tea.",
+      "inferred_memory": "James prefers lemon water but not lemon iced tea.",
+      "timestamp": "2026-02-23T03:18:00Z"
+    },
+    {
+      "memory_id": "u004_n_140",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I buy bananas slightly green so they last longer.",
+      "inferred_memory": "James prefers buying bananas slightly underripe.",
+      "timestamp": "2026-02-23T12:25:00Z"
+    },
+    {
+      "memory_id": "u004_n_141",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep oatmeal packets for mornings when I leave early.",
+      "inferred_memory": "James keeps oatmeal packets for early mornings.",
+      "timestamp": "2026-02-23T21:32:00Z"
+    },
+    {
+      "memory_id": "u004_n_142",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer simple coleslaw without much sugar.",
+      "inferred_memory": "James likes less-sweet coleslaw.",
+      "timestamp": "2026-02-24T06:39:00Z"
+    },
+    {
+      "memory_id": "u004_n_143",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like grilled onions on burgers more than raw onions.",
+      "inferred_memory": "James prefers grilled onions on burgers.",
+      "timestamp": "2026-02-24T15:46:00Z"
+    },
+    {
+      "memory_id": "u004_n_144",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small cooler bag for grocery trips in hot weather.",
+      "inferred_memory": "James uses a cooler bag for groceries in heat.",
+      "timestamp": "2026-02-25T00:53:00Z"
+    },
+    {
+      "memory_id": "u004_n_145",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer plain seltzer with lime at backyard gatherings.",
+      "inferred_memory": "James likes plain seltzer with lime at gatherings.",
+      "timestamp": "2026-02-25T10:00:00Z"
+    },
+    {
+      "memory_id": "u004_n_146",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a jar of roasted red peppers for sandwiches.",
+      "inferred_memory": "James keeps roasted red peppers for sandwiches.",
+      "timestamp": "2026-02-25T18:07:00Z"
+    },
+    {
+      "memory_id": "u004_n_147",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like cornbread with a crisp edge.",
+      "inferred_memory": "James prefers crisp-edged cornbread.",
+      "timestamp": "2026-02-26T03:14:00Z"
+    },
+    {
+      "memory_id": "u004_n_148",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer ordering at the counter before sitting down.",
+      "inferred_memory": "James likes counter-order restaurant formats.",
+      "timestamp": "2026-02-26T12:21:00Z"
+    },
+    {
+      "memory_id": "u004_n_149",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small cutting board just for citrus.",
+      "inferred_memory": "James uses a dedicated cutting board for citrus.",
+      "timestamp": "2026-02-26T21:28:00Z"
+    },
+    {
+      "memory_id": "u004_n_150",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like leftovers reheated in a skillet when it makes sense.",
+      "inferred_memory": "James often prefers skillet-reheated leftovers.",
+      "timestamp": "2026-02-27T06:35:00Z"
+    },
+    {
+      "memory_id": "u004_n_151",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep low-salt broth in the pantry for soup.",
+      "inferred_memory": "James stocks low-salt broth for cooking.",
+      "timestamp": "2026-02-27T15:42:00Z"
+    },
+    {
+      "memory_id": "u004_n_152",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer pie served room temperature, not cold from the refrigerator.",
+      "inferred_memory": "James likes room-temperature pie.",
+      "timestamp": "2026-02-28T00:49:00Z"
+    },
+    {
+      "memory_id": "u004_n_153",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a handwritten list of freezer contents on the door.",
+      "inferred_memory": "James tracks freezer contents with a written list.",
+      "timestamp": "2026-02-28T09:56:00Z"
+    },
+    {
+      "memory_id": "u004_n_154",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like mustard with a little horseradish in it.",
+      "inferred_memory": "James likes horseradish-style mustard.",
+      "timestamp": "2026-02-28T19:03:00Z"
+    },
+    {
+      "memory_id": "u004_n_155",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer booths only when the table is not too far away.",
+      "inferred_memory": "James avoids booths with awkward table spacing.",
+      "timestamp": "2026-03-01T03:10:00Z"
+    },
+    {
+      "memory_id": "u004_n_156",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small jar of capers for fish and salads.",
+      "inferred_memory": "James keeps capers available for meals.",
+      "timestamp": "2026-03-01T12:17:00Z"
+    },
+    {
+      "memory_id": "u004_n_157",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like breakfast sausage more when it is sliced thin.",
+      "inferred_memory": "James prefers thin-sliced breakfast sausage.",
+      "timestamp": "2026-03-01T21:24:00Z"
+    },
+    {
+      "memory_id": "u004_n_158",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I use the same grocery store entrance because I know where the baskets are.",
+      "inferred_memory": "James prefers a familiar grocery-store routine.",
+      "timestamp": "2026-03-02T06:31:00Z"
+    },
+    {
+      "memory_id": "u004_n_159",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer soup spoons with a deeper bowl.",
+      "inferred_memory": "James likes deep-bowled soup spoons.",
+      "timestamp": "2026-03-02T15:38:00Z"
+    },
+    {
+      "memory_id": "u004_n_160",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a pepper grinder on the table, not just by the stove.",
+      "inferred_memory": "James likes table-side ground pepper.",
+      "timestamp": "2026-03-03T00:45:00Z"
+    },
+    {
+      "memory_id": "u004_n_161",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like tomato slices with a little vinegar.",
+      "inferred_memory": "James enjoys tomatoes with vinegar.",
+      "timestamp": "2026-03-03T09:52:00Z"
+    },
+    {
+      "memory_id": "u004_n_162",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer takeout containers that can be reheated without transferring the food.",
+      "inferred_memory": "James values reheatable takeout containers.",
+      "timestamp": "2026-03-03T18:59:00Z"
+    },
+    {
+      "memory_id": "u004_n_163",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small pack of napkins in the truck.",
+      "inferred_memory": "James keeps napkins in his vehicle.",
+      "timestamp": "2026-03-04T03:06:00Z"
+    },
+    {
+      "memory_id": "u004_n_164",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like oatmeal thicker than the packet directions make it.",
+      "inferred_memory": "James prefers thicker oatmeal.",
+      "timestamp": "2026-03-04T12:13:00Z"
+    },
+    {
+      "memory_id": "u004_n_165",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer grocery shopping with a paper list folded in my shirt pocket.",
+      "inferred_memory": "James uses a paper grocery list.",
+      "timestamp": "2026-03-04T21:20:00Z"
+    },
+    {
+      "memory_id": "u004_n_166",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep club soda at home for guests who do not want sweet drinks.",
+      "inferred_memory": "James stocks club soda for guests.",
+      "timestamp": "2026-03-05T06:27:00Z"
+    },
+    {
+      "memory_id": "u004_n_167",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like potato salad with more mustard than mayonnaise.",
+      "inferred_memory": "James prefers mustard-forward potato salad.",
+      "timestamp": "2026-03-05T15:34:00Z"
+    },
+    {
+      "memory_id": "u004_n_168",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer restaurants where the music stays low enough for conversation.",
+      "inferred_memory": "James likes quieter restaurant environments.",
+      "timestamp": "2026-03-06T00:41:00Z"
+    },
+    {
+      "memory_id": "u004_n_169",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a bottle opener on the porch table.",
+      "inferred_memory": "James keeps a bottle opener on the porch.",
+      "timestamp": "2026-03-06T09:48:00Z"
+    },
+    {
+      "memory_id": "u004_n_170",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like watermelon with a little lime.",
+      "inferred_memory": "James enjoys watermelon with lime.",
+      "timestamp": "2026-03-06T18:55:00Z"
+    },
+    {
+      "memory_id": "u004_n_171",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer breakfast places that refill water without being asked.",
+      "inferred_memory": "James values attentive water refills at breakfast spots.",
+      "timestamp": "2026-03-07T04:02:00Z"
+    },
+    {
+      "memory_id": "u004_n_172",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep frozen vegetables for quick side dishes.",
+      "inferred_memory": "James stocks frozen vegetables for simple sides.",
+      "timestamp": "2026-03-07T12:09:00Z"
+    },
+    {
+      "memory_id": "u004_n_173",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like black pepper on cottage cheese.",
+      "inferred_memory": "James enjoys cottage cheese with black pepper.",
+      "timestamp": "2026-03-07T21:16:00Z"
+    },
+    {
+      "memory_id": "u004_n_174",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer local bakery bread sliced thick.",
+      "inferred_memory": "James likes thick-sliced local bakery bread.",
+      "timestamp": "2026-03-08T06:23:00Z"
+    },
+    {
+      "memory_id": "u004_n_175",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep a small jar of olives for snack plates.",
+      "inferred_memory": "James keeps olives for simple snack plates.",
+      "timestamp": "2026-03-08T15:30:00Z"
+    },
+    {
+      "memory_id": "u004_n_176",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like ginger ale when my stomach feels unsettled.",
+      "inferred_memory": "James drinks ginger ale for an unsettled stomach.",
+      "timestamp": "2026-03-09T00:37:00Z"
+    },
+    {
+      "memory_id": "u004_n_177",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer a simple grocery receipt over a loyalty-app receipt.",
+      "inferred_memory": "James likes straightforward printed grocery receipts.",
+      "timestamp": "2026-03-09T09:44:00Z"
+    },
+    {
+      "memory_id": "u004_n_178",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I keep soup crackers separate from snack crackers.",
+      "inferred_memory": "James separates crackers by use.",
+      "timestamp": "2026-03-09T18:51:00Z"
+    },
+    {
+      "memory_id": "u004_n_179",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I like a squeeze of lime on grilled chicken.",
+      "inferred_memory": "James enjoys lime on grilled chicken.",
+      "timestamp": "2026-03-10T03:58:00Z"
+    },
+    {
+      "memory_id": "u004_n_180",
+      "source_agent": "food_agent",
+      "type": "NOISE",
+      "content": "I prefer early dinners when restaurants are still quiet.",
+      "inferred_memory": "James likes eating dinner before restaurants get noisy.",
+      "timestamp": "2026-03-10T12:05:00Z"
+    },
+    {
+      "memory_id": "u004_n_181",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I title my Medium drafts before I write the first paragraph.",
+      "inferred_memory": "James prefers giving Medium drafts a title before drafting.",
+      "timestamp": "2026-03-10T21:12:00Z"
+    },
+    {
+      "memory_id": "u004_n_182",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a notebook just for story ideas from old shifts.",
+      "inferred_memory": "James maintains a dedicated notebook for firefighting story ideas.",
+      "timestamp": "2026-03-11T06:19:00Z"
+    },
+    {
+      "memory_id": "u004_n_183",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write better captions after I have looked at the painting for a day.",
+      "inferred_memory": "James prefers letting paintings sit before writing captions.",
+      "timestamp": "2026-03-11T15:26:00Z"
+    },
+    {
+      "memory_id": "u004_n_184",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep index cards with names I do not want to misspell.",
+      "inferred_memory": "James uses index cards to track names for accurate spelling.",
+      "timestamp": "2026-03-12T00:33:00Z"
+    },
+    {
+      "memory_id": "u004_n_185",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer editing printed paragraphs with a pencil before changing the file.",
+      "inferred_memory": "James likes pencil editing on printed drafts.",
+      "timestamp": "2026-03-12T09:40:00Z"
+    },
+    {
+      "memory_id": "u004_n_186",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of questions viewers ask more than once.",
+      "inferred_memory": "James tracks repeated viewer questions.",
+      "timestamp": "2026-03-12T18:47:00Z"
+    },
+    {
+      "memory_id": "u004_n_187",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write episode outlines in three short blocks.",
+      "inferred_memory": "James structures video outlines into three short sections.",
+      "timestamp": "2026-03-13T03:54:00Z"
+    },
+    {
+      "memory_id": "u004_n_188",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I save unfinished story drafts in a folder called holding bay.",
+      "inferred_memory": "James uses a holding folder for unfinished drafts.",
+      "timestamp": "2026-03-13T13:01:00Z"
+    },
+    {
+      "memory_id": "u004_n_189",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer plain file names with the date first.",
+      "inferred_memory": "James names files with dates first.",
+      "timestamp": "2026-03-13T21:08:00Z"
+    },
+    {
+      "memory_id": "u004_n_190",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a glossary of firehouse terms for readers who were never in the service.",
+      "inferred_memory": "James maintains a glossary of firefighting terms for general readers.",
+      "timestamp": "2026-03-14T06:15:00Z"
+    },
+    {
+      "memory_id": "u004_n_191",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I mark draft sections that need my son's help with a star.",
+      "inferred_memory": "James uses stars to flag draft sections for his son's assistance.",
+      "timestamp": "2026-03-14T15:22:00Z"
+    },
+    {
+      "memory_id": "u004_n_192",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a short list of painting terms I had to learn later in life.",
+      "inferred_memory": "James tracks art vocabulary he has learned.",
+      "timestamp": "2026-03-15T00:29:00Z"
+    },
+    {
+      "memory_id": "u004_n_193",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer captions that explain one detail instead of summarizing the whole piece.",
+      "inferred_memory": "James likes focused captions for artwork.",
+      "timestamp": "2026-03-15T09:36:00Z"
+    },
+    {
+      "memory_id": "u004_n_194",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I use a legal pad for first drafts because the wide margins help.",
+      "inferred_memory": "James prefers legal pads for first drafts.",
+      "timestamp": "2026-03-15T18:43:00Z"
+    },
+    {
+      "memory_id": "u004_n_195",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep old video scripts in a binder by year.",
+      "inferred_memory": "James archives video scripts by year in binders.",
+      "timestamp": "2026-03-16T03:50:00Z"
+    },
+    {
+      "memory_id": "u004_n_196",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like writing introductions last.",
+      "inferred_memory": "James prefers drafting introductions after the main content.",
+      "timestamp": "2026-03-16T12:57:00Z"
+    },
+    {
+      "memory_id": "u004_n_197",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate folder for viewer comments that might become future topics.",
+      "inferred_memory": "James saves useful viewer comments as possible future topics.",
+      "timestamp": "2026-03-16T22:04:00Z"
+    },
+    {
+      "memory_id": "u004_n_198",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer simple chapter headings over clever titles.",
+      "inferred_memory": "James favors straightforward headings.",
+      "timestamp": "2026-03-17T06:11:00Z"
+    },
+    {
+      "memory_id": "u004_n_199",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I read posts aloud once before publishing to catch stiff sentences.",
+      "inferred_memory": "James proofreads by reading drafts aloud.",
+      "timestamp": "2026-03-17T15:18:00Z"
+    },
+    {
+      "memory_id": "u004_n_200",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a one-page checklist for uploads.",
+      "inferred_memory": "James uses an upload checklist.",
+      "timestamp": "2026-03-18T00:25:00Z"
+    },
+    {
+      "memory_id": "u004_n_201",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer using the same thumbnail layout so the channel looks consistent.",
+      "inferred_memory": "James likes consistent YouTube thumbnail layouts.",
+      "timestamp": "2026-03-18T09:32:00Z"
+    },
+    {
+      "memory_id": "u004_n_202",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep notes about what I was trying to show in each painting.",
+      "inferred_memory": "James documents the intent behind each painting.",
+      "timestamp": "2026-03-18T18:39:00Z"
+    },
+    {
+      "memory_id": "u004_n_203",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write down pronunciation notes for names before recording.",
+      "inferred_memory": "James prepares pronunciation notes before recording.",
+      "timestamp": "2026-03-19T03:46:00Z"
+    },
+    {
+      "memory_id": "u004_n_204",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder of reference photos that are cleared for use.",
+      "inferred_memory": "James separates cleared reference photos for content use.",
+      "timestamp": "2026-03-19T12:53:00Z"
+    },
+    {
+      "memory_id": "u004_n_205",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer learning one editing tool at a time.",
+      "inferred_memory": "James learns editing tools one at a time.",
+      "timestamp": "2026-03-19T22:00:00Z"
+    },
+    {
+      "memory_id": "u004_n_206",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of Medium tags that fit my work.",
+      "inferred_memory": "James maintains a list of relevant Medium tags.",
+      "timestamp": "2026-03-20T06:07:00Z"
+    },
+    {
+      "memory_id": "u004_n_207",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I revise endings more than beginnings.",
+      "inferred_memory": "James spends extra revision effort on endings.",
+      "timestamp": "2026-03-20T15:14:00Z"
+    },
+    {
+      "memory_id": "u004_n_208",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a printed calendar of planned posts on the wall.",
+      "inferred_memory": "James uses a wall calendar for content planning.",
+      "timestamp": "2026-03-21T00:21:00Z"
+    },
+    {
+      "memory_id": "u004_n_209",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer tutorials that use the same software version I have.",
+      "inferred_memory": "James wants tutorials to match his software version.",
+      "timestamp": "2026-03-21T09:28:00Z"
+    },
+    {
+      "memory_id": "u004_n_210",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write notes in block letters when I need to read them while recording.",
+      "inferred_memory": "James uses block-letter notes for recording prompts.",
+      "timestamp": "2026-03-21T18:35:00Z"
+    },
+    {
+      "memory_id": "u004_n_211",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate folder for stories that mention specific locations.",
+      "inferred_memory": "James organizes location-specific stories separately.",
+      "timestamp": "2026-03-22T03:42:00Z"
+    },
+    {
+      "memory_id": "u004_n_212",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples from real work over abstract lessons.",
+      "inferred_memory": "James learns better from work-based examples.",
+      "timestamp": "2026-03-22T12:49:00Z"
+    },
+    {
+      "memory_id": "u004_n_213",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I save a clean copy of a post before making major edits.",
+      "inferred_memory": "James preserves clean draft copies before large edits.",
+      "timestamp": "2026-03-22T21:56:00Z"
+    },
+    {
+      "memory_id": "u004_n_214",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of paintings that still need a story attached.",
+      "inferred_memory": "James tracks paintings that need accompanying stories.",
+      "timestamp": "2026-03-23T07:03:00Z"
+    },
+    {
+      "memory_id": "u004_n_215",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer numbered steps when learning a new posting workflow.",
+      "inferred_memory": "James likes numbered workflow instructions.",
+      "timestamp": "2026-03-23T15:10:00Z"
+    },
+    {
+      "memory_id": "u004_n_216",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I jot down analogies from firefighting that might explain art choices.",
+      "inferred_memory": "James collects firefighting analogies for explaining art.",
+      "timestamp": "2026-03-24T00:17:00Z"
+    },
+    {
+      "memory_id": "u004_n_217",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep backup copies of scripts on an external drive.",
+      "inferred_memory": "James backs up scripts to an external drive.",
+      "timestamp": "2026-03-24T09:24:00Z"
+    },
+    {
+      "memory_id": "u004_n_218",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer comments from a small group of readers over public reaction counts.",
+      "inferred_memory": "James values feedback from a small reader group more than metrics.",
+      "timestamp": "2026-03-24T18:31:00Z"
+    },
+    {
+      "memory_id": "u004_n_219",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write better when the desk has only one project out.",
+      "inferred_memory": "James prefers a single-project writing desk setup.",
+      "timestamp": "2026-03-25T03:38:00Z"
+    },
+    {
+      "memory_id": "u004_n_220",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of words I overuse in stories.",
+      "inferred_memory": "James tracks overused words in his writing.",
+      "timestamp": "2026-03-25T12:45:00Z"
+    },
+    {
+      "memory_id": "u004_n_221",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer a plain opening sentence over a dramatic one.",
+      "inferred_memory": "James likes understated openings.",
+      "timestamp": "2026-03-25T21:52:00Z"
+    },
+    {
+      "memory_id": "u004_n_222",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder for rejected titles because some become useful later.",
+      "inferred_memory": "James saves unused titles for possible future use.",
+      "timestamp": "2026-03-26T06:59:00Z"
+    },
+    {
+      "memory_id": "u004_n_223",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I make a short note after each upload about what went smoothly.",
+      "inferred_memory": "James records post-upload process notes.",
+      "timestamp": "2026-03-26T15:06:00Z"
+    },
+    {
+      "memory_id": "u004_n_224",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer learning keyboard shortcuts by taping one new shortcut to the desk.",
+      "inferred_memory": "James learns keyboard shortcuts incrementally with visible notes.",
+      "timestamp": "2026-03-27T00:13:00Z"
+    },
+    {
+      "memory_id": "u004_n_225",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep written release notes for anyone whose story I mention by name.",
+      "inferred_memory": "James documents permissions for named stories.",
+      "timestamp": "2026-03-27T09:20:00Z"
+    },
+    {
+      "memory_id": "u004_n_226",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like to draft Medium posts in the morning before the house gets busy.",
+      "inferred_memory": "James prefers morning writing sessions.",
+      "timestamp": "2026-03-27T18:27:00Z"
+    },
+    {
+      "memory_id": "u004_n_227",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of common viewer misunderstandings.",
+      "inferred_memory": "James tracks recurring viewer misunderstandings.",
+      "timestamp": "2026-03-28T03:34:00Z"
+    },
+    {
+      "memory_id": "u004_n_228",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer explaining one incident from three angles rather than covering three incidents quickly.",
+      "inferred_memory": "James favors depth over breadth in storytelling.",
+      "timestamp": "2026-03-28T12:41:00Z"
+    },
+    {
+      "memory_id": "u004_n_229",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep old firehouse slang in quotes so readers know it is not current instruction.",
+      "inferred_memory": "James marks historical slang clearly in drafts.",
+      "timestamp": "2026-03-28T21:48:00Z"
+    },
+    {
+      "memory_id": "u004_n_230",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer a simple headline that tells readers exactly what the post is about.",
+      "inferred_memory": "James likes explicit headlines.",
+      "timestamp": "2026-03-29T06:55:00Z"
+    },
+    {
+      "memory_id": "u004_n_231",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a handwritten outline beside the keyboard while editing.",
+      "inferred_memory": "James uses handwritten outlines during editing.",
+      "timestamp": "2026-03-29T16:02:00Z"
+    },
+    {
+      "memory_id": "u004_n_232",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I save the final caption in the same folder as the image file.",
+      "inferred_memory": "James stores artwork captions with the matching image files.",
+      "timestamp": "2026-03-30T00:09:00Z"
+    },
+    {
+      "memory_id": "u004_n_233",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer to review analytics only after a post has been up for a few days.",
+      "inferred_memory": "James delays reviewing content analytics.",
+      "timestamp": "2026-03-30T09:16:00Z"
+    },
+    {
+      "memory_id": "u004_n_234",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a short list of topics I will not cover publicly.",
+      "inferred_memory": "James maintains boundaries around public storytelling topics.",
+      "timestamp": "2026-03-30T18:23:00Z"
+    },
+    {
+      "memory_id": "u004_n_235",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer plain background music, if any, under story videos.",
+      "inferred_memory": "James likes minimal background music for story videos.",
+      "timestamp": "2026-03-31T03:30:00Z"
+    },
+    {
+      "memory_id": "u004_n_236",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write a closing line before recording so I do not trail off.",
+      "inferred_memory": "James prepares closing lines before recording.",
+      "timestamp": "2026-03-31T12:37:00Z"
+    },
+    {
+      "memory_id": "u004_n_237",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a notebook page for questions to ask his son about editing.",
+      "inferred_memory": "James writes down editing questions for his son.",
+      "timestamp": "2026-03-31T21:44:00Z"
+    },
+    {
+      "memory_id": "u004_n_238",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer version numbers in draft filenames over words like final.",
+      "inferred_memory": "James uses version numbers instead of 'final' in filenames.",
+      "timestamp": "2026-04-01T06:51:00Z"
+    },
+    {
+      "memory_id": "u004_n_239",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate list of stories that need fact-checking.",
+      "inferred_memory": "James tracks stories requiring fact-checking.",
+      "timestamp": "2026-04-01T15:58:00Z"
+    },
+    {
+      "memory_id": "u004_n_240",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer short paragraph blocks for Medium posts.",
+      "inferred_memory": "James likes short paragraphs for Medium writing.",
+      "timestamp": "2026-04-02T00:05:00Z"
+    },
+    {
+      "memory_id": "u004_n_241",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a small flashlight even for overnight trips.",
+      "inferred_memory": "James brings a small flashlight on trips.",
+      "timestamp": "2026-04-02T09:12:00Z"
+    },
+    {
+      "memory_id": "u004_n_242",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a paper map of Florida in the truck.",
+      "inferred_memory": "James keeps a physical Florida map in his vehicle.",
+      "timestamp": "2026-04-02T18:19:00Z"
+    },
+    {
+      "memory_id": "u004_n_243",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer parking near a side exit instead of the main entrance.",
+      "inferred_memory": "James likes parking near side exits.",
+      "timestamp": "2026-04-03T03:26:00Z"
+    },
+    {
+      "memory_id": "u004_n_244",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I put the hotel room number on a small card in my wallet.",
+      "inferred_memory": "James carries a written hotel room reminder.",
+      "timestamp": "2026-04-03T12:33:00Z"
+    },
+    {
+      "memory_id": "u004_n_245",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack one extra undershirt because Tampa humidity follows me everywhere.",
+      "inferred_memory": "James packs an extra undershirt for humid conditions.",
+      "timestamp": "2026-04-03T21:40:00Z"
+    },
+    {
+      "memory_id": "u004_n_246",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer ground-floor motel rooms only when the parking lot is well lit.",
+      "inferred_memory": "James considers lighting when choosing ground-floor rooms.",
+      "timestamp": "2026-04-04T06:47:00Z"
+    },
+    {
+      "memory_id": "u004_n_247",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep toll transponder information in the glove box.",
+      "inferred_memory": "James stores toll transponder information in his vehicle.",
+      "timestamp": "2026-04-04T15:54:00Z"
+    },
+    {
+      "memory_id": "u004_n_248",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like rest stops with shaded picnic tables.",
+      "inferred_memory": "James prefers shaded picnic areas at rest stops.",
+      "timestamp": "2026-04-05T01:01:00Z"
+    },
+    {
+      "memory_id": "u004_n_249",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check bridge traffic before leaving Tampa.",
+      "inferred_memory": "James checks bridge traffic before trips from Tampa.",
+      "timestamp": "2026-04-05T09:08:00Z"
+    },
+    {
+      "memory_id": "u004_n_250",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer arriving before dark when I am staying somewhere unfamiliar.",
+      "inferred_memory": "James likes arriving at unfamiliar lodging before dark.",
+      "timestamp": "2026-04-05T18:15:00Z"
+    },
+    {
+      "memory_id": "u004_n_251",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a spare phone charging cord in the toiletry bag.",
+      "inferred_memory": "James keeps a backup phone charger in his travel kit.",
+      "timestamp": "2026-04-06T03:22:00Z"
+    },
+    {
+      "memory_id": "u004_n_252",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small laundry bag in the suitcase.",
+      "inferred_memory": "James travels with a laundry bag.",
+      "timestamp": "2026-04-06T12:29:00Z"
+    },
+    {
+      "memory_id": "u004_n_253",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer older downtown blocks with readable street signs.",
+      "inferred_memory": "James appreciates older downtown areas with clear street signage.",
+      "timestamp": "2026-04-06T21:36:00Z"
+    },
+    {
+      "memory_id": "u004_n_254",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I take a photo of the parking level before leaving the garage.",
+      "inferred_memory": "James photographs parking locations for recall.",
+      "timestamp": "2026-04-07T06:43:00Z"
+    },
+    {
+      "memory_id": "u004_n_255",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a rain poncho in the truck during summer.",
+      "inferred_memory": "James keeps rain protection in his vehicle during summer.",
+      "timestamp": "2026-04-07T15:50:00Z"
+    },
+    {
+      "memory_id": "u004_n_256",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer short side trips that do not require changing lodging.",
+      "inferred_memory": "James likes side trips that avoid changing hotels.",
+      "timestamp": "2026-04-08T00:57:00Z"
+    },
+    {
+      "memory_id": "u004_n_257",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a cap that can get wet without mattering.",
+      "inferred_memory": "James brings a practical wet-weather cap.",
+      "timestamp": "2026-04-08T10:04:00Z"
+    },
+    {
+      "memory_id": "u004_n_258",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small notebook for mileage and stops on longer drives.",
+      "inferred_memory": "James records mileage and stops during longer drives.",
+      "timestamp": "2026-04-08T18:11:00Z"
+    },
+    {
+      "memory_id": "u004_n_259",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like visitor centers that still have printed brochures.",
+      "inferred_memory": "James appreciates printed brochures at visitor centers.",
+      "timestamp": "2026-04-09T03:18:00Z"
+    },
+    {
+      "memory_id": "u004_n_260",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer checking out the night before when the hotel allows it.",
+      "inferred_memory": "James likes settling hotel checkout details ahead of time.",
+      "timestamp": "2026-04-09T12:25:00Z"
+    },
+    {
+      "memory_id": "u004_n_261",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a spare pair of socks in the day bag.",
+      "inferred_memory": "James carries backup socks during trips.",
+      "timestamp": "2026-04-09T21:32:00Z"
+    },
+    {
+      "memory_id": "u004_n_262",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep quarters for older parking meters.",
+      "inferred_memory": "James carries quarters for parking meters.",
+      "timestamp": "2026-04-10T06:39:00Z"
+    },
+    {
+      "memory_id": "u004_n_263",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer road routes with predictable exits over routes with complicated merges.",
+      "inferred_memory": "James favors simpler driving routes.",
+      "timestamp": "2026-04-10T15:46:00Z"
+    },
+    {
+      "memory_id": "u004_n_264",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check whether a destination has benches before I plan a long stop.",
+      "inferred_memory": "James considers seating availability when planning stops.",
+      "timestamp": "2026-04-11T00:53:00Z"
+    },
+    {
+      "memory_id": "u004_n_265",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep bottled water in the truck before drives across town.",
+      "inferred_memory": "James keeps water in the vehicle for drives.",
+      "timestamp": "2026-04-11T10:00:00Z"
+    },
+    {
+      "memory_id": "u004_n_266",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer small local history rooms inside public buildings.",
+      "inferred_memory": "James enjoys small local history exhibits in public buildings.",
+      "timestamp": "2026-04-11T18:07:00Z"
+    },
+    {
+      "memory_id": "u004_n_267",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a light jacket even when the forecast looks warm.",
+      "inferred_memory": "James brings a light jacket on trips.",
+      "timestamp": "2026-04-12T03:14:00Z"
+    },
+    {
+      "memory_id": "u004_n_268",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotels where the ice machine is not next to the room.",
+      "inferred_memory": "James prefers hotel rooms away from ice machines.",
+      "timestamp": "2026-04-12T12:21:00Z"
+    },
+    {
+      "memory_id": "u004_n_269",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer a motel-style exterior walkway only when the property is quiet.",
+      "inferred_memory": "James is selective about exterior-walkway lodging.",
+      "timestamp": "2026-04-12T21:28:00Z"
+    },
+    {
+      "memory_id": "u004_n_270",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a plastic folder for printed reservations.",
+      "inferred_memory": "James organizes printed travel reservations in a plastic folder.",
+      "timestamp": "2026-04-13T06:35:00Z"
+    },
+    {
+      "memory_id": "u004_n_271",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I choose gas stations with easy exits when I am driving alone.",
+      "inferred_memory": "James prioritizes easy-exit gas stations.",
+      "timestamp": "2026-04-13T15:42:00Z"
+    },
+    {
+      "memory_id": "u004_n_272",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer visiting places early before tour groups arrive.",
+      "inferred_memory": "James likes visiting attractions early.",
+      "timestamp": "2026-04-14T00:49:00Z"
+    },
+    {
+      "memory_id": "u004_n_273",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a small umbrella with a straight handle.",
+      "inferred_memory": "James prefers straight-handle umbrellas.",
+      "timestamp": "2026-04-14T09:56:00Z"
+    },
+    {
+      "memory_id": "u004_n_274",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like ferry terminals where I can watch loading operations.",
+      "inferred_memory": "James enjoys observing ferry loading operations.",
+      "timestamp": "2026-04-14T19:03:00Z"
+    },
+    {
+      "memory_id": "u004_n_275",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a spare pair of sunglasses in the truck.",
+      "inferred_memory": "James keeps backup sunglasses in his vehicle.",
+      "timestamp": "2026-04-15T03:10:00Z"
+    },
+    {
+      "memory_id": "u004_n_276",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer restaurants within walking distance of lodging when parking is limited.",
+      "inferred_memory": "James considers parking when choosing trip meals.",
+      "timestamp": "2026-04-15T12:17:00Z"
+    },
+    {
+      "memory_id": "u004_n_277",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check hotel hallway noise before fully unpacking.",
+      "inferred_memory": "James assesses hallway noise before settling into a hotel room.",
+      "timestamp": "2026-04-15T21:24:00Z"
+    },
+    {
+      "memory_id": "u004_n_278",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a photocopy of key documents separate from my wallet.",
+      "inferred_memory": "James travels with separate copies of important documents.",
+      "timestamp": "2026-04-16T06:31:00Z"
+    },
+    {
+      "memory_id": "u004_n_279",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer state parks with clear parking areas.",
+      "inferred_memory": "James likes state parks with straightforward parking.",
+      "timestamp": "2026-04-16T15:38:00Z"
+    },
+    {
+      "memory_id": "u004_n_280",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack old sneakers for wet-weather errands.",
+      "inferred_memory": "James travels with practical footwear for wet conditions.",
+      "timestamp": "2026-04-17T00:45:00Z"
+    },
+    {
+      "memory_id": "u004_n_281",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like stopping at county welcome signs for quick photos.",
+      "inferred_memory": "James enjoys brief photos at county welcome signs.",
+      "timestamp": "2026-04-17T09:52:00Z"
+    },
+    {
+      "memory_id": "u004_n_282",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer trips with one main stop and one backup stop.",
+      "inferred_memory": "James plans trips around a primary stop and a backup.",
+      "timestamp": "2026-04-17T18:59:00Z"
+    },
+    {
+      "memory_id": "u004_n_283",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small towel on the car seat after beach-area stops.",
+      "inferred_memory": "James uses a towel on the car seat after sandy or wet stops.",
+      "timestamp": "2026-04-18T03:06:00Z"
+    },
+    {
+      "memory_id": "u004_n_284",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check if a destination has covered walkways during rainy season.",
+      "inferred_memory": "James considers covered walkways in rainy-season plans.",
+      "timestamp": "2026-04-18T12:13:00Z"
+    },
+    {
+      "memory_id": "u004_n_285",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer using the same suitcase pocket for chargers every trip.",
+      "inferred_memory": "James stores chargers consistently in the same suitcase pocket.",
+      "timestamp": "2026-04-18T21:20:00Z"
+    },
+    {
+      "memory_id": "u004_n_286",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like small airports where the rental-car counters are easy to find.",
+      "inferred_memory": "James prefers simple airport rental-car layouts.",
+      "timestamp": "2026-04-19T06:27:00Z"
+    },
+    {
+      "memory_id": "u004_n_287",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a list of public restrooms that are reliable on common routes.",
+      "inferred_memory": "James tracks dependable restrooms on familiar routes.",
+      "timestamp": "2026-04-19T15:34:00Z"
+    },
+    {
+      "memory_id": "u004_n_288",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer driving through familiar neighborhoods instead of chasing the fastest route.",
+      "inferred_memory": "James often favors familiar routes over fastest routes.",
+      "timestamp": "2026-04-20T00:41:00Z"
+    },
+    {
+      "memory_id": "u004_n_289",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a collared shirt even for casual trips.",
+      "inferred_memory": "James includes a collared shirt in travel packing.",
+      "timestamp": "2026-04-20T09:48:00Z"
+    },
+    {
+      "memory_id": "u004_n_290",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like historical markers that mention ordinary workers, not just officials.",
+      "inferred_memory": "James appreciates historical markers about ordinary workers.",
+      "timestamp": "2026-04-20T18:55:00Z"
+    },
+    {
+      "memory_id": "u004_n_291",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep the spare house key plan written down before overnight trips.",
+      "inferred_memory": "James documents spare-key arrangements before overnight travel.",
+      "timestamp": "2026-04-21T04:02:00Z"
+    },
+    {
+      "memory_id": "u004_n_292",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer simple motels with clear parking over large resort layouts.",
+      "inferred_memory": "James likes straightforward lodging layouts.",
+      "timestamp": "2026-04-21T12:09:00Z"
+    },
+    {
+      "memory_id": "u004_n_293",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check whether a place has shaded parking before summer visits.",
+      "inferred_memory": "James considers shaded parking for summer outings.",
+      "timestamp": "2026-04-21T21:16:00Z"
+    },
+    {
+      "memory_id": "u004_n_294",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep an old towel in the trunk for wet gear.",
+      "inferred_memory": "James keeps a trunk towel for wet items.",
+      "timestamp": "2026-04-22T06:23:00Z"
+    },
+    {
+      "memory_id": "u004_n_295",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like public piers where people are working on boats.",
+      "inferred_memory": "James enjoys public piers with visible boat work.",
+      "timestamp": "2026-04-22T15:30:00Z"
+    },
+    {
+      "memory_id": "u004_n_296",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer printed boarding passes as a backup.",
+      "inferred_memory": "James likes carrying printed boarding passes.",
+      "timestamp": "2026-04-23T00:37:00Z"
+    },
+    {
+      "memory_id": "u004_n_297",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a small bottle of laundry detergent for longer trips.",
+      "inferred_memory": "James brings laundry detergent on longer trips.",
+      "timestamp": "2026-04-23T09:44:00Z"
+    },
+    {
+      "memory_id": "u004_n_298",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like roadside barbecue signs even if I do not stop every time.",
+      "inferred_memory": "James notices roadside barbecue signs while traveling.",
+      "timestamp": "2026-04-23T18:51:00Z"
+    },
+    {
+      "memory_id": "u004_n_299",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer destinations where I can leave if the parking situation is poor.",
+      "inferred_memory": "James values flexible exits when parking is uncertain.",
+      "timestamp": "2026-04-24T03:58:00Z"
+    },
+    {
+      "memory_id": "u004_n_300",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a short checklist taped inside the suitcase lid.",
+      "inferred_memory": "James uses a suitcase-lid packing checklist.",
+      "timestamp": "2026-04-24T12:05:00Z"
+    }
+  ]
+}

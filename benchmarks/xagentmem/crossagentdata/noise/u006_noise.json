@@ -1,0 +1,2408 @@
+{
+  "user_id": "u006",
+  "profile": {
+    "name": "Mei Chen"
+  },
+  "memories": [
+    {
+      "memory_id": "u006_n_001",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a folded paper map in my conference folder even when I use my phone for directions.",
+      "inferred_memory": "Mei likes keeping a paper map backup during conference travel.",
+      "timestamp": "2026-01-02T08:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_002",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer arriving at a station early enough to find the platform without rushing.",
+      "inferred_memory": "Mei prefers extra buffer time at train or transit stations.",
+      "timestamp": "2026-01-02T17:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_003",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I usually pack one small roll of painter's tape because hotel curtains never close exactly right.",
+      "inferred_memory": "Mei packs painter's tape to manage lodging details like curtains.",
+      "timestamp": "2026-01-03T02:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_004",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep my toiletries in a clear pouch so airport security does not become a sorting project.",
+      "inferred_memory": "Mei uses a clear toiletries pouch for easier airport security.",
+      "timestamp": "2026-01-03T11:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_005",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "When I travel for work, I save the transit map as a screenshot before I leave.",
+      "inferred_memory": "Mei saves transit maps offline before work travel.",
+      "timestamp": "2026-01-03T20:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_006",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like hotels where I can refill a water bottle without buying plastic bottles.",
+      "inferred_memory": "Mei prefers lodging with convenient water refill access.",
+      "timestamp": "2026-01-04T05:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_007",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep conference badges after trips because they help me remember which sessions I actually attended.",
+      "inferred_memory": "Mei keeps conference badges as memory cues for academic trips.",
+      "timestamp": "2026-01-04T14:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_008",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I would rather carry one washable tote than collect paper shopping bags during a trip.",
+      "inferred_memory": "Mei prefers bringing a reusable tote when traveling.",
+      "timestamp": "2026-01-04T23:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_009",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I try to book lodging with a real desk if I need to grade during the trip.",
+      "inferred_memory": "Mei values a usable desk in lodging when she needs to grade.",
+      "timestamp": "2026-01-05T08:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_010",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like airport gates with a quiet corner more than ones next to a busy food court.",
+      "inferred_memory": "Mei prefers quieter airport gate areas.",
+      "timestamp": "2026-01-05T17:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_011",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small envelope for receipts when I travel for university business.",
+      "inferred_memory": "Mei organizes university travel receipts in a dedicated envelope.",
+      "timestamp": "2026-01-06T02:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_012",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like checking walking routes in advance when I am carrying a poster tube.",
+      "inferred_memory": "Mei plans walking routes carefully when transporting a poster tube.",
+      "timestamp": "2026-01-06T11:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_013",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I use packing cubes mostly to keep lab-safe clothes separate from nicer conference clothes.",
+      "inferred_memory": "Mei uses packing cubes to separate practical lab clothes from conference attire.",
+      "timestamp": "2026-01-06T20:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_014",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer a room with a kettle when I am traveling for more than one night.",
+      "inferred_memory": "Mei values lodging with a kettle on multi-night trips.",
+      "timestamp": "2026-01-07T05:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_015",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I usually choose an aisle seat because I get up to stretch during long trips.",
+      "inferred_memory": "Mei prefers aisle seats for easier movement on long trips.",
+      "timestamp": "2026-01-07T14:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_016",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like visiting campus bookstores when I am near another university.",
+      "inferred_memory": "Mei enjoys visiting campus bookstores during academic travel.",
+      "timestamp": "2026-01-07T23:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_017",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny sewing kit in my travel bag because backpack straps fail at inconvenient times.",
+      "inferred_memory": "Mei carries a small sewing kit for travel repairs.",
+      "timestamp": "2026-01-08T08:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_018",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I would rather know the laundromat location before a long trip than deal with overpacking.",
+      "inferred_memory": "Mei checks laundry options to avoid overpacking on longer trips.",
+      "timestamp": "2026-01-08T17:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_019",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like train trips where I can spread out a notebook without balancing everything on my lap.",
+      "inferred_memory": "Mei prefers travel setups with enough space for notebook work.",
+      "timestamp": "2026-01-09T02:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_020",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a thin scarf because lecture rooms and trains are unpredictable.",
+      "inferred_memory": "Mei packs a scarf to handle variable indoor temperatures while traveling.",
+      "timestamp": "2026-01-09T11:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_021",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I bookmark one quiet breakfast option near the hotel before I arrive.",
+      "inferred_memory": "Mei plans a quiet breakfast option before arriving at lodging.",
+      "timestamp": "2026-01-09T20:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_022",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep my conference shoes boring because I care more about not getting blisters.",
+      "inferred_memory": "Mei prioritizes comfortable shoes over distinctive footwear for conferences.",
+      "timestamp": "2026-01-10T05:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_023",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like routes that let me avoid carrying luggage up long stairs.",
+      "inferred_memory": "Mei prefers travel routes that minimize stairs when carrying luggage.",
+      "timestamp": "2026-01-10T14:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_024",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I write the lodging address on paper in case my phone battery dies.",
+      "inferred_memory": "Mei keeps a written lodging address as a phone-failure backup.",
+      "timestamp": "2026-01-10T23:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_025",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer museum coat checks where I can leave a backpack before walking through exhibits.",
+      "inferred_memory": "Mei values coat checks when visiting museums with a backpack.",
+      "timestamp": "2026-01-11T08:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_026",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a separate charger in my travel bag so I do not steal the one from my desk.",
+      "inferred_memory": "Mei maintains a dedicated travel charger.",
+      "timestamp": "2026-01-11T17:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_027",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like staying within a simple transit ride of the venue when I have early sessions.",
+      "inferred_memory": "Mei prefers simple transit access to venues for early sessions.",
+      "timestamp": "2026-01-12T02:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_028",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check whether the hotel windows open because stale rooms make it harder to sleep.",
+      "inferred_memory": "Mei prefers lodging with ventilation options.",
+      "timestamp": "2026-01-12T11:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_029",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I use a small luggage tag with only my initials because full-name tags feel unnecessary.",
+      "inferred_memory": "Mei uses minimal-identification luggage tags.",
+      "timestamp": "2026-01-12T20:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_030",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like finding public reading rooms when a trip has a long gap between events.",
+      "inferred_memory": "Mei enjoys using public reading rooms during travel schedule gaps.",
+      "timestamp": "2026-01-13T05:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_031",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a collapsible umbrella in my backpack year-round in Boston.",
+      "inferred_memory": "Mei carries a collapsible umbrella throughout the year in Boston.",
+      "timestamp": "2026-01-13T14:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_032",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer to print only the page with the QR code rather than a whole packet.",
+      "inferred_memory": "Mei prints minimal travel documents when a QR code is needed.",
+      "timestamp": "2026-01-13T23:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_033",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like simple neighborhood walks after a conference day to reset my attention.",
+      "inferred_memory": "Mei uses simple neighborhood walks to decompress after conference days.",
+      "timestamp": "2026-01-14T08:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_034",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I check whether a station has elevators if I am carrying samples or display materials.",
+      "inferred_memory": "Mei checks station elevator access when transporting materials.",
+      "timestamp": "2026-01-14T17:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_035",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I avoid checking bags when I travel for short academic trips.",
+      "inferred_memory": "Mei prefers carry-on travel for short academic trips.",
+      "timestamp": "2026-01-15T02:33:00Z"
+    },
+    {
+      "memory_id": "u006_n_036",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a reusable fork in my travel pouch because conference food setups are inconsistent.",
+      "inferred_memory": "Mei carries a reusable fork for inconsistent travel food situations.",
+      "timestamp": "2026-01-15T11:40:00Z"
+    },
+    {
+      "memory_id": "u006_n_037",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer a calm lobby over a lobby bar when I need to revise slides.",
+      "inferred_memory": "Mei values calm hotel common spaces for academic work.",
+      "timestamp": "2026-01-15T20:47:00Z"
+    },
+    {
+      "memory_id": "u006_n_038",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like having the return route decided before I start a day trip.",
+      "inferred_memory": "Mei prefers planning return routes in advance.",
+      "timestamp": "2026-01-16T05:01:00Z"
+    },
+    {
+      "memory_id": "u006_n_039",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a small notebook for trip observations instead of putting everything in my phone.",
+      "inferred_memory": "Mei records trip observations in a small physical notebook.",
+      "timestamp": "2026-01-16T14:08:00Z"
+    },
+    {
+      "memory_id": "u006_n_040",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I usually mark pharmacy locations near lodging because I forget small basics when packing.",
+      "inferred_memory": "Mei checks nearby pharmacies as a travel backup.",
+      "timestamp": "2026-01-16T23:15:00Z"
+    },
+    {
+      "memory_id": "u006_n_041",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer direct building entrances over confusing hotel complexes when arriving late.",
+      "inferred_memory": "Mei likes lodging with straightforward entrances for late arrivals.",
+      "timestamp": "2026-01-17T08:22:00Z"
+    },
+    {
+      "memory_id": "u006_n_042",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like campus maps that show building entrances, not just building names.",
+      "inferred_memory": "Mei values detailed campus maps with entrance information.",
+      "timestamp": "2026-01-17T17:29:00Z"
+    },
+    {
+      "memory_id": "u006_n_043",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep my poster tube strap wrapped with fabric so it does not cut into my shoulder.",
+      "inferred_memory": "Mei modifies her poster tube strap for carrying comfort.",
+      "timestamp": "2026-01-18T02:36:00Z"
+    },
+    {
+      "memory_id": "u006_n_044",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I choose morning departures when they make the rest of the day less fragmented.",
+      "inferred_memory": "Mei prefers morning departures when they simplify the day's schedule.",
+      "timestamp": "2026-01-18T11:43:00Z"
+    },
+    {
+      "memory_id": "u006_n_045",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like checking public library hours when I visit a new city.",
+      "inferred_memory": "Mei checks public library hours during city visits.",
+      "timestamp": "2026-01-18T20:50:00Z"
+    },
+    {
+      "memory_id": "u006_n_046",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer simple luggage that fits under a train seat.",
+      "inferred_memory": "Mei prefers compact luggage suitable for train travel.",
+      "timestamp": "2026-01-19T05:04:00Z"
+    },
+    {
+      "memory_id": "u006_n_047",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I save venue floor plans because I dislike hunting for registration tables.",
+      "inferred_memory": "Mei saves venue floor plans before attending events.",
+      "timestamp": "2026-01-19T14:11:00Z"
+    },
+    {
+      "memory_id": "u006_n_048",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like short ferry rides if they fit the route and do not complicate the schedule.",
+      "inferred_memory": "Mei enjoys short ferry rides when they fit the itinerary.",
+      "timestamp": "2026-01-19T23:18:00Z"
+    },
+    {
+      "memory_id": "u006_n_049",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack a small cloth for wiping down fountain pen cases after travel.",
+      "inferred_memory": "Mei brings a cloth to protect fountain pen cases during travel.",
+      "timestamp": "2026-01-20T08:25:00Z"
+    },
+    {
+      "memory_id": "u006_n_050",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer staying somewhere with a nearby grocery store for fruit and simple snacks.",
+      "inferred_memory": "Mei values nearby grocery access during lodging stays.",
+      "timestamp": "2026-01-20T17:32:00Z"
+    },
+    {
+      "memory_id": "u006_n_051",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep transit cards from past cities in a small zipper pocket.",
+      "inferred_memory": "Mei stores old transit cards in a dedicated travel pocket.",
+      "timestamp": "2026-01-21T02:39:00Z"
+    },
+    {
+      "memory_id": "u006_n_052",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like routes where I can sit for at least part of the ride before presenting.",
+      "inferred_memory": "Mei prefers routes with seating opportunities before presentations.",
+      "timestamp": "2026-01-21T11:46:00Z"
+    },
+    {
+      "memory_id": "u006_n_053",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I avoid scheduling optional sightseeing before morning academic obligations.",
+      "inferred_memory": "Mei avoids optional sightseeing before morning academic commitments.",
+      "timestamp": "2026-01-21T20:00:00Z"
+    },
+    {
+      "memory_id": "u006_n_054",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like choosing one landmark as an orientation point instead of making a full sightseeing list.",
+      "inferred_memory": "Mei uses one landmark for orientation rather than planning many sights.",
+      "timestamp": "2026-01-22T05:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_055",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep a lightweight tote folded inside my backpack for conference handouts.",
+      "inferred_memory": "Mei carries a folded tote for conference materials.",
+      "timestamp": "2026-01-22T14:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_056",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer buildings with clear room numbering when I am visiting an unfamiliar campus.",
+      "inferred_memory": "Mei values clear room numbering on unfamiliar campuses.",
+      "timestamp": "2026-01-22T23:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_057",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I like to identify a quiet place near the venue where I can sit before a session.",
+      "inferred_memory": "Mei looks for quiet pre-session waiting spots near venues.",
+      "timestamp": "2026-01-23T08:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_058",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I pack one spare pair of socks in my day bag when rain is likely.",
+      "inferred_memory": "Mei carries spare socks on rainy travel days.",
+      "timestamp": "2026-01-23T17:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_059",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I prefer travel plans with one reliable anchor rather than several optional stops.",
+      "inferred_memory": "Mei likes itineraries built around one reliable anchor.",
+      "timestamp": "2026-01-24T02:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_060",
+      "source_agent": "travel_agent",
+      "type": "NOISE",
+      "content": "I keep my boarding pass screenshot next to my hotel confirmation screenshot.",
+      "inferred_memory": "Mei organizes key travel screenshots together.",
+      "timestamp": "2026-01-24T11:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_061",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like breakfast oats more when I add toasted sesame and a little grated apple.",
+      "inferred_memory": "Mei enjoys oats with toasted sesame and grated apple.",
+      "timestamp": "2026-01-24T20:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_062",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small jar of roasted peanuts at home for texture in quick dinners.",
+      "inferred_memory": "Mei uses roasted peanuts to add texture to quick meals.",
+      "timestamp": "2026-01-25T05:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_063",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer soup in a wide bowl because it cools enough to eat while I am reading.",
+      "inferred_memory": "Mei prefers wide bowls for soup so it cools while she reads.",
+      "timestamp": "2026-01-25T14:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_064",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep frozen scallions because fresh bundles go limp before I finish them.",
+      "inferred_memory": "Mei uses frozen scallions to reduce waste.",
+      "timestamp": "2026-01-25T23:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_065",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like rice porridge when I need food that does not require much decision-making.",
+      "inferred_memory": "Mei sees rice porridge as a low-decision meal.",
+      "timestamp": "2026-01-26T08:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_066",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I label freezer containers with painter's tape because I never remember what batch they came from.",
+      "inferred_memory": "Mei labels freezer containers to track cooked batches.",
+      "timestamp": "2026-01-26T17:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_067",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep ginger in the freezer and grate it straight into sauces.",
+      "inferred_memory": "Mei freezes ginger for easy use in sauces.",
+      "timestamp": "2026-01-27T02:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_068",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like pears better when they are still a little firm.",
+      "inferred_memory": "Mei prefers pears that are slightly firm.",
+      "timestamp": "2026-01-27T11:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_069",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I make weekday lunches easier by cooking grains in one plain batch.",
+      "inferred_memory": "Mei batch-cooks plain grains for weekday lunches.",
+      "timestamp": "2026-01-27T20:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_070",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small bag of dried mushrooms for broth when I do not have time for a full grocery run.",
+      "inferred_memory": "Mei keeps dried mushrooms for quick broth.",
+      "timestamp": "2026-01-28T05:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_071",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like a plain boiled egg with chili crisp, but I measure the topping instead of scooping freely.",
+      "inferred_memory": "Mei enjoys boiled eggs with measured chili crisp.",
+      "timestamp": "2026-01-28T14:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_072",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer ceramic mugs with thin rims for hot drinks.",
+      "inferred_memory": "Mei prefers thin-rimmed ceramic mugs for hot drinks.",
+      "timestamp": "2026-01-28T23:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_073",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep sliced citrus in the freezer for water when I am tired of plain water.",
+      "inferred_memory": "Mei freezes citrus slices to flavor water.",
+      "timestamp": "2026-01-29T08:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_074",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like simple steamed greens with vinegar more than creamy vegetable dishes.",
+      "inferred_memory": "Mei prefers steamed greens with vinegar over creamy vegetable dishes.",
+      "timestamp": "2026-01-29T17:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_075",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I usually pack a small fruit before long lab blocks.",
+      "inferred_memory": "Mei brings small fruit before long lab blocks.",
+      "timestamp": "2026-01-30T02:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_076",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a clean spoon at my desk because I forget when yogurt becomes lunch.",
+      "inferred_memory": "Mei keeps a desk spoon for yogurt or quick lunches.",
+      "timestamp": "2026-01-30T11:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_077",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like tofu better when it has crisp edges rather than a soft uniform texture.",
+      "inferred_memory": "Mei prefers tofu with crisp edges.",
+      "timestamp": "2026-01-30T20:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_078",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a list of pantry items on the inside of a cabinet door.",
+      "inferred_memory": "Mei tracks pantry items on a cabinet-door list.",
+      "timestamp": "2026-01-31T05:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_079",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like roasted seaweed as a snack, especially when I need something light.",
+      "inferred_memory": "Mei likes roasted seaweed as a light snack.",
+      "timestamp": "2026-01-31T14:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_080",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer dumplings steamed first and then lightly crisped.",
+      "inferred_memory": "Mei prefers dumplings with a steamed-then-crisped texture.",
+      "timestamp": "2026-01-31T23:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_081",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small thermos for broth during long grading days.",
+      "inferred_memory": "Mei uses a small thermos for broth while grading.",
+      "timestamp": "2026-02-01T08:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_082",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like grocery stores with bulk bins because I can buy a small amount for one recipe.",
+      "inferred_memory": "Mei values bulk bins for buying small ingredient amounts.",
+      "timestamp": "2026-02-01T17:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_083",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep dried orange peel for tea blends and braises.",
+      "inferred_memory": "Mei uses dried orange peel in tea blends and cooking.",
+      "timestamp": "2026-02-02T02:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_084",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer unsweetened yogurt because sweet versions make lunch feel like dessert too early.",
+      "inferred_memory": "Mei prefers unsweetened yogurt for meals.",
+      "timestamp": "2026-02-02T11:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_085",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I rinse canned beans because the texture and liquid bother me otherwise.",
+      "inferred_memory": "Mei rinses canned beans before using them.",
+      "timestamp": "2026-02-02T20:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_086",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small cutting board just for fruit so it does not taste like garlic.",
+      "inferred_memory": "Mei uses a separate cutting board for fruit.",
+      "timestamp": "2026-02-03T05:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_087",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like broth noodles when the toppings are arranged separately instead of mixed in immediately.",
+      "inferred_memory": "Mei prefers broth noodle toppings arranged separately.",
+      "timestamp": "2026-02-03T14:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_088",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a weekly note of what needs to be eaten first in the fridge.",
+      "inferred_memory": "Mei tracks perishable fridge items with a weekly note.",
+      "timestamp": "2026-02-03T23:33:00Z"
+    },
+    {
+      "memory_id": "u006_n_089",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer a small square of dark chocolate after dinner to a full dessert.",
+      "inferred_memory": "Mei prefers a small dark chocolate serving after dinner.",
+      "timestamp": "2026-02-04T08:40:00Z"
+    },
+    {
+      "memory_id": "u006_n_090",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like adding toasted seeds to leftovers when the meal feels too soft.",
+      "inferred_memory": "Mei uses toasted seeds to improve leftover texture.",
+      "timestamp": "2026-02-04T17:47:00Z"
+    },
+    {
+      "memory_id": "u006_n_091",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a spice spoon in the drawer because pouring spices from jars gets messy.",
+      "inferred_memory": "Mei uses a spice spoon to avoid messy seasoning.",
+      "timestamp": "2026-02-05T02:01:00Z"
+    },
+    {
+      "memory_id": "u006_n_092",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like cucumber salads better after they sit for ten minutes.",
+      "inferred_memory": "Mei prefers cucumber salads after a brief rest.",
+      "timestamp": "2026-02-05T11:08:00Z"
+    },
+    {
+      "memory_id": "u006_n_093",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep one emergency noodle packet but add greens so it feels like an actual meal.",
+      "inferred_memory": "Mei upgrades emergency noodles with greens.",
+      "timestamp": "2026-02-05T20:15:00Z"
+    },
+    {
+      "memory_id": "u006_n_094",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer snacks that can be eaten one-handed during grading.",
+      "inferred_memory": "Mei values one-handed snacks during grading.",
+      "timestamp": "2026-02-06T05:22:00Z"
+    },
+    {
+      "memory_id": "u006_n_095",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like warm fruit with plain yogurt when I want something simple at night.",
+      "inferred_memory": "Mei enjoys warm fruit with plain yogurt as a simple night snack.",
+      "timestamp": "2026-02-06T14:29:00Z"
+    },
+    {
+      "memory_id": "u006_n_096",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small jar of toasted sesame paste for quick sauces.",
+      "inferred_memory": "Mei uses toasted sesame paste for quick sauces.",
+      "timestamp": "2026-02-06T23:36:00Z"
+    },
+    {
+      "memory_id": "u006_n_097",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer tea leaves stored in small tins rather than large bags.",
+      "inferred_memory": "Mei prefers storing tea leaves in small tins.",
+      "timestamp": "2026-02-07T08:43:00Z"
+    },
+    {
+      "memory_id": "u006_n_098",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like roasted carrots when they are cut into uneven chunks.",
+      "inferred_memory": "Mei enjoys unevenly cut roasted carrots.",
+      "timestamp": "2026-02-07T17:50:00Z"
+    },
+    {
+      "memory_id": "u006_n_099",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a folded grocery list in my wallet because phone lists disappear under notifications.",
+      "inferred_memory": "Mei uses a paper grocery list as a backup.",
+      "timestamp": "2026-02-08T02:04:00Z"
+    },
+    {
+      "memory_id": "u006_n_100",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer weekday dinners that leave exactly one lunch portion.",
+      "inferred_memory": "Mei likes dinners that produce one lunch portion.",
+      "timestamp": "2026-02-08T11:11:00Z"
+    },
+    {
+      "memory_id": "u006_n_101",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like cold sesame noodles only when the sauce is not sweet.",
+      "inferred_memory": "Mei prefers cold sesame noodles with a non-sweet sauce.",
+      "timestamp": "2026-02-08T20:18:00Z"
+    },
+    {
+      "memory_id": "u006_n_102",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep miso in the fridge for quick soup bases.",
+      "inferred_memory": "Mei keeps miso for quick soup.",
+      "timestamp": "2026-02-09T05:25:00Z"
+    },
+    {
+      "memory_id": "u006_n_103",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer firm persimmons over soft ones.",
+      "inferred_memory": "Mei prefers firm persimmons.",
+      "timestamp": "2026-02-09T14:32:00Z"
+    },
+    {
+      "memory_id": "u006_n_104",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like using cabbage because it survives in the fridge longer than delicate greens.",
+      "inferred_memory": "Mei likes cabbage for its fridge durability.",
+      "timestamp": "2026-02-09T23:39:00Z"
+    },
+    {
+      "memory_id": "u006_n_105",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a little vinegar at work for lunches that taste flat.",
+      "inferred_memory": "Mei uses vinegar to brighten work lunches.",
+      "timestamp": "2026-02-10T08:46:00Z"
+    },
+    {
+      "memory_id": "u006_n_106",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like small bakeries that sell one good savory pastry in the morning.",
+      "inferred_memory": "Mei enjoys small bakeries with a savory morning pastry.",
+      "timestamp": "2026-02-10T17:00:00Z"
+    },
+    {
+      "memory_id": "u006_n_107",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer cooking beans from dry when I have a weekend at home.",
+      "inferred_memory": "Mei likes cooking dry beans on home weekends.",
+      "timestamp": "2026-02-11T02:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_108",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep rice cakes for days when I need a bland snack.",
+      "inferred_memory": "Mei keeps rice cakes for bland-snack days.",
+      "timestamp": "2026-02-11T11:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_109",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like a narrow thermos because it fits next to my lab notebook in my bag.",
+      "inferred_memory": "Mei prefers a narrow thermos that fits beside her notebook.",
+      "timestamp": "2026-02-11T20:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_110",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny jar of honey for morning tea but rarely use it in the afternoon.",
+      "inferred_memory": "Mei uses a small amount of honey mainly for morning tea.",
+      "timestamp": "2026-02-12T05:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_111",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer stir-fries with separate textures rather than everything cooked to the same softness.",
+      "inferred_memory": "Mei likes stir-fries with varied textures.",
+      "timestamp": "2026-02-12T14:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_112",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like eating oranges over the sink because the cleanup is easier.",
+      "inferred_memory": "Mei eats oranges over the sink for easier cleanup.",
+      "timestamp": "2026-02-12T23:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_113",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a small stash of crackers for days when lab timing pushes lunch late.",
+      "inferred_memory": "Mei stores crackers for delayed lunch days.",
+      "timestamp": "2026-02-13T08:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_114",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer grocery stores with clear unit prices.",
+      "inferred_memory": "Mei values clear unit pricing while grocery shopping.",
+      "timestamp": "2026-02-13T17:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_115",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like scallion pancakes when they are crisp and not oily.",
+      "inferred_memory": "Mei prefers crisp, not oily, scallion pancakes.",
+      "timestamp": "2026-02-14T02:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_116",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a list of restaurants with quiet tables rather than only best-food lists.",
+      "inferred_memory": "Mei tracks restaurants with quiet seating.",
+      "timestamp": "2026-02-14T11:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_117",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer fruit that does not bruise easily in a backpack.",
+      "inferred_memory": "Mei chooses backpack-sturdy fruit.",
+      "timestamp": "2026-02-14T20:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_118",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I like a small bowl of broth before grading because it slows me down.",
+      "inferred_memory": "Mei uses broth as a calming pre-grading routine.",
+      "timestamp": "2026-02-15T05:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_119",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I keep a backup lunch in the freezer for weeks when experiments run late.",
+      "inferred_memory": "Mei keeps freezer lunches for late experiment days.",
+      "timestamp": "2026-02-15T14:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_120",
+      "source_agent": "food_dining_agent",
+      "type": "NOISE",
+      "content": "I prefer snacks in reusable containers because crinkly bags are distracting in shared spaces.",
+      "inferred_memory": "Mei stores snacks in reusable containers to reduce noise.",
+      "timestamp": "2026-02-15T23:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_121",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write page numbers on printed articles before I start annotating them.",
+      "inferred_memory": "Mei numbers printed articles before annotation.",
+      "timestamp": "2026-02-16T08:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_122",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate notebook for TA questions that come up more than once.",
+      "inferred_memory": "Mei tracks repeated TA questions in a separate notebook.",
+      "timestamp": "2026-02-16T17:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_123",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like office-hour explanations that start with the student's actual mistake.",
+      "inferred_memory": "Mei prefers teaching explanations that begin from a student's specific error.",
+      "timestamp": "2026-02-17T02:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_124",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I make a tiny legend for symbols before I draw reaction schemes.",
+      "inferred_memory": "Mei uses symbol legends before drawing reaction schemes.",
+      "timestamp": "2026-02-17T11:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_125",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer paper drafts for the first pass of a paragraph because screen drafts make me edit too soon.",
+      "inferred_memory": "Mei prefers paper for early paragraph drafting.",
+      "timestamp": "2026-02-17T20:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_126",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of questions to ask my advisor so I do not spend the meeting rambling.",
+      "inferred_memory": "Mei prepares advisor-meeting questions in advance.",
+      "timestamp": "2026-02-18T05:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_127",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like problem sets where the first example is deliberately plain.",
+      "inferred_memory": "Mei values plain introductory examples in problem sets.",
+      "timestamp": "2026-02-18T14:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_128",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I mark uncertain notes with a small triangle instead of highlighting whole sections.",
+      "inferred_memory": "Mei marks uncertainty with small triangle symbols in notes.",
+      "timestamp": "2026-02-18T23:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_129",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep teaching rubrics in a binder because scrolling during grading slows me down.",
+      "inferred_memory": "Mei stores teaching rubrics in a binder for grading.",
+      "timestamp": "2026-02-19T08:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_130",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer seminar notes that separate methods from results.",
+      "inferred_memory": "Mei organizes seminar notes by methods and results.",
+      "timestamp": "2026-02-19T17:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_131",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write the date on every loose sheet because chemistry paper piles multiply fast.",
+      "inferred_memory": "Mei dates loose academic sheets to manage paper piles.",
+      "timestamp": "2026-02-20T02:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_132",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like mock questions that use unfamiliar molecules rather than repeating the lecture examples.",
+      "inferred_memory": "Mei values mock questions with unfamiliar molecules.",
+      "timestamp": "2026-02-20T11:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_133",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a mistake log for spectroscopy interpretation.",
+      "inferred_memory": "Mei maintains a spectroscopy mistake log.",
+      "timestamp": "2026-02-20T20:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_134",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer ten minutes of retrieval practice over rereading a whole chapter.",
+      "inferred_memory": "Mei favors brief retrieval practice over long rereading.",
+      "timestamp": "2026-02-21T05:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_135",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write reagent abbreviations in the margin the first time they appear.",
+      "inferred_memory": "Mei annotates reagent abbreviations on first use.",
+      "timestamp": "2026-02-21T14:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_136",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like study groups where everyone brings one confusing figure.",
+      "inferred_memory": "Mei prefers study groups centered on confusing figures.",
+      "timestamp": "2026-02-21T23:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_137",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a separate folder for papers I only half understood.",
+      "inferred_memory": "Mei maintains a folder for partially understood papers.",
+      "timestamp": "2026-02-22T08:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_138",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer feedback with line numbers because general comments float away from the draft.",
+      "inferred_memory": "Mei prefers feedback tied to line numbers.",
+      "timestamp": "2026-02-22T17:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_139",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write a one-sentence purpose at the top of each experimental plan.",
+      "inferred_memory": "Mei writes a concise purpose statement for experimental plans.",
+      "timestamp": "2026-02-23T02:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_140",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like chalkboard derivations better when each assumption is written down.",
+      "inferred_memory": "Mei values derivations that explicitly state assumptions.",
+      "timestamp": "2026-02-23T11:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_141",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a running list of glassware names that first-years mix up.",
+      "inferred_memory": "Mei tracks commonly confused glassware terms for teaching.",
+      "timestamp": "2026-02-23T20:33:00Z"
+    },
+    {
+      "memory_id": "u006_n_142",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer reading articles in printed batches of two, not huge stacks.",
+      "inferred_memory": "Mei reads printed articles in small batches.",
+      "timestamp": "2026-02-24T05:40:00Z"
+    },
+    {
+      "memory_id": "u006_n_143",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write down the null result before I start explaining why it happened.",
+      "inferred_memory": "Mei records null results before interpreting them.",
+      "timestamp": "2026-02-24T14:47:00Z"
+    },
+    {
+      "memory_id": "u006_n_144",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like exam review sessions with quiet working time before discussion.",
+      "inferred_memory": "Mei prefers review sessions with individual work before discussion.",
+      "timestamp": "2026-02-24T23:01:00Z"
+    },
+    {
+      "memory_id": "u006_n_145",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep old seminar questions because they reveal what I still do not understand.",
+      "inferred_memory": "Mei saves old seminar questions to track knowledge gaps.",
+      "timestamp": "2026-02-25T08:08:00Z"
+    },
+    {
+      "memory_id": "u006_n_146",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer slide decks with fewer animations because animations hide the structure.",
+      "inferred_memory": "Mei prefers minimally animated slide decks.",
+      "timestamp": "2026-02-25T17:15:00Z"
+    },
+    {
+      "memory_id": "u006_n_147",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write mechanism arrows slowly because rushing them makes me miss charges.",
+      "inferred_memory": "Mei slows down when drawing mechanism arrows to avoid charge errors.",
+      "timestamp": "2026-02-26T02:22:00Z"
+    },
+    {
+      "memory_id": "u006_n_148",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a small checklist for setting up recitation so I do not forget markers or handouts.",
+      "inferred_memory": "Mei uses a recitation setup checklist.",
+      "timestamp": "2026-02-26T11:29:00Z"
+    },
+    {
+      "memory_id": "u006_n_149",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like when practice problems include one intentionally boring control case.",
+      "inferred_memory": "Mei values practice problems with a plain control case.",
+      "timestamp": "2026-02-26T20:36:00Z"
+    },
+    {
+      "memory_id": "u006_n_150",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I summarize each paper as a question before I summarize it as a finding.",
+      "inferred_memory": "Mei frames papers by their research question before their finding.",
+      "timestamp": "2026-02-27T05:43:00Z"
+    },
+    {
+      "memory_id": "u006_n_151",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer meeting notes that end with named next actions.",
+      "inferred_memory": "Mei likes meeting notes with explicit next actions.",
+      "timestamp": "2026-02-27T14:50:00Z"
+    },
+    {
+      "memory_id": "u006_n_152",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a pencil beside printed papers even if I annotate mostly in pen.",
+      "inferred_memory": "Mei keeps a pencil available while reading printed papers.",
+      "timestamp": "2026-02-27T23:04:00Z"
+    },
+    {
+      "memory_id": "u006_n_153",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like explaining acid-base mistakes with charge balance before vocabulary.",
+      "inferred_memory": "Mei teaches acid-base mistakes through charge balance first.",
+      "timestamp": "2026-02-28T08:11:00Z"
+    },
+    {
+      "memory_id": "u006_n_154",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a list of formulas I can derive but still forget under pressure.",
+      "inferred_memory": "Mei tracks formulas she forgets under pressure.",
+      "timestamp": "2026-02-28T17:18:00Z"
+    },
+    {
+      "memory_id": "u006_n_155",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer quiet library floors for reading theory-heavy papers.",
+      "inferred_memory": "Mei likes quiet library spaces for theory-heavy reading.",
+      "timestamp": "2026-03-01T02:25:00Z"
+    },
+    {
+      "memory_id": "u006_n_156",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write sample calculations by hand before putting numbers into a spreadsheet.",
+      "inferred_memory": "Mei hand-writes sample calculations before spreadsheet work.",
+      "timestamp": "2026-03-01T11:32:00Z"
+    },
+    {
+      "memory_id": "u006_n_157",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder for figures I want to redraw more clearly later.",
+      "inferred_memory": "Mei saves figures she wants to redraw.",
+      "timestamp": "2026-03-01T20:39:00Z"
+    },
+    {
+      "memory_id": "u006_n_158",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like student questions submitted before class because I can group them by theme.",
+      "inferred_memory": "Mei prefers advance student questions for thematic grouping.",
+      "timestamp": "2026-03-02T05:46:00Z"
+    },
+    {
+      "memory_id": "u006_n_159",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer grading with one problem at a time across all papers.",
+      "inferred_memory": "Mei grades one problem across all papers before moving on.",
+      "timestamp": "2026-03-02T14:00:00Z"
+    },
+    {
+      "memory_id": "u006_n_160",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a small list of words I overuse in scientific writing.",
+      "inferred_memory": "Mei tracks overused words in her scientific writing.",
+      "timestamp": "2026-03-02T23:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_161",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like lab meeting notes with a separate section for follow-up experiments.",
+      "inferred_memory": "Mei separates follow-up experiments in lab meeting notes.",
+      "timestamp": "2026-03-03T08:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_162",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer citation managers only after I know why a paper matters.",
+      "inferred_memory": "Mei delays citation-manager organization until she understands a paper's relevance.",
+      "timestamp": "2026-03-03T17:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_163",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write confusion directly in the margin instead of pretending the paragraph made sense.",
+      "inferred_memory": "Mei explicitly marks confusion in reading margins.",
+      "timestamp": "2026-03-04T02:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_164",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like teaching equilibrium with physical analogies before equations.",
+      "inferred_memory": "Mei uses physical analogies before equations when teaching equilibrium.",
+      "timestamp": "2026-03-04T11:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_165",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a small timer for focused reading blocks.",
+      "inferred_memory": "Mei uses a timer for focused academic reading.",
+      "timestamp": "2026-03-04T20:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_166",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer revising abstracts after the figures are stable.",
+      "inferred_memory": "Mei revises abstracts after stabilizing figures.",
+      "timestamp": "2026-03-05T05:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_167",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep an index card of common student misconceptions for each recitation topic.",
+      "inferred_memory": "Mei tracks student misconceptions by recitation topic.",
+      "timestamp": "2026-03-05T14:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_168",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like paper titles that state the system clearly instead of using clever phrasing.",
+      "inferred_memory": "Mei prefers clear paper titles over clever titles.",
+      "timestamp": "2026-03-05T23:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_169",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write definitions in my own words before I trust that I know them.",
+      "inferred_memory": "Mei rewrites definitions in her own words to confirm understanding.",
+      "timestamp": "2026-03-06T08:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_170",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer a small whiteboard near my desk for temporary reaction ideas.",
+      "inferred_memory": "Mei uses a small desk-side whiteboard for temporary reaction ideas.",
+      "timestamp": "2026-03-06T17:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_171",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a rejected-idea list because sometimes an old route becomes useful later.",
+      "inferred_memory": "Mei maintains a list of rejected research ideas.",
+      "timestamp": "2026-03-07T02:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_172",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like peer feedback that identifies the first confusing sentence.",
+      "inferred_memory": "Mei values peer feedback that pinpoints the first confusing sentence.",
+      "timestamp": "2026-03-07T11:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_173",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer reviewing mechanisms before lunch rather than at the end of the day.",
+      "inferred_memory": "Mei prefers mechanism review earlier in the day.",
+      "timestamp": "2026-03-07T20:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_174",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a folder of clean handouts for students who miss class.",
+      "inferred_memory": "Mei stores spare clean handouts for absent students.",
+      "timestamp": "2026-03-08T05:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_175",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like qualifying exam prep prompts that force me to say what evidence would change my answer.",
+      "inferred_memory": "Mei values exam prompts that test evidence-based revision.",
+      "timestamp": "2026-03-08T14:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_176",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I write short labels on spectra before comparing them side by side.",
+      "inferred_memory": "Mei labels spectra before side-by-side comparison.",
+      "timestamp": "2026-03-08T23:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_177",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer problem-solving meetings with one shared board rather than everyone staring at laptops.",
+      "inferred_memory": "Mei prefers shared-board problem-solving meetings.",
+      "timestamp": "2026-03-09T08:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_178",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I keep a reading queue separated into urgent, useful, and curiosity papers.",
+      "inferred_memory": "Mei categorizes her reading queue by priority.",
+      "timestamp": "2026-03-09T17:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_179",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I like ending study sessions by writing the next first step.",
+      "inferred_memory": "Mei ends study sessions by recording the next first step.",
+      "timestamp": "2026-03-10T02:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_180",
+      "source_agent": "education_agent",
+      "type": "NOISE",
+      "content": "I prefer examples with real measurement noise because clean numbers hide the hard part.",
+      "inferred_memory": "Mei values examples that include realistic measurement noise.",
+      "timestamp": "2026-03-10T11:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_181",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I stretch my forearms gently after long pipetting blocks.",
+      "inferred_memory": "Mei uses gentle forearm stretching after pipetting.",
+      "timestamp": "2026-03-10T20:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_182",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a lacrosse ball near my desk for foot rolling when I have been standing in lab.",
+      "inferred_memory": "Mei uses a lacrosse ball for foot rolling after standing in lab.",
+      "timestamp": "2026-03-11T05:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_183",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I sleep better when the room is slightly cool.",
+      "inferred_memory": "Mei prefers a slightly cool sleeping environment.",
+      "timestamp": "2026-03-11T14:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_184",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like climbing warmups that start with easy traversing before any problem attempts.",
+      "inferred_memory": "Mei prefers easy traversing as a climbing warmup.",
+      "timestamp": "2026-03-11T23:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_185",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I drink water more reliably when the bottle has volume markings.",
+      "inferred_memory": "Mei uses volume markings to support hydration.",
+      "timestamp": "2026-03-12T08:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_186",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare hair tie in my chalk bag.",
+      "inferred_memory": "Mei keeps a spare hair tie with climbing gear.",
+      "timestamp": "2026-03-12T17:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_187",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer climbing sessions that end before my grip gets sloppy.",
+      "inferred_memory": "Mei likes ending climbing sessions before grip fatigue degrades form.",
+      "timestamp": "2026-03-13T02:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_188",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I notice shoulder tightness if I grade for hours without changing position.",
+      "inferred_memory": "Mei gets shoulder tightness from prolonged grading posture.",
+      "timestamp": "2026-03-13T11:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_189",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like walks along quieter streets when I need to think through a problem.",
+      "inferred_memory": "Mei uses quiet walks to think through problems.",
+      "timestamp": "2026-03-13T20:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_190",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep lip balm in my lab coat because dry lab air bothers me.",
+      "inferred_memory": "Mei keeps lip balm available for dry lab environments.",
+      "timestamp": "2026-03-14T05:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_191",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer short mobility breaks to one long stretching session.",
+      "inferred_memory": "Mei prefers brief mobility breaks over long stretching blocks.",
+      "timestamp": "2026-03-14T14:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_192",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small reminder to unclench my jaw during intense writing.",
+      "inferred_memory": "Mei uses a reminder to reduce jaw tension while writing.",
+      "timestamp": "2026-03-14T23:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_193",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like climbing shoes that are snug but not painful because I lose focus if my feet hurt.",
+      "inferred_memory": "Mei avoids painfully tight climbing shoes.",
+      "timestamp": "2026-03-15T08:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_194",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a light snack in my bag because long lab blocks can stretch unexpectedly.",
+      "inferred_memory": "Mei carries a light snack for unexpectedly long lab blocks.",
+      "timestamp": "2026-03-15T17:33:00Z"
+    },
+    {
+      "memory_id": "u006_n_195",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer morning light through curtains to a loud alarm.",
+      "inferred_memory": "Mei prefers waking with morning light rather than a loud alarm.",
+      "timestamp": "2026-03-16T02:40:00Z"
+    },
+    {
+      "memory_id": "u006_n_196",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small notebook to track patterns when headaches start.",
+      "inferred_memory": "Mei tracks headache patterns in a small notebook.",
+      "timestamp": "2026-03-16T11:47:00Z"
+    },
+    {
+      "memory_id": "u006_n_197",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid heavy shoulder bags when I have a long campus day.",
+      "inferred_memory": "Mei avoids heavy shoulder bags on long campus days.",
+      "timestamp": "2026-03-16T20:01:00Z"
+    },
+    {
+      "memory_id": "u006_n_198",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like bouldering problems where I can work on foot placement rather than just power.",
+      "inferred_memory": "Mei enjoys footwork-focused bouldering problems.",
+      "timestamp": "2026-03-17T05:08:00Z"
+    },
+    {
+      "memory_id": "u006_n_199",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I take stairs slowly after a long day standing rather than treating them like exercise.",
+      "inferred_memory": "Mei takes stairs gently after long standing days.",
+      "timestamp": "2026-03-17T14:15:00Z"
+    },
+    {
+      "memory_id": "u006_n_200",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer electrolyte tablets without a strong sweet taste.",
+      "inferred_memory": "Mei prefers lightly flavored electrolyte tablets.",
+      "timestamp": "2026-03-17T23:22:00Z"
+    },
+    {
+      "memory_id": "u006_n_201",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep blue-light settings on my devices in the evening.",
+      "inferred_memory": "Mei uses evening blue-light settings on devices.",
+      "timestamp": "2026-03-18T08:29:00Z"
+    },
+    {
+      "memory_id": "u006_n_202",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like breathing exercises only when they are short and specific.",
+      "inferred_memory": "Mei prefers brief, specific breathing exercises.",
+      "timestamp": "2026-03-18T17:36:00Z"
+    },
+    {
+      "memory_id": "u006_n_203",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use tape on one finger only when a climbing hold has already irritated it.",
+      "inferred_memory": "Mei uses finger tape reactively for climbing irritation.",
+      "timestamp": "2026-03-19T02:43:00Z"
+    },
+    {
+      "memory_id": "u006_n_204",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer rest days that still include a short walk.",
+      "inferred_memory": "Mei likes rest days with a short walk.",
+      "timestamp": "2026-03-19T11:50:00Z"
+    },
+    {
+      "memory_id": "u006_n_205",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I notice neck tension if my laptop is too low during writing sessions.",
+      "inferred_memory": "Mei gets neck tension from low laptop positioning.",
+      "timestamp": "2026-03-19T20:04:00Z"
+    },
+    {
+      "memory_id": "u006_n_206",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small heating pad at home for tense shoulders.",
+      "inferred_memory": "Mei uses a small heating pad for shoulder tension.",
+      "timestamp": "2026-03-20T05:11:00Z"
+    },
+    {
+      "memory_id": "u006_n_207",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like climbing gyms that have enough easy problems for technique practice.",
+      "inferred_memory": "Mei values climbing gyms with easy technique-focused routes.",
+      "timestamp": "2026-03-20T14:18:00Z"
+    },
+    {
+      "memory_id": "u006_n_208",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer socks with thicker soles when I know I will stand in lab for a long block.",
+      "inferred_memory": "Mei chooses thicker-soled socks for long lab standing.",
+      "timestamp": "2026-03-20T23:25:00Z"
+    },
+    {
+      "memory_id": "u006_n_209",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a water bottle with a narrow opening because it spills less near papers.",
+      "inferred_memory": "Mei uses a narrow-opening water bottle near work materials.",
+      "timestamp": "2026-03-21T08:32:00Z"
+    },
+    {
+      "memory_id": "u006_n_210",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid experimenting with new shoes on days with a lot of walking.",
+      "inferred_memory": "Mei avoids new shoes on high-walking days.",
+      "timestamp": "2026-03-21T17:39:00Z"
+    },
+    {
+      "memory_id": "u006_n_211",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like gentle yoga videos only when they do not have a lot of talking.",
+      "inferred_memory": "Mei prefers minimally talkative gentle yoga videos.",
+      "timestamp": "2026-03-22T02:46:00Z"
+    },
+    {
+      "memory_id": "u006_n_212",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small towel in my climbing bag.",
+      "inferred_memory": "Mei keeps a small towel with climbing gear.",
+      "timestamp": "2026-03-22T11:00:00Z"
+    },
+    {
+      "memory_id": "u006_n_213",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer warm showers after evening climbing because cold showers wake me up too much.",
+      "inferred_memory": "Mei prefers warm showers after evening climbing.",
+      "timestamp": "2026-03-22T20:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_214",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a standing break when I catch myself hunching over spectra.",
+      "inferred_memory": "Mei takes standing breaks when posture worsens during spectra review.",
+      "timestamp": "2026-03-23T05:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_215",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like weekend movement plans that leave space for lab recovery.",
+      "inferred_memory": "Mei prefers weekend exercise plans that account for lab fatigue.",
+      "timestamp": "2026-03-23T14:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_216",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep sunglasses in my bag during spring because bright light can bother me.",
+      "inferred_memory": "Mei carries sunglasses in spring for light sensitivity.",
+      "timestamp": "2026-03-23T23:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_217",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer lower-volume climbing days when my hands already feel tired from lab work.",
+      "inferred_memory": "Mei reduces climbing volume when her hands are tired from lab work.",
+      "timestamp": "2026-03-24T08:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_218",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like tracking sleep with simple notes rather than a complicated app.",
+      "inferred_memory": "Mei tracks sleep with simple notes instead of complex apps.",
+      "timestamp": "2026-03-24T17:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_219",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small wrist rest when I type for administrative tasks.",
+      "inferred_memory": "Mei uses a wrist rest for typing-heavy administrative work.",
+      "timestamp": "2026-03-25T02:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_220",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer walking meetings when the topic does not require documents.",
+      "inferred_memory": "Mei likes walking meetings for document-free topics.",
+      "timestamp": "2026-03-25T11:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_221",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a basic first-aid kit near my climbing gear.",
+      "inferred_memory": "Mei stores a basic first-aid kit with climbing gear.",
+      "timestamp": "2026-03-25T20:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_222",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like stretching calves after standing at the hood for a long time.",
+      "inferred_memory": "Mei stretches her calves after long hood work.",
+      "timestamp": "2026-03-26T05:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_223",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid scheduling intense climbing right after the longest lab days.",
+      "inferred_memory": "Mei avoids intense climbing immediately after long lab days.",
+      "timestamp": "2026-03-26T14:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_224",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer a firm pillow because soft pillows make my neck feel unstable.",
+      "inferred_memory": "Mei prefers firm pillows.",
+      "timestamp": "2026-03-26T23:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_225",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use reminders to look away from the screen when grading electronically.",
+      "inferred_memory": "Mei uses screen-break reminders while grading electronically.",
+      "timestamp": "2026-03-27T08:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_226",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like slow warmups before any activity that needs grip strength.",
+      "inferred_memory": "Mei prefers slow warmups before grip-intensive activity.",
+      "timestamp": "2026-03-27T17:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_227",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a spare pair of glasses at home because contacts get annoying in dry rooms.",
+      "inferred_memory": "Mei keeps backup glasses for dry-room discomfort.",
+      "timestamp": "2026-03-28T02:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_228",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer low-scent laundry detergent because strong scents linger on lab clothes.",
+      "inferred_memory": "Mei prefers low-scent detergent.",
+      "timestamp": "2026-03-28T11:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_229",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I use a small hand cream after washing glassware because my knuckles dry out.",
+      "inferred_memory": "Mei uses hand cream after glassware washing.",
+      "timestamp": "2026-03-28T20:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_230",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like hiking only when the plan includes enough water stops.",
+      "inferred_memory": "Mei prefers hikes with planned water stops.",
+      "timestamp": "2026-03-29T05:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_231",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid skipping breakfast on heavy teaching days.",
+      "inferred_memory": "Mei tries not to skip breakfast on heavy teaching days.",
+      "timestamp": "2026-03-29T14:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_232",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer climbing routes that let me practice balance rather than dynos.",
+      "inferred_memory": "Mei favors balance-focused climbing over dynamic moves.",
+      "timestamp": "2026-03-29T23:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_233",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a small pack of tissues in spring because pollen days are unpredictable.",
+      "inferred_memory": "Mei carries tissues during spring pollen season.",
+      "timestamp": "2026-03-30T08:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_234",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like brief afternoon walks when I feel mentally stuck.",
+      "inferred_memory": "Mei uses brief afternoon walks to reset when mentally stuck.",
+      "timestamp": "2026-03-30T17:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_235",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I avoid long phone scrolling in bed because it makes the night feel shorter.",
+      "inferred_memory": "Mei avoids extended phone scrolling in bed.",
+      "timestamp": "2026-03-31T02:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_236",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer unscented sunscreen on outdoor volunteer days.",
+      "inferred_memory": "Mei prefers unscented sunscreen for outdoor volunteering.",
+      "timestamp": "2026-03-31T11:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_237",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep a reusable ice pack in the freezer for minor climbing tweaks.",
+      "inferred_memory": "Mei keeps an ice pack for minor climbing discomfort.",
+      "timestamp": "2026-03-31T20:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_238",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I like setting a physical book by the bed instead of relying on my phone to wind down.",
+      "inferred_memory": "Mei uses a physical book as a bedtime wind-down cue.",
+      "timestamp": "2026-04-01T05:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_239",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I prefer a slower commute walk after difficult lab days.",
+      "inferred_memory": "Mei uses slower commute walks after difficult lab days.",
+      "timestamp": "2026-04-01T14:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_240",
+      "source_agent": "health_agent",
+      "type": "NOISE",
+      "content": "I keep my chalk bag closed tightly because chalk dust irritates my nose.",
+      "inferred_memory": "Mei closes her chalk bag tightly to reduce chalk dust exposure.",
+      "timestamp": "2026-04-01T23:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_241",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small sinking fund for conference poster printing because it always lands at an awkward time.",
+      "inferred_memory": "Mei budgets separately for conference poster printing.",
+      "timestamp": "2026-04-02T08:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_242",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track fountain pen repair supplies separately from general stationery.",
+      "inferred_memory": "Mei separates fountain pen repair costs from general stationery spending.",
+      "timestamp": "2026-04-02T17:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_243",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying one durable lab-adjacent bag instead of replacing cheap ones every semester.",
+      "inferred_memory": "Mei values durable bags over frequent cheap replacements.",
+      "timestamp": "2026-04-03T02:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_244",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep reimbursement receipts in chronological order because backtracking wastes time.",
+      "inferred_memory": "Mei organizes reimbursement receipts chronologically.",
+      "timestamp": "2026-04-03T11:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_245",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check unit prices before buying pantry staples.",
+      "inferred_memory": "Mei compares unit prices for pantry staples.",
+      "timestamp": "2026-04-03T20:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_246",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small monthly cap for climbing gym guest passes.",
+      "inferred_memory": "Mei budgets a monthly limit for climbing gym guest passes.",
+      "timestamp": "2026-04-04T05:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_247",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer library access over buying books when I only need one chapter.",
+      "inferred_memory": "Mei uses library access instead of buying books for limited reading needs.",
+      "timestamp": "2026-04-04T14:33:00Z"
+    },
+    {
+      "memory_id": "u006_n_248",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep repairable shoes longer if a cobbler can fix the sole.",
+      "inferred_memory": "Mei prefers repairing shoes when practical.",
+      "timestamp": "2026-04-04T23:40:00Z"
+    },
+    {
+      "memory_id": "u006_n_249",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I separate university reimbursement money from personal spending in my notes.",
+      "inferred_memory": "Mei tracks reimbursement money separately from personal spending.",
+      "timestamp": "2026-04-05T08:47:00Z"
+    },
+    {
+      "memory_id": "u006_n_250",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like annual memberships only when I know the break-even point.",
+      "inferred_memory": "Mei evaluates annual memberships by break-even point.",
+      "timestamp": "2026-04-05T17:01:00Z"
+    },
+    {
+      "memory_id": "u006_n_251",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a tiny buffer for forgotten campus printing.",
+      "inferred_memory": "Mei budgets a small buffer for campus printing.",
+      "timestamp": "2026-04-06T02:08:00Z"
+    },
+    {
+      "memory_id": "u006_n_252",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer borrowing specialty tools before buying them for one repair project.",
+      "inferred_memory": "Mei borrows specialty repair tools before buying them.",
+      "timestamp": "2026-04-06T11:15:00Z"
+    },
+    {
+      "memory_id": "u006_n_253",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I save receipts for ink and paper because they are easy to underestimate.",
+      "inferred_memory": "Mei tracks ink and paper expenses carefully.",
+      "timestamp": "2026-04-06T20:22:00Z"
+    },
+    {
+      "memory_id": "u006_n_254",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying snacks from vending machines because they feel like invisible spending.",
+      "inferred_memory": "Mei tries to avoid vending-machine snack spending.",
+      "timestamp": "2026-04-07T05:29:00Z"
+    },
+    {
+      "memory_id": "u006_n_255",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a short list of planned purchases so replacement needs do not become impulse buys.",
+      "inferred_memory": "Mei uses a planned-purchase list to manage replacements.",
+      "timestamp": "2026-04-07T14:36:00Z"
+    },
+    {
+      "memory_id": "u006_n_256",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer free campus talks over paid evening events during the semester.",
+      "inferred_memory": "Mei favors free campus talks over paid events during the semester.",
+      "timestamp": "2026-04-07T23:43:00Z"
+    },
+    {
+      "memory_id": "u006_n_257",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set aside a little money for garden gloves because mine wear out faster than I expect.",
+      "inferred_memory": "Mei budgets for replacement garden gloves.",
+      "timestamp": "2026-04-08T08:50:00Z"
+    },
+    {
+      "memory_id": "u006_n_258",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I buy notebooks in small quantities because I get picky about paper texture.",
+      "inferred_memory": "Mei buys notebooks in small quantities due to paper preferences.",
+      "timestamp": "2026-04-08T17:04:00Z"
+    },
+    {
+      "memory_id": "u006_n_259",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a separate line for transit passes because it makes the rest of the budget clearer.",
+      "inferred_memory": "Mei tracks transit pass costs separately.",
+      "timestamp": "2026-04-09T02:11:00Z"
+    },
+    {
+      "memory_id": "u006_n_260",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer used lab textbooks when the edition differences are minor.",
+      "inferred_memory": "Mei buys used lab textbooks when edition differences are small.",
+      "timestamp": "2026-04-09T11:18:00Z"
+    },
+    {
+      "memory_id": "u006_n_261",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track small repair parts because they can quietly become a hobby budget.",
+      "inferred_memory": "Mei monitors small repair-part expenses.",
+      "timestamp": "2026-04-09T20:25:00Z"
+    },
+    {
+      "memory_id": "u006_n_262",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like bulk grocery buys only for ingredients I already use every week.",
+      "inferred_memory": "Mei limits bulk grocery purchases to frequently used ingredients.",
+      "timestamp": "2026-04-10T05:32:00Z"
+    },
+    {
+      "memory_id": "u006_n_263",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set calendar reminders for reimbursement deadlines.",
+      "inferred_memory": "Mei uses reminders for reimbursement deadlines.",
+      "timestamp": "2026-04-10T14:39:00Z"
+    },
+    {
+      "memory_id": "u006_n_264",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer one good raincoat over replacing umbrellas constantly.",
+      "inferred_memory": "Mei values a durable raincoat to reduce repeated umbrella replacement.",
+      "timestamp": "2026-04-10T23:46:00Z"
+    },
+    {
+      "memory_id": "u006_n_265",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check whether student discounts apply before buying software.",
+      "inferred_memory": "Mei checks student discounts before software purchases.",
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "memory_id": "u006_n_266",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep hobby spending visible because tiny nib purchases add up.",
+      "inferred_memory": "Mei tracks fountain pen nib purchases as hobby spending.",
+      "timestamp": "2026-04-11T17:07:00Z"
+    },
+    {
+      "memory_id": "u006_n_267",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer cooking extra dinner portions over buying campus lunch when the week is busy.",
+      "inferred_memory": "Mei uses extra dinner portions to reduce campus lunch purchases.",
+      "timestamp": "2026-04-12T02:14:00Z"
+    },
+    {
+      "memory_id": "u006_n_268",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small emergency fund category even when other categories are tight.",
+      "inferred_memory": "Mei preserves an emergency fund category.",
+      "timestamp": "2026-04-12T11:21:00Z"
+    },
+    {
+      "memory_id": "u006_n_269",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid paying for expedited shipping unless a teaching deadline depends on it.",
+      "inferred_memory": "Mei reserves expedited shipping for deadline-critical needs.",
+      "timestamp": "2026-04-12T20:28:00Z"
+    },
+    {
+      "memory_id": "u006_n_270",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare repair costs against replacement costs before fixing a pen.",
+      "inferred_memory": "Mei compares fountain pen repair cost with replacement cost.",
+      "timestamp": "2026-04-13T05:35:00Z"
+    },
+    {
+      "memory_id": "u006_n_271",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer public museum free days when my schedule allows them.",
+      "inferred_memory": "Mei takes advantage of museum free days.",
+      "timestamp": "2026-04-13T14:42:00Z"
+    },
+    {
+      "memory_id": "u006_n_272",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep campus coffee spending visible because it disappears in small charges.",
+      "inferred_memory": "Mei tracks campus coffee spending carefully.",
+      "timestamp": "2026-04-13T23:49:00Z"
+    },
+    {
+      "memory_id": "u006_n_273",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set aside money for thesis-related printing even though it is not every month.",
+      "inferred_memory": "Mei budgets for occasional thesis-related printing.",
+      "timestamp": "2026-04-14T08:03:00Z"
+    },
+    {
+      "memory_id": "u006_n_274",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying refill cartridges over new pens when the body still works.",
+      "inferred_memory": "Mei buys refills instead of replacing functional pens.",
+      "timestamp": "2026-04-14T17:10:00Z"
+    },
+    {
+      "memory_id": "u006_n_275",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small gift budget for lab-mate celebrations.",
+      "inferred_memory": "Mei budgets modestly for lab-mate celebrations.",
+      "timestamp": "2026-04-15T02:17:00Z"
+    },
+    {
+      "memory_id": "u006_n_276",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid subscription trials unless I cancel them the same day I start them.",
+      "inferred_memory": "Mei is cautious with subscription trials.",
+      "timestamp": "2026-04-15T11:24:00Z"
+    },
+    {
+      "memory_id": "u006_n_277",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like free community garden swaps because they reduce buying duplicates.",
+      "inferred_memory": "Mei values community garden swaps for reducing duplicate purchases.",
+      "timestamp": "2026-04-15T20:31:00Z"
+    },
+    {
+      "memory_id": "u006_n_278",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I track conference meals separately from regular food spending.",
+      "inferred_memory": "Mei separates conference meals from normal food expenses.",
+      "timestamp": "2026-04-16T05:38:00Z"
+    },
+    {
+      "memory_id": "u006_n_279",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer replacing backpack parts before replacing the whole backpack.",
+      "inferred_memory": "Mei repairs backpack components before replacing the bag.",
+      "timestamp": "2026-04-16T14:45:00Z"
+    },
+    {
+      "memory_id": "u006_n_280",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small monthly amount for printing calligraphy practice sheets.",
+      "inferred_memory": "Mei budgets for calligraphy practice-sheet printing.",
+      "timestamp": "2026-04-16T23:52:00Z"
+    },
+    {
+      "memory_id": "u006_n_281",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying duplicate chargers by keeping one list of what I already own.",
+      "inferred_memory": "Mei tracks owned chargers to avoid duplicates.",
+      "timestamp": "2026-04-17T08:06:00Z"
+    },
+    {
+      "memory_id": "u006_n_282",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer pay-as-you-go workshops over memberships when my semester schedule is uncertain.",
+      "inferred_memory": "Mei favors pay-as-you-go workshops during uncertain semesters.",
+      "timestamp": "2026-04-17T17:13:00Z"
+    },
+    {
+      "memory_id": "u006_n_283",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep shipping boxes from fragile supplies if I know I may need to send something back.",
+      "inferred_memory": "Mei saves shipping boxes for potential returns.",
+      "timestamp": "2026-04-18T02:20:00Z"
+    },
+    {
+      "memory_id": "u006_n_284",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I check whether a purchase can wait until after a reimbursement clears.",
+      "inferred_memory": "Mei times purchases around reimbursement clearing.",
+      "timestamp": "2026-04-18T11:27:00Z"
+    },
+    {
+      "memory_id": "u006_n_285",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer repairing garden tools if the handle is the only problem.",
+      "inferred_memory": "Mei repairs garden tools when only the handle is damaged.",
+      "timestamp": "2026-04-18T20:34:00Z"
+    },
+    {
+      "memory_id": "u006_n_286",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a note of recurring academic fees so they do not surprise me.",
+      "inferred_memory": "Mei tracks recurring academic fees.",
+      "timestamp": "2026-04-19T05:41:00Z"
+    },
+    {
+      "memory_id": "u006_n_287",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid convenience-store purchases near campus because they rarely match the budget.",
+      "inferred_memory": "Mei avoids campus-area convenience-store spending.",
+      "timestamp": "2026-04-19T14:48:00Z"
+    },
+    {
+      "memory_id": "u006_n_288",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I like shared supply orders when lab mates need the same basic item.",
+      "inferred_memory": "Mei prefers shared supply orders when practical.",
+      "timestamp": "2026-04-19T23:02:00Z"
+    },
+    {
+      "memory_id": "u006_n_289",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a modest line for Boston winter gear because replacing it all at once is expensive.",
+      "inferred_memory": "Mei budgets modestly for Boston winter gear.",
+      "timestamp": "2026-04-20T08:09:00Z"
+    },
+    {
+      "memory_id": "u006_n_290",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I compare transit pass options before the semester starts.",
+      "inferred_memory": "Mei reviews transit pass options before each semester.",
+      "timestamp": "2026-04-20T17:16:00Z"
+    },
+    {
+      "memory_id": "u006_n_291",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer a simple spreadsheet over a complex budgeting app.",
+      "inferred_memory": "Mei prefers simple spreadsheet budgeting.",
+      "timestamp": "2026-04-21T02:23:00Z"
+    },
+    {
+      "memory_id": "u006_n_292",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a list of items that are worth buying at the campus surplus store.",
+      "inferred_memory": "Mei tracks useful campus surplus purchases.",
+      "timestamp": "2026-04-21T11:30:00Z"
+    },
+    {
+      "memory_id": "u006_n_293",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid buying new calligraphy paper until I finish the open pack.",
+      "inferred_memory": "Mei waits to finish open calligraphy paper before buying more.",
+      "timestamp": "2026-04-21T20:37:00Z"
+    },
+    {
+      "memory_id": "u006_n_294",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I set a small cap for conference souvenirs.",
+      "inferred_memory": "Mei limits spending on conference souvenirs.",
+      "timestamp": "2026-04-22T05:44:00Z"
+    },
+    {
+      "memory_id": "u006_n_295",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer buying replacement parts from the original maker when fit matters.",
+      "inferred_memory": "Mei uses original-maker replacement parts when fit is important.",
+      "timestamp": "2026-04-22T14:51:00Z"
+    },
+    {
+      "memory_id": "u006_n_296",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a running total of reimbursements I am waiting on.",
+      "inferred_memory": "Mei tracks pending reimbursements.",
+      "timestamp": "2026-04-22T23:05:00Z"
+    },
+    {
+      "memory_id": "u006_n_297",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I avoid upgrading devices while the current one still handles reading and writing tasks.",
+      "inferred_memory": "Mei delays device upgrades while current devices meet academic needs.",
+      "timestamp": "2026-04-23T08:12:00Z"
+    },
+    {
+      "memory_id": "u006_n_298",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I prefer checking the library's equipment lending first for occasional-use tools.",
+      "inferred_memory": "Mei checks library equipment lending before buying occasional-use tools.",
+      "timestamp": "2026-04-23T17:19:00Z"
+    },
+    {
+      "memory_id": "u006_n_299",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I keep a small line for plant starts in spring.",
+      "inferred_memory": "Mei budgets a small amount for spring plant starts.",
+      "timestamp": "2026-04-24T02:26:00Z"
+    },
+    {
+      "memory_id": "u006_n_300",
+      "source_agent": "financial_agent",
+      "type": "NOISE",
+      "content": "I review spending after conferences because travel days blur small purchases together.",
+      "inferred_memory": "Mei reviews spending after conferences to identify small purchases.",
+      "timestamp": "2026-04-24T11:33:00Z"
+    }
+  ]
+}

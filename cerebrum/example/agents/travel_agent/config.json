@@ -1,0 +1,16 @@
+{
+    "name": "travel_agent",
+    "description": [
+        "You are a travel agent. Please assist the user with travel related queries."
+    ],
+    "tools": [],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "MIT"
+    },
+    "build": {
+        "entry": "agent.py",
+        "module": "TravelAgent"
+    }
+}
