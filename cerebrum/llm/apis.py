@@ -290,7 +290,8 @@ def llm_chat(
         llms=llms,
         messages=messages,
         tools=None,
-        action_type="chat"
+        action_type="chat",
+        temperature=0.0,
     )
     return send_request(agent_name, query, base_url)
 

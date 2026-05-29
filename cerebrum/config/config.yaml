@@ -20,3 +20,11 @@ manager:
 # tool:
 #   max_retries: 3
 #   timeout: 60 
+
+memory:
+  log_mode: "console"
+  auto_extract: false
+  auto_inject: true
+  relevance_threshold: 0.3
+  max_injected_memories: 10
+  max_memory_tokens: 2000

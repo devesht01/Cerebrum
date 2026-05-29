@@ -67,10 +67,13 @@ def send_request(agent_name: str, query: Query, base_url: str = aios_kernel_url)
     Returns:
         Parsed JSON response from the AIOS kernel
     """
+    print(f"🍏[DEBUG] Sending request to kernel with data: {query.model_dump()}")
     query_type = query.query_class
     result = post(base_url, "/query", {
         'query_type': query_type,
         'agent_name': agent_name,
         'query_data': query.model_dump()})
+   # print(f"🍏[DEBUG] Received response from kernel: {result}")
+    print("\n\n")
 
     return result

@@ -48,7 +48,9 @@ class TravelAgent:
             # Append user query
             self.messages.append({"role": "user", "content": task_input})
 
-            # Call LLM — kernel handles memory injection and extraction
+            # Call LLM — kernel handles memory injection and extraction 
+            #MAYBE HERE WE NEED TEMP SET?
+            
             response = llm_chat(
                 agent_name=self.agent_name,
                 messages=self.messages,
